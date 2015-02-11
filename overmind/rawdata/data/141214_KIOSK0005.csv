@@ -1,0 +1,34 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+2007,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 20:19:35.292000+00:00
+2008,"Subcategory ISINGLEm_Sorry button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 20:19:43.772000+00:00
+2009,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/ISINGLEm_Sorry/",blank,,blank,,2014-12-14 20:19:46.352000+00:00
+2010,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 20:19:49.323000+00:00
+2011,"Artist search for Suzanne Locascio,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 20:19:53.149000+00:00
+2012,"Opened suzabee_20140529174959.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Suzanne%20Locascio",blank,,blank,,2014-12-14 20:19:57.259000+00:00
+2013,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Suzanne%20Locascio",blank,,blank,,2014-12-14 20:20:01.557000+00:00
+2014,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Suzanne%20Locascio",blank,,blank,,2014-12-14 20:20:08.580000+00:00
+2015,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Suzanne%20Locascio",blank,,blank,,2014-12-14 20:20:13.314000+00:00
+2016,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Suzanne%20Locascio",blank,,blank,,2014-12-14 20:20:15.693000+00:00
+2017,"info@cardisle.com email address,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 20:20:16.463000+00:00
+2018,"Preview for Your Town ad,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 20:27:38.297000+00:00
+2019,"Preview for Your Town ad,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 20:27:38.644000+00:00
+2020,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 20:27:39.583000+00:00
+2021,          Hourly restart,blank,blank,blank,blank,2014-12-14 20:33:30.936000+00:00
+2022,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 21:22:51.905000+00:00
+2023,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-14 21:23:05.022000+00:00
+2024,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 22:23:23.226000+00:00
+2025,"Opened harveycreasey_20141029193943.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:24:19.758000+00:00
+2026,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:24:24.269000+00:00
+2027,"Opened pigButts.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:25:30.300000+00:00
+2028,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:25:33.831000+00:00
+2029,"Opened jailCell.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:26:30.051000+00:00
+2030,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:26:34.567000+00:00
+2031,"Opened eli_christopher_20141103041003.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:27:29.011000+00:00
+2032,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:27:31.410000+00:00
+2033,"Opened katherinehall_20141201192130.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:27:43.591000+00:00
+2034,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:27:47.970000+00:00
+2035,"Opened harveycreasey_20141204055936.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:27:51.500000+00:00
+2036,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:27:53.390000+00:00
+2037,"Opened harveycreasey_20141203214712.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:27:57.959000+00:00
+2038,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:28:00.166000+00:00
+2039,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 22:28:03.882000+00:00

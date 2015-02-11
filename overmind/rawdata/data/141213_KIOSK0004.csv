@@ -1,0 +1,61 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+4116,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 07:13:34.941000+00:00
+4117,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-13 07:13:39.356000+00:00
+4118,          Hourly restart,blank,blank,blank,blank,2014-12-13 07:19:34.195000+00:00
+4119,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 14:23:05.215000+00:00
+4120,"Suggestive button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-13 14:23:33.027000+00:00
+4121,"Suggestive button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-13 14:23:35.560000+00:00
+4122,"Suggestive TOGGLE,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-13 14:23:41.143000+00:00
+4123,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-13 14:23:54.031000+00:00
+4124,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 17:18:18.379000+00:00
+4125,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 17:55:22.068000+00:00
+4126,          Hourly restart,blank,blank,blank,blank,2014-12-13 18:01:13.430000+00:00
+4127,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 18:15:26.716000+00:00
+4128,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 18:15:35.944000+00:00
+4129,"Subcategory Everything button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 18:15:37.716000+00:00
+4130,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-13 18:16:23.624000+00:00
+4131,"Opened denbento_20141001084527.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-13 18:16:49.244000+00:00
+4132,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-13 18:16:59.177000+00:00
+4133,"Christopher Crowley preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-13 18:17:02.802000+00:00
+4134,"stephan sabo preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Local&prefV0=24060&prefN1=Artists&prefV1=ChristopherSPACECrowley",blank,,blank,,2014-12-13 18:17:06.822000+00:00
+4135,"Allie Kelley preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Local&prefV0=24060&prefN1=Artists&prefV1=stephanSPACEsaboANDANDChristopherSPACECrowley",blank,,blank,,2014-12-13 18:17:11.076000+00:00
+4136,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Local&prefV0=24060&prefN1=Artists&prefV1=AllieSPACEKelleyANDANDstephanSPACEsaboANDANDChristopherSPACECrowley",blank,,blank,,2014-12-13 18:17:17.287000+00:00
+4137,Nathan Cooke preference value button,blank,,blank,,2014-12-13 18:17:41.374000+00:00
+4138,Adam Donato preference value button,blank,,blank,,2014-12-13 18:17:50.697000+00:00
+4139,Jackie Harder preference value button,blank,,blank,,2014-12-13 18:17:59.473000+00:00
+4140,Den Bento preference value button,blank,,blank,,2014-12-13 18:18:06.204000+00:00
+4141,Davis Snider preference value button,blank,,blank,,2014-12-13 18:18:09.816000+00:00
+4142,Katherine Devine preference value button,blank,,blank,,2014-12-13 18:18:28.956000+00:00
+4143,Molly Helton preference value button,blank,,blank,,2014-12-13 18:18:39.280000+00:00
+4144,Ida Kao preference value button,blank,,blank,,2014-12-13 18:18:52.440000+00:00
+4145,Caitlyn Keir preference value button,blank,,blank,,2014-12-13 18:19:07.075000+00:00
+4146,Kearah Donato preference value button,blank,,blank,,2014-12-13 18:19:22.696000+00:00
+4147,Gerri Young preference value button,blank,,blank,,2014-12-13 18:19:35.491000+00:00
+4148,Opened KearahDonatoOrchid.jpg,blank,,blank,,2014-12-13 18:19:38.304000+00:00
+4149,X button used to close,blank,,blank,,2014-12-13 18:19:39.729000+00:00
+4150,Marielle Stoeltzing preference value button,blank,,blank,,2014-12-13 18:19:55.877000+00:00
+4151,Hannah Stafford preference value button,blank,,blank,,2014-12-13 18:20:14.151000+00:00
+4152,Local Yocal preference value button,blank,,blank,,2014-12-13 18:20:32.770000+00:00
+4153,Megan Lopez preference value button,blank,,blank,,2014-12-13 18:21:02.857000+00:00
+4154,Bijan Peters preference value button,blank,,blank,,2014-12-13 18:21:17.538000+00:00
+4155,Opened caitlynkeir_20141029233918.jpg,blank,,blank,,2014-12-13 18:21:43.940000+00:00
+4156,X button used to close,blank,,blank,,2014-12-13 18:21:47.564000+00:00
+4157,Opened jerryrendich_20141031205130.jpg,blank,,blank,,2014-12-13 18:22:09.598000+00:00
+4158,X button used to close,blank,,blank,,2014-12-13 18:22:17.152000+00:00
+4159,Gerri Young preference value TOP button,blank,,blank,,2014-12-13 18:22:19.244000+00:00
+4160,Den Bento preference value TOP button,blank,,blank,,2014-12-13 18:22:23.587000+00:00
+4161,Back button to start screen,blank,,blank,,2014-12-13 18:22:27.721000+00:00
+4162,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 18:22:33.022000+00:00
+4163,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-13 18:22:44.696000+00:00
+4164,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=JerrySPACERendich",blank,,blank,,2014-12-13 18:22:55.441000+00:00
+4165,"Alexis Rawlins preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucasANDANDJerrySPACERendich",blank,,blank,,2014-12-13 18:22:59.007000+00:00
+4166,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlinsANDANDAshleySPACELucasANDANDJerrySPACERendich",blank,,blank,,2014-12-13 18:23:06.515000+00:00
+4167,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 18:23:19.920000+00:00
+4168,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-13 18:23:23.657000+00:00
+4169,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 18:23:31.270000+00:00
+4170,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-13 18:23:35.540000+00:00
+4171,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 00:49:50.383000+00:00
+4172,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 00:49:52.466000+00:00
+4173,"Opened jerryrendich_20141031204927.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 00:50:07.379000+00:00
+4174,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 00:50:10.329000+00:00
+4175,          Hourly restart,blank,blank,blank,blank,2014-12-14 00:56:30.016000+00:00

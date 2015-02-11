@@ -1,0 +1,57 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+4122,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 14:37:50.970000+00:00
+4123,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 14:37:52.670000+00:00
+4124,"Opened tleighanna_20140930045816.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-03 14:37:58.043000+00:00
+4125,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-03 14:37:58.708000+00:00
+4126,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-03 14:37:58.971000+00:00
+4127,"Opened annejht_20140503113806.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-03 14:38:07.061000+00:00
+4128,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-03 14:38:08.399000+00:00
+4129,"Opened sandHearts.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-03 14:38:26.604000+00:00
+4130,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,sandHearts.jpg,2014-12-03 14:38:28.953000+00:00
+4131,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-03 14:38:33.134000+00:00
+4132,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-03 14:38:33.745000+00:00
+4133,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-03 14:38:35.986000+00:00
+4134,"Suggestive button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-03 14:38:39.271000+00:00
+4135,          Hourly restart,blank,blank,blank,blank,2014-12-03 14:44:30.688000+00:00
+4136,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 14:48:06.471000+00:00
+4137,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 14:48:09.031000+00:00
+4138,"Opened Magicchristmasreindeer-by-RobertasPezas.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 14:48:17.556000+00:00
+4139,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 14:48:21.268000+00:00
+4140,"Opened running.river_20141109034007.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 14:48:35.947000+00:00
+4141,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 14:48:46.547000+00:00
+4142,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 14:48:50.382000+00:00
+4143,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 14:48:51.733000+00:00
+4144,"Sandra McFarland preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 14:49:03.299000+00:00
+4145,"Tina Repass preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=SandraSPACEMcFarland",blank,,blank,,2014-12-03 14:49:07.863000+00:00
+4146,"Freevectors preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=TinaSPACERepassANDANDSandraSPACEMcFarland",blank,,blank,,2014-12-03 14:49:10.848000+00:00
+4147,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=emptySPACEFreevectorsANDANDTinaSPACERepassANDANDSandraSPACEMcFarland",blank,,blank,,2014-12-03 14:49:16.136000+00:00
+4148,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 16:14:30.859000+00:00
+4149,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 16:14:36.017000+00:00
+4150,"Opened katealbee_20141107205806.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 16:14:54.221000+00:00
+4151,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 16:14:58.125000+00:00
+4152,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 16:15:00.240000+00:00
+4153,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,katealbee_20141107205806.jpg,2014-12-03 16:15:04.057000+00:00
+4154,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 16:15:07.647000+00:00
+4155,          Hourly restart,blank,blank,blank,blank,2014-12-03 16:20:55.084000+00:00
+4156,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 16:37:37.331000+00:00
+4157,"Opened tinybee_20141031055132.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 16:37:44.582000+00:00
+4158,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 16:37:46.892000+00:00
+4159,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 16:37:48.469000+00:00
+4160,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,h,blank,,2014-12-03 16:37:51.885000+00:00
+4161,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 16:37:52.094000+00:00
+4162,"Preview for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 16:38:09.731000+00:00
+4163,"Preview for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 16:38:10.019000+00:00
+4164,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 16:38:10.373000+00:00
+4165,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 16:38:13.763000+00:00
+4166,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 16:38:14.352000+00:00
+4167,"Opened Torg.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-03 16:38:19.329000+00:00
+4168,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-03 16:38:19.907000+00:00
+4169,RUNNING AGAIN: closing IE,blank,blank,blank,blank,2014-12-03 16:38:57.854000+00:00
+4170,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 18:59:11.412000+00:00
+4171,"Subcategory ISINGLEm_Sorry button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:07:56.437000+00:00
+4172,          Hourly restart,blank,blank,blank,blank,2014-12-03 19:13:48.016000+00:00
+4173,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:40:22.913000+00:00
+4174,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 19:40:27.805000+00:00
+4175,"Opened jerryrendich_20141031142109.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-03 19:40:30.574000+00:00
+4176,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-03 19:40:37.541000+00:00
+4177,          Hourly restart,blank,blank,blank,blank,2014-12-03 19:46:28.482000+00:00

@@ -1,0 +1,50 @@
+a {
+    color: red;
+}
+
+p {
+	color: green;
+}
+
+body {
+	background: white url("images/kiosk.gif") no-repeat right bottom;
+}
+.kiosks {
+    background-color:#eeeeee;
+    color:white;
+    margin:20px;
+    padding:20px;
+}
+.sales_summary {
+    background-color:#480000;
+    color:white;
+    margin:5px;
+    padding:5px;
+}
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    float:bottom;
+    padding:5px;	 	 
+}

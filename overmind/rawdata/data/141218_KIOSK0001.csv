@@ -1,0 +1,188 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+1433,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 10:28:35.135000+00:00
+1434,"Opened ColorfulChristmasTrees-by-vectorpile.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 10:28:37.550000+00:00
+1435,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 10:28:39.091000+00:00
+1436,          Page timeout,blank,blank,blank,blank,2014-12-19 10:34:43.575000+00:00
+1437,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 10:36:21.935000+00:00
+1438,"Opened emilyj_20140428011414.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-19 10:36:25.654000+00:00
+1439,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-19 10:36:26.961000+00:00
+1440,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,No one I'd rather ride this life with. ,blank,,2014-12-19 10:36:27.615000+00:00
+1441,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,No one I'd rather ride this life with. ,blank,,2014-12-19 10:36:28.846000+00:00
+1442,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,No one I'd rather ride this life with. ,blank,emilyj_20140428011414.jpg,2014-12-19 10:36:30.107000+00:00
+1443,"Successful coupon: pennytest,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,No one I'd rather ride this life with. ,blank,emilyj_20140428011414.jpg,2014-12-19 10:36:37.833000+00:00
+1444,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,No one I'd rather ride this life with. ,blank,,2014-12-19 10:36:49.809000+00:00
+1445,          Page timeout,blank,blank,blank,blank,2014-12-19 10:42:31.758000+00:00
+1446,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 12:45:18.239000+00:00
+1447,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 12:45:25.782000+00:00
+1448,"Christmas preference value button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 12:45:32.098000+00:00
+1449,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,,blank,,2014-12-19 12:45:41.240000+00:00
+1450,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,,blank,,2014-12-19 12:45:51.121000+00:00
+1451,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,,blank,,2014-12-19 12:45:55.260000+00:00
+1452,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,ha,blank,,2014-12-19 12:46:01.643000+00:00
+1453,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 12:46:37.496000+00:00
+1454,"credit,CYNTHIA ,STAFFORD,1418993236----------------------------------------------------------------------------------------",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 12:47:16.267000+00:00
+1455,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 12:47:21.278000+00:00
+1456,blank,blank,blank,blank,blank,2014-12-19 12:47:21.478000+00:00
+1457,blank,blank,blank,blank,blank,2014-12-19 12:47:21.592000+00:00
+1458,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 12:47:40.078000+00:00
+1459,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 12:47:52.433000+00:00
+1460,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 12:48:00.507000+00:00
+1461,"Christmas preference value button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 12:48:12.124000+00:00
+1462,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,,blank,,2014-12-19 12:48:24.665000+00:00
+1463,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,,blank,,2014-12-19 12:48:32.060000+00:00
+1464,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,,blank,,2014-12-19 12:48:35.095000+00:00
+1465,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 12:49:15.890000+00:00
+1466,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,Happy Holidays!,blank,,2014-12-19 12:51:48.087000+00:00
+1467,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,Happy Holidays!,blank,,2014-12-19 12:55:26.195000+00:00
+1468,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,May your day be full of surprises!,blank,,2014-12-19 12:59:47.499000+00:00
+1469,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,May your day beHapp full of surprises!,blank,,2014-12-19 12:59:58.840000+00:00
+1470,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:00:28.257000+00:00
+1471,"credit,CYNTHIA ,STAFFORD,1418994039----------------------------------------------------------------------------------------",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:00:38.652000+00:00
+1472,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford&prefN0=Categories&prefV0=Christmas",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:00:43.662000+00:00
+1473,blank,blank,blank,blank,blank,2014-12-19 13:00:43.863000+00:00
+1474,blank,blank,blank,blank,blank,2014-12-19 13:00:44.041000+00:00
+1475,No prints in queue,blank,blank,blank,blank,2014-12-19 13:01:59.617000+00:00
+1476,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 13:02:09.811000+00:00
+1477,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:02:16.760000+00:00
+1478,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:02:22.439000+00:00
+1479,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:02:24.878000+00:00
+1480,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:02:32.760000+00:00
+1481,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:02:35.009000+00:00
+1482,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:02:53.067000+00:00
+1483,"credit,CYNTHIA ,STAFFORD,1418994185----------------------------------------------------------------------------------------",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:03:04.538000+00:00
+1484,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:03:09.546000+00:00
+1485,blank,blank,blank,blank,blank,2014-12-19 13:03:09.761000+00:00
+1486,blank,blank,blank,blank,blank,2014-12-19 13:03:09.872000+00:00
+1487,No prints in queue,blank,blank,blank,blank,2014-12-19 13:04:35.422000+00:00
+1488,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 13:04:47.387000+00:00
+1489,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:04:49.971000+00:00
+1490,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:04:55.195000+00:00
+1491,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:04:57.567000+00:00
+1492,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:05:03.279000+00:00
+1493,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:05:11.707000+00:00
+1494,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holdays!,blank,,2014-12-19 13:05:35.610000+00:00
+1495,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holdays!,blank,,2014-12-19 13:05:36.762000+00:00
+1496,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,,2014-12-19 13:05:49.503000+00:00
+1497,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,,2014-12-19 13:05:50.786000+00:00
+1498,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:05:55.173000+00:00
+1499,"credit,CYNTHIA ,STAFFORD,1418994361----------------------------------------------------------------------------------------",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:06:01.412000+00:00
+1500,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:06:06.421000+00:00
+1501,blank,blank,blank,blank,blank,2014-12-19 13:06:06.626000+00:00
+1502,blank,blank,blank,blank,blank,2014-12-19 13:06:06.738000+00:00
+1503,No prints in queue,blank,blank,blank,blank,2014-12-19 13:07:22.289000+00:00
+1504,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 13:07:25.096000+00:00
+1505,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:07:27.164000+00:00
+1506,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:07:32.443000+00:00
+1507,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:07:34.856000+00:00
+1508,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:07:38.300000+00:00
+1509,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:07:39.699000+00:00
+1510,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidys!,blank,,2014-12-19 13:07:55.395000+00:00
+1511,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidys!,blank,,2014-12-19 13:07:56.457000+00:00
+1512,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,,2014-12-19 13:08:02.703000+00:00
+1513,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:08:04.358000+00:00
+1514,"credit,CYNTHIA ,STAFFORD,1418994490----------------------------------------------------------------------------------------",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:08:09.724000+00:00
+1515,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:08:14.733000+00:00
+1516,blank,blank,blank,blank,blank,2014-12-19 13:08:14.963000+00:00
+1517,blank,blank,blank,blank,blank,2014-12-19 13:08:15.112000+00:00
+1518,No prints in queue,blank,blank,blank,blank,2014-12-19 13:09:58.681000+00:00
+1519,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 13:10:13.712000+00:00
+1520,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:10:16.318000+00:00
+1521,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:10:20.496000+00:00
+1522,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:10:23.834000+00:00
+1523,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:10:24.940000+00:00
+1524,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:10:26.452000+00:00
+1525,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:10:52.658000+00:00
+1526,"credit,CYNTHIA ,STAFFORD,1418994659----------------------------------------------------------------------------------------",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:10:59.255000+00:00
+1527,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:11:04.265000+00:00
+1528,blank,blank,blank,blank,blank,2014-12-19 13:11:04.474000+00:00
+1529,blank,blank,blank,blank,blank,2014-12-19 13:11:04.583000+00:00
+1530,No prints in queue,blank,blank,blank,blank,2014-12-19 13:12:34.143000+00:00
+1531,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 13:12:44.044000+00:00
+1532,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:12:45.788000+00:00
+1533,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:12:50.186000+00:00
+1534,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:12:53.174000+00:00
+1535,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:12:55.353000+00:00
+1536,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:12:56.597000+00:00
+1537,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:13:20.059000+00:00
+1538,"credit,CYNTHIA ,STAFFORD,1418994811----------------------------------------------------------------------------------------",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:13:31.456000+00:00
+1539,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:13:36.466000+00:00
+1540,blank,blank,blank,blank,blank,2014-12-19 13:13:36.681000+00:00
+1541,blank,blank,blank,blank,blank,2014-12-19 13:13:36.784000+00:00
+1542,No prints in queue,blank,blank,blank,blank,2014-12-19 13:15:08.343000+00:00
+1543,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 13:15:18.380000+00:00
+1544,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:15:20.211000+00:00
+1545,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:15:27.853000+00:00
+1546,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:15:29.912000+00:00
+1547,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:15:31.080000+00:00
+1548,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:15:36.443000+00:00
+1549,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:16:12.924000+00:00
+1550,"credit,CYNTHIA ,STAFFORD,1418994978----------------------------------------------------------------------------------------",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:16:18.275000+00:00
+1551,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:16:23.280000+00:00
+1552,blank,blank,blank,blank,blank,2014-12-19 13:16:23.499000+00:00
+1553,blank,blank,blank,blank,blank,2014-12-19 13:16:23.603000+00:00
+1554,No prints in queue,blank,blank,blank,blank,2014-12-19 13:17:45.154000+00:00
+1555,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 13:18:00.178000+00:00
+1556,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:18:12.589000+00:00
+1557,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:18:16.548000+00:00
+1558,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:18:21.419000+00:00
+1559,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:18:27.236000+00:00
+1560,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:18:28.435000+00:00
+1561,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:18:46.087000+00:00
+1562,"credit,CYNTHIA ,STAFFORD,1418995131----------------------------------------------------------------------------------------",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:18:51.522000+00:00
+1563,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:18:56.525000+00:00
+1564,blank,blank,blank,blank,blank,2014-12-19 13:18:56.738000+00:00
+1565,blank,blank,blank,blank,blank,2014-12-19 13:18:56.896000+00:00
+1566,No prints in queue,blank,blank,blank,blank,2014-12-19 13:20:20.454000+00:00
+1567,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 13:20:32.389000+00:00
+1568,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:20:36.142000+00:00
+1569,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:20:40.321000+00:00
+1570,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:20:42.366000+00:00
+1571,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:20:43.110000+00:00
+1572,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:20:44.378000+00:00
+1573,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:21:15.961000+00:00
+1574,"credit,CYNTHIA ,STAFFORD,1418995282----------------------------------------------------------------------------------------",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:21:21.863000+00:00
+1575,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy Holidays!,blank,hannah_20141210173049.jpg,2014-12-19 13:21:26.873000+00:00
+1576,blank,blank,blank,blank,blank,2014-12-19 13:21:27.092000+00:00
+1577,blank,blank,blank,blank,blank,2014-12-19 13:21:27.192000+00:00
+1578,No prints in queue,blank,blank,blank,blank,2014-12-19 13:22:55.052000+00:00
+1579,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 13:23:10.075000+00:00
+1580,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:24:16.947000+00:00
+1581,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:24:22.478000+00:00
+1582,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:24:24.732000+00:00
+1583,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:24:25.629000+00:00
+1584,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:24:26.977000+00:00
+1585,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,",blank,,2014-12-19 13:25:08.407000+00:00
+1586,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,",blank,,2014-12-19 13:25:09.379000+00:00
+1587,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,",blank,,2014-12-19 13:25:09.962000+00:00
+1588,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,",blank,,2014-12-19 13:25:10.188000+00:00
+1589,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,",blank,,2014-12-19 13:25:10.975000+00:00
+1590,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,",blank,,2014-12-19 13:25:11.428000+00:00
+1591,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,",blank,,2014-12-19 13:25:11.675000+00:00
+1592,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14years old",blank,,2014-12-19 13:27:59.965000+00:00
+1593,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 years old",blank,,2014-12-19 13:28:02.985000+00:00
+1594,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 years old and she won a contest ",blank,,2014-12-19 13:28:58.793000+00:00
+1595,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 years old and she won a high school contest ",blank,,2014-12-19 13:29:12.910000+00:00
+1596,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 years old and beautiful inside and out. Love, Your Grandma",blank,hannah_20141210173049.jpg,2014-12-19 13:31:09.092000+00:00
+1597,"credit,CYNTHIA ,STAFFORD,1418995875----------------------------------------------------------------------------------------",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 years old and beautiful inside and out. Love, Your Grandma",blank,hannah_20141210173049.jpg,2014-12-19 13:31:15.435000+00:00
+1598,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 years old and beautiful inside and out. Love, Your Grandma",blank,hannah_20141210173049.jpg,2014-12-19 13:31:20.443000+00:00
+1599,blank,blank,blank,blank,blank,2014-12-19 13:31:20.661000+00:00
+1600,blank,blank,blank,blank,blank,2014-12-19 13:31:20.797000+00:00
+1601,No prints in queue,blank,blank,blank,blank,2014-12-19 13:32:38.368000+00:00
+1602,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 13:32:52.247000+00:00
+1603,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:32:57.556000+00:00
+1604,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 13:33:04.749000+00:00
+1605,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:33:06.962000+00:00
+1606,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:33:11.831000+00:00
+1607,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-19 13:33:13.761000+00:00
+1608,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14years ",blank,,2014-12-19 13:35:42.650000+00:00
+1609,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14years ",blank,,2014-12-19 13:35:43.596000+00:00
+1610,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 years ",blank,,2014-12-19 13:35:45.550000+00:00
+1611,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 years old, amazing, and beautiful. Love, Your Grandm",blank,,2014-12-19 13:37:20.837000+00:00
+1612,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 yrs old, amazing, and beautiful. Love, Your Grandm",blank,,2014-12-19 13:37:30.662000+00:00
+1613,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 yrs old, amazing, and beautiful. Love, Your Grandma",blank,hannah_20141210173049.jpg,2014-12-19 13:37:47.953000+00:00
+1614,"credit,CYNTHIA ,STAFFORD,1418996276----------------------------------------------------------------------------------------",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 yrs old, amazing, and beautiful. Love, Your Grandma",blank,hannah_20141210173049.jpg,2014-12-19 13:37:56.239000+00:00
+1615,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Dear Grandchild,NEWLINEYour mother designed the artwork for this card. I am so proud of her that I want you to have a copy. She is 14 yrs old, amazing, and beautiful. Love, Your Grandma",blank,hannah_20141210173049.jpg,2014-12-19 13:38:01.245000+00:00
+1616,blank,blank,blank,blank,blank,2014-12-19 13:38:01.466000+00:00
+1617,blank,blank,blank,blank,blank,2014-12-19 13:38:01.569000+00:00
+1618,No prints in queue,blank,blank,blank,blank,2014-12-19 13:39:19.130000+00:00
+1619,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 13:39:34.177000+00:00

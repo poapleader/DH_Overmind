@@ -1,0 +1,174 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+999,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:17:34.893000+00:00
+1000,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 19:17:37.001000+00:00
+1001,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:17:41.518000+00:00
+1002,"Subcategory Everything button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:17:42.210000+00:00
+1003,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:18:11.065000+00:00
+1004,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:18:11.186000+00:00
+1005,"Opened CuteSimpleTwitterBirdGraphicsbyspoongraphics.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:18:11.844000+00:00
+1006,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:18:12.960000+00:00
+1007,"Opened g.jacobsen_20141011033325.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:18:53.933000+00:00
+1008,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:18:55.820000+00:00
+1009,"Gabriella Jacobsen preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:19:00.297000+00:00
+1010,"Bijan Peters preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=GabriellaSPACEJacobsen",blank,,blank,,2014-12-03 19:19:08.871000+00:00
+1011,"Bijan Peters preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=BijanSPACEPetersANDANDGabriellaSPACEJacobsen",blank,,blank,,2014-12-03 19:19:13.898000+00:00
+1012,"Gabriella Jacobsen preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=GabriellaSPACEJacobsen",blank,,blank,,2014-12-03 19:19:18.061000+00:00
+1013,"Opened tinybee_20141031052042.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:19:24.002000+00:00
+1014,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:19:25.986000+00:00
+1015,"Opened GoodOnPaper_YouandMeBench.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:19:34.430000+00:00
+1016,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:19:36.268000+00:00
+1017,"Good On  Paper preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:19:46.125000+00:00
+1018,"Good On  Paper preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=GoodSPACEOnSPACESPACEPaper",blank,,blank,,2014-12-03 19:19:57.762000+00:00
+1019,"Gabriella Jacobsen preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:20:59.675000+00:00
+1020,"Opened g.jacobsen_20141011033325.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=GabriellaSPACEJacobsen",blank,,blank,,2014-12-03 19:21:02.576000+00:00
+1021,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=GabriellaSPACEJacobsen",blank,,blank,,2014-12-03 19:21:06.475000+00:00
+1022,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=GabriellaSPACEJacobsen",blank,,blank,,2014-12-03 19:21:16.991000+00:00
+1023,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=GabriellaSPACEJacobsen",blank,,blank,g.jacobsen_20141011033325.jpg,2014-12-03 19:21:22.123000+00:00
+1024,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=GabriellaSPACEJacobsen",blank,,blank,,2014-12-03 19:21:29.951000+00:00
+1025,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=GabriellaSPACEJacobsen",blank,,blank,g.jacobsen_20141011033325.jpg,2014-12-03 19:21:34.811000+00:00
+1026,"credit, SUSAN A,FRANCIS,1417634508----------------------------------------------------------------------------------------",blank,,blank,g.jacobsen_20141011033325.jpg,2014-12-03 19:21:47.926000+00:00
+1027,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=GabriellaSPACEJacobsen",blank,,blank,g.jacobsen_20141011033325.jpg,2014-12-03 19:21:52.917000+00:00
+1028,blank,blank,blank,blank,blank,2014-12-03 19:21:53.474000+00:00
+1029,blank,blank,blank,blank,blank,2014-12-03 19:21:53.613000+00:00
+1030,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-03 19:22:00.518000+00:00
+1031,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-03 19:22:04.379000+00:00
+1032,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:22:09.199000+00:00
+1033,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 19:22:22.626000+00:00
+1034,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 19:22:28.230000+00:00
+1035,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 19:22:31.589000+00:00
+1036,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 19:22:36.351000+00:00
+1037,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,tinybee_20141031052726.jpg,2014-12-03 19:22:43.072000+00:00
+1038,"credit, SUSAN A,FRANCIS,1417634571----------------------------------------------------------------------------------------",blank,,blank,tinybee_20141031052726.jpg,2014-12-03 19:22:51.002000+00:00
+1039,"Card accepted,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,tinybee_20141031052726.jpg,2014-12-03 19:22:56.007000+00:00
+1040,blank,blank,blank,blank,blank,2014-12-03 19:22:56.853000+00:00
+1041,blank,blank,blank,blank,blank,2014-12-03 19:22:57.121000+00:00
+1042,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-03 19:23:21.221000+00:00
+1043,No prints in queue,blank,blank,blank,blank,2014-12-03 19:24:02.669000+00:00
+1044,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-03 19:24:17.686000+00:00
+1045,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:24:35.389000+00:00
+1046,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 19:24:48.315000+00:00
+1047,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-03 19:24:56.827000+00:00
+1048,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 19:24:58.065000+00:00
+1049,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:25:00.773000+00:00
+1050,"Subcategory New_Additions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:25:04.352000+00:00
+1051,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 19:25:12.758000+00:00
+1052,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:25:16.702000+00:00
+1053,"Subcategory Angels,_Fairies,_ANDSIGN_Mermaids button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:25:20.235000+00:00
+1054,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Angels,_Fairies,_ANDSIGN_Mermaids/",blank,,blank,,2014-12-03 19:25:24.134000+00:00
+1055,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:25:55.791000+00:00
+1056,"Subcategory Everything button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 19:25:56.529000+00:00
+1057,"Opened g.jacobsen_20141011033325.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:26:22.901000+00:00
+1058,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-03 19:26:37.502000+00:00
+1059,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,g.jacobsen_20141011033325.jpg,2014-12-03 19:26:39.403000+00:00
+1060,"credit, SUSAN A,FRANCIS,1417634808----------------------------------------------------------------------------------------",blank,,blank,g.jacobsen_20141011033325.jpg,2014-12-03 19:26:48.206000+00:00
+1061,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,g.jacobsen_20141011033325.jpg,2014-12-03 19:26:53.220000+00:00
+1062,blank,blank,blank,blank,blank,2014-12-03 19:26:53.749000+00:00
+1063,blank,blank,blank,blank,blank,2014-12-03 19:26:53.870000+00:00
+1064,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-03 19:26:57.236000+00:00
+1065,No prints in queue,blank,blank,blank,blank,2014-12-03 19:28:07.439000+00:00
+1066,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-03 19:28:22.458000+00:00
+1067,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 20:20:31.758000+00:00
+1068,"Opened tinybee_20141031054943.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 20:20:38.814000+00:00
+1069,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:20:44.932000+00:00
+1070,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:20:51.585000+00:00
+1071,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:20:52.013000+00:00
+1072,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:20:55.396000+00:00
+1073,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:21:21.808000+00:00
+1074,"Back of card clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:21:26.911000+00:00
+1075,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:21:30.614000+00:00
+1076,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:21:51.964000+00:00
+1077,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:21:54.857000+00:00
+1078,"Opened tinybee_20141031053006.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:21:58.323000+00:00
+1079,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:21:59.220000+00:00
+1080,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,May your day be full of surprises!,blank,,2014-12-03 20:22:05.671000+00:00
+1081,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-03 20:22:09.611000+00:00
+1082,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 20:22:14.217000+00:00
+1083,"Subcategory We_Are_Blacksburg button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 20:22:18.751000+00:00
+1084,"Opened WeLava.jpg,URL=http://127.0.0.1:8000/kiosk/We_Are_Blacksburg/",blank,,blank,,2014-12-03 20:22:22.011000+00:00
+1085,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/We_Are_Blacksburg/",blank,,blank,,2014-12-03 20:22:23.733000+00:00
+1086,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/We_Are_Blacksburg/",blank,,blank,,2014-12-03 20:22:29.016000+00:00
+1087,"Go home button,URL=http://127.0.0.1:8000/kiosk/We_Are_Blacksburg/",blank,,blank,,2014-12-03 20:22:54.917000+00:00
+1088,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 20:22:58.796000+00:00
+1089,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-03 20:23:00.973000+00:00
+1090,"Opened eli_christopher_20140915231411.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 20:23:48.776000+00:00
+1091,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-03 20:24:01.179000+00:00
+1092,          Hourly restart,blank,blank,blank,blank,2014-12-03 20:29:51.774000+00:00
+1093,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-04 00:13:06.844000+00:00
+1094,"Opened KearahDonatoMcAffeeSunset.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 00:13:24.820000+00:00
+1095,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 00:13:31.903000+00:00
+1096,"Opened KearahDonatoJump.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 00:13:33.357000+00:00
+1097,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 00:13:36.802000+00:00
+1098,"Opened harveycreasey_20141029193943.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 00:13:38.493000+00:00
+1099,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 00:13:40.830000+00:00
+1100,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 00:13:42.544000+00:00
+1101,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-04 00:34:26.686000+00:00
+1102,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 00:34:33.278000+00:00
+1103,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 00:34:34.503000+00:00
+1104,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 00:34:34.562000+00:00
+1105,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 00:34:40.271000+00:00
+1106,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-04 01:17:06.626000+00:00
+1107,"Subcategory Just_Because button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-04 01:17:09.607000+00:00
+1108,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:15.011000+00:00
+1109,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:15.073000+00:00
+1110,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:15.140000+00:00
+1111,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:15.194000+00:00
+1112,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:15.278000+00:00
+1113,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:15.337000+00:00
+1114,"Opened AllieKelley9.jpg,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:17.593000+00:00
+1115,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:20.858000+00:00
+1116,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:20.910000+00:00
+1117,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:21.006000+00:00
+1118,"Opened tinybee_20141029030315.jpg,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:23.698000+00:00
+1119,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:25.928000+00:00
+1120,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-04 01:17:31.576000+00:00
+1121,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-04 01:17:39.645000+00:00
+1122,"Opened tinybee_20141029035955.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:17:48.107000+00:00
+1123,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:18:56.996000+00:00
+1124,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:19:11.484000+00:00
+1125,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-04 01:19:19.937000+00:00
+1126,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:19:29.110000+00:00
+1127,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:19:29.173000+00:00
+1128,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:19:29.230000+00:00
+1129,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:19:29.290000+00:00
+1130,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:19:29.364000+00:00
+1131,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:19:29.417000+00:00
+1132,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:19:29.474000+00:00
+1133,"Alexis Rawlins preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:19:45.178000+00:00
+1134,"Alexis Rawlins preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlins",blank,,blank,,2014-12-04 01:19:51.086000+00:00
+1135,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:19:53.182000+00:00
+1136,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucas",blank,,blank,,2014-12-04 01:19:56.956000+00:00
+1137,"Multiple touches registered: 3 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucas",blank,,blank,,2014-12-04 01:19:57.007000+00:00
+1138,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucas",blank,,blank,,2014-12-04 01:19:57.048000+00:00
+1139,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucas",blank,,blank,,2014-12-04 01:19:57.840000+00:00
+1140,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:19:59.892000+00:00
+1141,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=JerrySPACERendich",blank,,blank,,2014-12-04 01:20:02.656000+00:00
+1142,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:04.543000+00:00
+1143,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-04 01:20:06.902000+00:00
+1144,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:33.100000+00:00
+1145,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:33.636000+00:00
+1146,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:33.726000+00:00
+1147,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:33.809000+00:00
+1148,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:34.212000+00:00
+1149,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:34.303000+00:00
+1150,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:34.385000+00:00
+1151,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:34.458000+00:00
+1152,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:37.268000+00:00
+1153,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:37.326000+00:00
+1154,"Opened ladylucas_20141006173418.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:38.214000+00:00
+1155,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:41.688000+00:00
+1156,"Opened tinybee_20141031055132.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:52.195000+00:00
+1157,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:20:56.285000+00:00
+1158,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-04 01:21:05.328000+00:00
+1159,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"""Chirp chirp.""NEWLINENEWLINEHope you speak cupcake.NEWLINENEWLINEHappy Birthday Mad Dawg!",blank,,2014-12-04 01:22:58.911000+00:00
+1160,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"""Chirp chirp.""NEWLINENEWLINEHope you speak cupcake.NEWLINENEWLINEHappy Birthday Mad Dawg!",blank,,2014-12-04 01:23:00.624000+00:00
+1161,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"""Chirp chirp.""NEWLINENEWLINEHope you speak cupcake.NEWLINENEWLINEHappy Birthday Mad Dawg!",blank,,2014-12-04 01:23:06.866000+00:00
+1162,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"""Chirp chirp.""NEWLINENEWLINEHope you speak cupcake.NEWLINENEWLINEHappy Birthday Mad Dawg!",blank,,2014-12-04 01:23:11.456000+00:00
+1163,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"""Chirp chirp.""NEWLINENEWLINEHope you speak cupcake.NEWLINENEWLINEHappy Birthday Mad Dawg!",blank,,2014-12-04 01:23:15.226000+00:00
+1164,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"""Chirp chirp.""NEWLINENEWLINEHope you speak cupcake.NEWLINENEWLINEHappy Birthday Mad Dawg!",blank,tinybee_20141031055132.jpg,2014-12-04 01:23:20.034000+00:00
+1165,"credit, PABEL            ,MIAH,1417656241----------------------------------------------------------------------------------------",blank,"""Chirp chirp.""NEWLINENEWLINEHope you speak cupcake.NEWLINENEWLINEHappy Birthday Mad Dawg!",blank,tinybee_20141031055132.jpg,2014-12-04 01:24:01.167000+00:00
+1166,"Card accepted,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"""Chirp chirp.""NEWLINENEWLINEHope you speak cupcake.NEWLINENEWLINEHappy Birthday Mad Dawg!",blank,tinybee_20141031055132.jpg,2014-12-04 01:24:06.172000+00:00
+1167,blank,blank,blank,blank,blank,2014-12-04 01:24:07.263000+00:00
+1168,blank,blank,blank,blank,blank,2014-12-04 01:24:07.485000+00:00
+1169,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-04 01:24:17.215000+00:00
+1170,No prints in queue,blank,blank,blank,blank,2014-12-04 01:25:25.036000+00:00
+1171,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-04 01:25:40.062000+00:00

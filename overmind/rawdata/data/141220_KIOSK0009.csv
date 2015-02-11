@@ -1,0 +1,14 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+2431,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-20 16:21:35.997000+00:00
+2432,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-20 16:21:37.535000+00:00
+2433,"Opened ChristmasAngelsFreeVectorDesign-by-Freevectors.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-20 16:23:13.272000+00:00
+2434,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a Merry Christmas,blank,,2014-12-20 16:23:21.437000+00:00
+2435,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a Merry Christmas,blank,ChristmasAngelsFreeVectorDesign-by-Freevectors.jpg,2014-12-20 16:23:29.452000+00:00
+2436,"credit,SHERRY ,WALKER,1419092664----------------------------------------------------------------------------------------",blank,Wishing you a Merry Christmas,blank,ChristmasAngelsFreeVectorDesign-by-Freevectors.jpg,2014-12-20 16:24:23.775000+00:00
+2437,"Error file: Exception in thread ""main"" java.lang.Exception: Response returnCode: 0, returnMessage: Transaction Id (1419092664) is NOT greater than the previous one (1419146309), appr",blank,blank,blank,blank,2014-12-20 16:24:28.761000+00:00
+2438,"cancelling transaction while network is down,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a Merry Christmas,blank,ChristmasAngelsFreeVectorDesign-by-Freevectors.jpg,2014-12-20 16:24:38.782000+00:00
+2439,blank,blank,blank,blank,blank,2014-12-20 16:24:40.001000+00:00
+2440,blank,blank,blank,blank,blank,2014-12-20 16:24:40.102000+00:00
+2441,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-20 16:24:50.048000+00:00
+2442,No prints in queue,blank,blank,blank,blank,2014-12-20 16:26:07.672000+00:00
+2443,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-20 16:26:22.693000+00:00

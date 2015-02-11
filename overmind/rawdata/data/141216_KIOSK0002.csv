@@ -1,0 +1,165 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+4125,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 12:14:59.072000+00:00
+4126,"Preview for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 12:15:25.478000+00:00
+4127,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:25:21.341000+00:00
+4128,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:25:24.692000+00:00
+4129,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:25:26.501000+00:00
+4130,"Suggestive button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 17:25:32.511000+00:00
+4131,"Suggestive TOGGLE,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 17:25:34.837000+00:00
+4132,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-16 17:25:45.008000+00:00
+4133,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-16 17:25:46.337000+00:00
+4134,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-16 17:25:51.693000+00:00
+4135,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-16 17:25:52.778000+00:00
+4136,"Opened brocards_20141206215232.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-16 17:25:56.609000+00:00
+4137,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-16 17:25:58.332000+00:00
+4138,"Opened harveycreasey_20141203214302.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-16 17:26:13.931000+00:00
+4139,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-16 17:26:30.140000+00:00
+4140,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:26:32.673000+00:00
+4141,"Artist search for Harvey Creasey,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:26:35.861000+00:00
+4142,"Opened harveycreasey_20141203214712.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:12.556000+00:00
+4143,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:14.576000+00:00
+4144,"Opened harveycreasey_20141204055834.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:16.140000+00:00
+4145,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:17.711000+00:00
+4146,"Opened harveycreasey_20141204060454.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:20.010000+00:00
+4147,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:20.896000+00:00
+4148,"Opened harveycreasey_20141204055936.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:22.811000+00:00
+4149,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:27.921000+00:00
+4150,"Opened harveycreasey_20141204055606.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:30.403000+00:00
+4151,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:39.794000+00:00
+4152,"Opened harveycreasey_20141203214302.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:41.785000+00:00
+4153,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:50.735000+00:00
+4154,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-16 17:28:52.235000+00:00
+4155,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,"Merry Christmas, Madam President",blank,,2014-12-16 17:29:38.008000+00:00
+4156,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,"Merry Christmas, NEWLINEMadam President",blank,,2014-12-16 17:29:41.270000+00:00
+4157,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,"Merry Christmas,NEWLINEMadam President",blank,,2014-12-16 17:29:44.514000+00:00
+4158,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,"Merry Christmas,NEWLINEMadam President!",blank,,2014-12-16 17:29:49.234000+00:00
+4159,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,"NEWLINENEWLINEMerry Christmas,NEWLINEMadam President!",blank,,2014-12-16 17:29:55.758000+00:00
+4160,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,"NEWLINENEWLINEMerry Christmas,NEWLINEMadam President!",blank,,2014-12-16 17:29:55.991000+00:00
+4161,"Inside right of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,"NEWLINENEWLINEMerry Christmas,NEWLINEMadam President!",blank,,2014-12-16 17:30:01.068000+00:00
+4162,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,"NEWLINENEWLINEMerry Christmas,NEWLINEMadam President!",blank,,2014-12-16 17:30:03.088000+00:00
+4163,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,"NEWLINENEWLINEMerry Christmas,NEWLINEMadam President!",blank,harveycreasey_20141203214302.jpg,2014-12-16 17:30:08.785000+00:00
+4164,"credit,BIJAN B            ,PETERS,1418751016MCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebit",blank,"NEWLINENEWLINEMerry Christmas,NEWLINEMadam President!",blank,harveycreasey_20141203214302.jpg,2014-12-16 17:30:15.974000+00:00
+4165,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,"NEWLINENEWLINEMerry Christmas,NEWLINEMadam President!",blank,harveycreasey_20141203214302.jpg,2014-12-16 17:30:20.988000+00:00
+4166,blank,blank,blank,blank,blank,2014-12-16 17:30:22.097000+00:00
+4167,blank,blank,blank,blank,blank,2014-12-16 17:30:22.377000+00:00
+4168,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 17:30:41.666000+00:00
+4169,"Email receipt sent: bijan@vt.edu,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 17:30:51.962000+00:00
+4170,No prints in queue,blank,blank,blank,blank,2014-12-16 17:31:39.926000+00:00
+4171,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 17:31:54.963000+00:00
+4172,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:31:57.226000+00:00
+4173,"Wrong artist search for ,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:31:59.721000+00:00
+4174,"Artist search for Sam Gavic,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:32:12.835000+00:00
+4175,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Sam%20Gavic",blank,,blank,,2014-12-16 17:32:16.348000+00:00
+4176,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:32:18.166000+00:00
+4177,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:32:19.563000+00:00
+4178,"Subcategory New_Additions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:32:22.409000+00:00
+4179,"Opened tinybee_20141031053738.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-16 17:32:36.039000+00:00
+4180,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-16 17:32:39.288000+00:00
+4181,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-16 17:32:46.001000+00:00
+4182,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:32:48.695000+00:00
+4183,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:32:50.329000+00:00
+4184,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 17:32:59.909000+00:00
+4185,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:33:01.836000+00:00
+4186,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:33:04.317000+00:00
+4187,"Bijan Peters preference value button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-16 17:33:06.765000+00:00
+4188,"Bijan Peters preference value button,URL=http://127.0.0.1:8000/kiosk/Something_else/?prefN0=Artists&prefV0=BijanSPACEPeters",blank,,blank,,2014-12-16 17:33:09.255000+00:00
+4189,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-16 17:33:14.715000+00:00
+4190,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 19:14:14.413000+00:00
+4191,"Opened harveycreasey_20141029193943.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 19:14:23.647000+00:00
+4192,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 19:14:29.586000+00:00
+4193,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 19:14:32.842000+00:00
+4194,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 19:14:37.717000+00:00
+4195,"Opened KearahDonatoJump.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 19:14:40.221000+00:00
+4196,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 19:14:51.237000+00:00
+4197,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 19:14:52.852000+00:00
+4198,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 19:14:54.353000+00:00
+4199,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 19:14:56.593000+00:00
+4200,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 19:15:00.477000+00:00
+4201,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 19:15:07.949000+00:00
+4202,          Hourly restart,blank,blank,blank,blank,2014-12-16 19:20:58.130000+00:00
+4203,RUNNING AGAIN: closing IE,blank,blank,blank,blank,2014-12-16 20:29:46.514000+00:00
+4204,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 20:31:26.630000+00:00
+4205,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 20:31:26.847000+00:00
+4206,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 20:31:28.368000+00:00
+4207,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 20:31:28.918000+00:00
+4208,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 20:31:33.578000+00:00
+4209,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 20:31:37.672000+00:00
+4210,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 22:17:23.274000+00:00
+4211,"Opened katherinedevine_20141203202021.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 22:40:45.324000+00:00
+4212,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 22:40:49.370000+00:00
+4213,          Hourly restart,blank,blank,blank,blank,2014-12-16 22:46:35.566000+00:00
+4214,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 02:43:40.825000+00:00
+4215,"Opened AllieKelley3.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-17 02:43:45.507000+00:00
+4216,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-17 02:44:07.880000+00:00
+4217,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-17 02:44:10.515000+00:00
+4218,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 02:44:16.929000+00:00
+4219,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 02:44:29.974000+00:00
+4220,"Opened KearahDonatoNoPeeing.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:44:44.187000+00:00
+4221,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:44:49.396000+00:00
+4222,"Opened ladylucas_20141006173558.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:44:57.150000+00:00
+4223,"Opened jharder_20141009201107.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:45:04.443000+00:00
+4224,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:45:05.358000+00:00
+4225,"Opened StockT-shirtDesigns_Free-Sample_07.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:45:45.088000+00:00
+4226,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:45:46.685000+00:00
+4227,"Opened SilhouetteNaturebyLuisOlavarria.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:46:03.648000+00:00
+4228,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:46:06.758000+00:00
+4229,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:46:13.898000+00:00
+4230,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:46:17.205000+00:00
+4231,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:46:24.286000+00:00
+4232,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:46:25.811000+00:00
+4233,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 02:46:26.016000+00:00
+4234,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounnded ,blank,,2014-12-17 02:48:17.392000+00:00
+4235,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounnded ,blank,,2014-12-17 02:48:18.894000+00:00
+4236,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounnded ,blank,,2014-12-17 02:48:20.744000+00:00
+4237,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending qell wishes  ,blank,,2014-12-17 02:48:50.469000+00:00
+4238,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes  ,blank,,2014-12-17 02:48:52.377000+00:00
+4239,"Inside right of card clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year.,blank,,2014-12-17 02:49:10.346000+00:00
+4240,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year.,blank,,2014-12-17 02:49:12.781000+00:00
+4241,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year.,blank,,2014-12-17 02:49:17.856000+00:00
+4242,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year. ,blank,SilhouetteNaturebyLuisOlavarria.jpg,2014-12-17 02:50:07.319000+00:00
+4243,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year. ,blank,,2014-12-17 02:50:14.597000+00:00
+4244,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year. ,blank,,2014-12-17 02:50:16.519000+00:00
+4245,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year. ,blank,,2014-12-17 02:50:18.225000+00:00
+4246,"Back of card clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year. ,blank,,2014-12-17 02:50:23.010000+00:00
+4247,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year. ,blank,,2014-12-17 02:50:24.889000+00:00
+4248,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year. ,blank,SilhouetteNaturebyLuisOlavarria.jpg,2014-12-17 02:50:36.152000+00:00
+4249,"credit,AARON T           ,YOUMANS,1418784649----------------------------------------------------------------------------------------",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year. ,blank,SilhouetteNaturebyLuisOlavarria.jpg,2014-12-17 02:50:49.522000+00:00
+4250,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Happy Birthday! I'm sorry I will not be there for your special day but I hope you are surrounded by friends and family.  Love you and sending well wishes for a wonderful year. ,blank,SilhouetteNaturebyLuisOlavarria.jpg,2014-12-17 02:50:54.532000+00:00
+4251,blank,blank,blank,blank,blank,2014-12-17 02:50:55.560000+00:00
+4252,blank,blank,blank,blank,blank,2014-12-17 02:50:55.636000+00:00
+4253,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 02:51:05.832000+00:00
+4254,No prints in queue,blank,blank,blank,blank,2014-12-17 02:52:19.182000+00:00
+4255,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 02:52:34.209000+00:00
+4256,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 02:52:54.469000+00:00
+4257,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 02:52:56.031000+00:00
+4258,"Opened m_helton26._20141210172703.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 02:53:23.066000+00:00
+4259,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 02:53:29.348000+00:00
+4260,"Opened ChristasPattern-by-vectorbg.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 02:55:35.372000+00:00
+4261,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 02:55:40.299000+00:00
+4262,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 02:55:46.828000+00:00
+4263,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Merry Christmas Nana,blank,,2014-12-17 02:56:14.130000+00:00
+4264,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Merry Christmas Nana,blank,,2014-12-17 02:56:14.803000+00:00
+4265,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas,Nana",blank,,2014-12-17 02:56:18.772000+00:00
+4266,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas,Nana",blank,,2014-12-17 02:56:20.054000+00:00
+4267,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas,Nana",blank,,2014-12-17 02:56:20.598000+00:00
+4268,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana",blank,,2014-12-17 02:56:22.670000+00:00
+4269,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this holiday qith you   ",blank,,2014-12-17 02:57:16.536000+00:00
+4270,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this holiday day with you   ",blank,,2014-12-17 02:57:28.518000+00:00
+4271,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this holiday day with you   ",blank,,2014-12-17 02:57:29.414000+00:00
+4272,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this holiday day with you   ",blank,,2014-12-17 02:57:32.150000+00:00
+4273,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this holiday day with you   ",blank,,2014-12-17 02:57:32.903000+00:00
+4274,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this day with you   ",blank,,2014-12-17 02:57:50.736000+00:00
+4275,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this day with you and be toget  ",blank,,2014-12-17 02:59:13.145000+00:00
+4276,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this day with you and to be toget  ",blank,,2014-12-17 02:59:15.806000+00:00
+4277,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this day with you and to be toget  ",blank,,2014-12-17 02:59:16.462000+00:00
+4278,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this day with you and to be together as a family. Thanks for being a great grandma. Love you!  ",blank,,2014-12-17 02:59:59.175000+00:00
+4279,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this day with you and to be together as a family. Thanks for being a great grandma. Love you!  ",blank,,2014-12-17 03:00:03.677000+00:00
+4280,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this day with you and to be together as a family. Thanks for being a great grandma. Love you!  ",blank,,2014-12-17 03:00:06.091000+00:00
+4281,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this day with you and to be together as a family. Thanks for being a great grandma. Love you!  ",blank,,2014-12-17 03:00:07.426000+00:00
+4282,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this day with you and to be together as a family. Thanks for being a great grandma. Love you!  ",blank,ChristasPattern-by-vectorbg.jpg,2014-12-17 03:00:11.973000+00:00
+4283,"credit,AMY M             ,YOUMANS,1418785239----------------------------------------------------------------------------------------",blank,"Merry Christmas, Nana! We are so happy to spend this day with you and to be together as a family. Thanks for being a great grandma. Love you!  ",blank,ChristasPattern-by-vectorbg.jpg,2014-12-17 03:00:38.737000+00:00
+4284,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas, Nana! We are so happy to spend this day with you and to be together as a family. Thanks for being a great grandma. Love you!  ",blank,ChristasPattern-by-vectorbg.jpg,2014-12-17 03:00:43.748000+00:00
+4285,blank,blank,blank,blank,blank,2014-12-17 03:00:44.574000+00:00
+4286,blank,blank,blank,blank,blank,2014-12-17 03:00:44.715000+00:00
+4287,No prints in queue,blank,blank,blank,blank,2014-12-17 03:02:16.267000+00:00
+4288,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 03:02:31.294000+00:00

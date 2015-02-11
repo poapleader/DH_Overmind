@@ -1,0 +1,111 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+5800,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:12:02.713000+00:00
+5801,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:12:05.199000+00:00
+5802,          Page timeout,blank,blank,blank,blank,2014-12-18 16:18:18.106000+00:00
+5803,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:23:44.453000+00:00
+5804,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 16:23:50.588000+00:00
+5805,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=JerrySPACERendich",blank,,blank,,2014-12-18 16:23:52.742000+00:00
+5806,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 16:23:55.759000+00:00
+5807,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucas",blank,,blank,,2014-12-18 16:23:58.414000+00:00
+5808,"Alexis Rawlins preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 16:24:00.659000+00:00
+5809,"Alexis Rawlins preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlins",blank,,blank,,2014-12-18 16:24:03.363000+00:00
+5810,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 16:24:06.238000+00:00
+5811,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 19:12:25.020000+00:00
+5812,          Page timeout,blank,blank,blank,blank,2014-12-18 19:18:16.381000+00:00
+5813,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 19:24:30.929000+00:00
+5814,          Page timeout,blank,blank,blank,blank,2014-12-18 19:30:23.585000+00:00
+5815,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 19:42:01.280000+00:00
+5816,"Suggestive button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 19:42:11.840000+00:00
+5817,"Suggestive TOGGLE,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 19:42:21.091000+00:00
+5818,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-18 19:42:33.047000+00:00
+5819,"Suggestive TOGGLE,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive&prefN1=Local&prefV1=24060",blank,,blank,,2014-12-18 19:42:54.819000+00:00
+5820,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-18 19:43:07.597000+00:00
+5821,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 19:43:17.975000+00:00
+5822,"Opened KearahDonatoJump.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:43:27.485000+00:00
+5823,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:43:32.666000+00:00
+5824,"Opened harveycreasey_20141029193943.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:43:34.860000+00:00
+5825,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:43:46.148000+00:00
+5826,"Opened StevenBakerTorg.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:43:48.113000+00:00
+5827,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:43:53.295000+00:00
+5828,"Opened KearahDonatoMcAffeeSunset.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:43:55.379000+00:00
+5829,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:43:57.075000+00:00
+5830,"Opened KearahDonatoHeritageParkTwo.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:43:59.532000+00:00
+5831,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:44:01.842000+00:00
+5832,"Opened bijan_20140923051640.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:44:03.850000+00:00
+5833,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:44:04.903000+00:00
+5834,"Opened Torg.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:44:06.401000+00:00
+5835,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,Torg.jpg,2014-12-18 19:44:08.194000+00:00
+5836,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 19:44:14.241000+00:00
+5837,          Page timeout,blank,blank,blank,blank,2014-12-18 19:49:54.231000+00:00
+5838,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 20:08:02.494000+00:00
+5839,          Page timeout,blank,blank,blank,blank,2014-12-18 20:13:54.878000+00:00
+5840,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 20:55:15.262000+00:00
+5841,"Opened bijan_20140923051640.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 20:55:22.416000+00:00
+5842,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 20:55:26.096000+00:00
+5843,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 20:55:28.079000+00:00
+5844,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 20:55:29.223000+00:00
+5845,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 20:55:32.205000+00:00
+5846,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 20:55:35.753000+00:00
+5847,"Preview for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 20:55:51.460000+00:00
+5848,"Preview for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 20:55:52.009000+00:00
+5849,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 20:55:54.549000+00:00
+5850,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 20:56:13.620000+00:00
+5851,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 22:12:49.929000+00:00
+5852,          Page timeout,blank,blank,blank,blank,2014-12-18 22:18:42.131000+00:00
+5853,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 22:23:43.589000+00:00
+5854,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 22:23:47.355000+00:00
+5855,"Go home button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 22:23:53.796000+00:00
+5856,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 22:33:10.112000+00:00
+5857,"Subcategory Groundhog_Day button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 22:33:11.078000+00:00
+5858,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Groundhog_Day/",blank,,blank,,2014-12-18 22:33:13.733000+00:00
+5859,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 22:33:17.904000+00:00
+5860,"Opened tinybee_20141029030515.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 22:33:22.683000+00:00
+5861,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 22:33:25.273000+00:00
+5862,"Opened tinybee_20141031055132.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 22:33:26.624000+00:00
+5863,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 22:33:27.766000+00:00
+5864,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 22:33:30.235000+00:00
+5865,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 22:33:32.601000+00:00
+5866,"Subcategory Just_Because button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 22:33:34.191000+00:00
+5867,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-18 22:33:36.087000+00:00
+5868,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 22:33:37.803000+00:00
+5869,"Subcategory ISINGLEm_Sorry button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 22:33:38.530000+00:00
+5870,          Page timeout,blank,blank,blank,blank,2014-12-18 22:39:29.832000+00:00
+5871,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 23:10:50.746000+00:00
+5872,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 23:36:55.340000+00:00
+5873,          Page timeout,blank,blank,blank,blank,2014-12-18 23:42:48.060000+00:00
+5874,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 23:59:55.997000+00:00
+5875,          Page timeout,blank,blank,blank,blank,2014-12-19 00:05:48.444000+00:00
+5876,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 00:34:01.178000+00:00
+5877,"Opened MarielleStoeltzingOctopus.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-19 00:34:03.889000+00:00
+5878,          Page timeout,blank,blank,blank,blank,2014-12-19 00:39:53.958000+00:00
+5879,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 00:40:13.433000+00:00
+5880,"Opened Torg.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-19 00:40:19.756000+00:00
+5881,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,Torg.jpg,2014-12-19 00:40:20.921000+00:00
+5882,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-19 00:40:24.026000+00:00
+5883,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-19 00:40:29.009000+00:00
+5884,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 00:40:30.985000+00:00
+5885,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-19 00:40:33.389000+00:00
+5886,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 00:40:34.194000+00:00
+5887,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-19 00:40:36.310000+00:00
+5888,"info@cardisle.com email address,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 00:40:38.035000+00:00
+5889,"Preview for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 00:45:51.105000+00:00
+5890,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 00:45:51.361000+00:00
+5891,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 01:44:59.372000+00:00
+5892,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 01:45:01.619000+00:00
+5893,          Page timeout,blank,blank,blank,blank,2014-12-19 01:51:16.407000+00:00
+5894,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 02:02:17.551000+00:00
+5895,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 02:02:23.006000+00:00
+5896,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 02:02:23.184000+00:00
+5897,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 02:02:24.590000+00:00
+5898,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,tinybee_20141125210625.jpg,2014-12-19 02:02:25.416000+00:00
+5899,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 02:02:28.794000+00:00
+5900,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 02:02:29.404000+00:00
+5901,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 02:02:31.117000+00:00
+5902,"Opened MerryChristmasWallpaper-by-VectorFresh.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 02:02:42.752000+00:00
+5903,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,MerryChristmasWallpaper-by-VectorFresh.jpg,2014-12-19 02:02:46.126000+00:00
+5904,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 02:02:47.700000+00:00
+5905,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 02:02:52.882000+00:00
+5906,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 02:10:31.328000+00:00
+5907,"Adam Donato preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-19 02:10:39.633000+00:00
+5908,"Allie Kelley preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=AdamSPACEDonato",blank,,blank,,2014-12-19 02:10:42.687000+00:00
+5909,RUNNING AGAIN: closing IE,blank,blank,blank,blank,2014-12-19 02:12:39.330000+00:00

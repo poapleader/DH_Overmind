@@ -1,0 +1,47 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+4722,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-20 15:24:58.186000+00:00
+4723,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-20 15:25:06.714000+00:00
+4724,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-20 15:25:13.739000+00:00
+4725,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-20 15:25:20.404000+00:00
+4726,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-20 15:25:22.452000+00:00
+4727,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-20 15:25:23.940000+00:00
+4728,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-20 15:25:26.954000+00:00
+4729,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-20 15:25:28.412000+00:00
+4730,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-20 15:25:30.672000+00:00
+4731,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-20 15:25:31.902000+00:00
+4732,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-20 15:25:36.264000+00:00
+4733,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-20 15:25:43.191000+00:00
+4734,"Opened tinybee_20141103014103.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-20 15:26:12.850000+00:00
+4735,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-20 15:26:14.201000+00:00
+4736,"Opened tinybee_20141029035955.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-20 15:26:16+00:00
+4737,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-20 15:26:17.003000+00:00
+4738,"Opened tinybee_20141031055031.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-20 15:26:19.245000+00:00
+4739,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-20 15:26:20.535000+00:00
+4740,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-20 15:26:21.750000+00:00
+4741,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-20 16:28:35.866000+00:00
+4742,"Subcategory Get_Well button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-20 16:28:40.251000+00:00
+4743,"Opened running.river_20141029011004.jpg,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,,blank,,2014-12-20 16:28:58.066000+00:00
+4744,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,,blank,,2014-12-20 16:29:06.562000+00:00
+4745,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,Hope you feel better soon!,blank,,2014-12-20 16:29:13.863000+00:00
+4746,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,Take it easy and get well soon!,blank,,2014-12-20 16:29:15.347000+00:00
+4747,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,Take it easy and get well soon!,blank,,2014-12-20 16:29:15.633000+00:00
+4748,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,Take it easy and get well soon!,blank,,2014-12-20 16:29:15.841000+00:00
+4749,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,Take it easy and get well soon!,blank,,2014-12-20 16:29:17.018000+00:00
+4750,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,Take it easy and get well soon!,blank,,2014-12-20 16:29:20.482000+00:00
+4751,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,Take it easy and get well soon!,blank,,2014-12-20 16:29:21.847000+00:00
+4752,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,Take it easy and get well soon!,blank,,2014-12-20 16:29:23.359000+00:00
+4753,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,Hope you feel better soon!,blank,,2014-12-20 16:29:27.119000+00:00
+4754,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,Hope you feel better soon!,blank,running.river_20141029011004.jpg,2014-12-20 16:29:35.210000+00:00
+4755,"credit, JENNIFER         ,BATH,1419092985----------------------------------------------------------------------------------------",blank,Hope you feel better soon!,blank,running.river_20141029011004.jpg,2014-12-20 16:29:45.175000+00:00
+4756,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,Hope you feel better soon!,blank,running.river_20141029011004.jpg,2014-12-20 16:29:50.171000+00:00
+4757,blank,blank,blank,blank,blank,2014-12-20 16:29:50.860000+00:00
+4758,blank,blank,blank,blank,blank,2014-12-20 16:29:50.907000+00:00
+4759,"Net Promoter value of 5,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-20 16:30:50.691000+00:00
+4760,No prints in queue,blank,blank,blank,blank,2014-12-20 16:31:12.478000+00:00
+4761,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-20 16:31:27.504000+00:00
+4762,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-20 16:31:31.416000+00:00
+4763,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-20 16:31:33.219000+00:00
+4764,"Opened tinybee_20141029025132.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-20 16:31:37.884000+00:00
+4765,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-20 16:31:42.774000+00:00
+4766,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-20 16:31:44.782000+00:00
+4767,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-20 16:32:17.090000+00:00

@@ -1,0 +1,27 @@
+Unit Number: KIOSK 0007
+Unit Details: Wooden Kiosk
+Unit Notes: Unit fell off of Dolly at TEDx Tech Event.  Scuff Marks on Card Drop, Upper and Lower Corners and Upper Access Door.  
+
+Current Location: VVMALL
+
+Current Components
+	Computer: SERVICE_TAG 4CM1122; EXPRESS_CODE 9469723034
+	Screen: CN-07XVV9-74261-492-0NVU-T
+	Printer_Top: ACYR61118
+	Printer_Bot: ACYR60522
+	Modem: S/N 142701-0398; IMEI 359692051007749; ICCID 891480000007700660976; 
+	Antenna: MIMO 4G LTE
+	CC_Reader: P/N 21073075; S/N B293DDF
+	Key_Number: 32112
+
+OPEN ACTION ITEMS:
+- ADD STICKER TO TOP DOOR (A BETTER GREETING CARD)
+- RELOCATE KIOSK TO SPOT NEXT TO STAIRS
+- DISCOVER VERIZON MOBILE NUMBER
+-
+
+History:
+	Demo at TEDx Virginia Tech Event
+		141120 12:00pm - 5:00pm in the Cube; 5:00pm - 9:00am in Lobby of Moss Arts Center
+		# of Cards Printed: 
+	PLACED AT VALLEY VIEW: 141124

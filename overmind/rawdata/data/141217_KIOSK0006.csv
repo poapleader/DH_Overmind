@@ -1,0 +1,159 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+8604,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 12:10:15.681000+00:00
+8605,"Opened jerryrendich_20141031142109.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 12:10:18.740000+00:00
+8606,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,jerryrendich_20141031142109.jpg,2014-12-17 12:10:20.582000+00:00
+8607,"Wrong coupon: parde,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,jerryrendich_20141031142109.jpg,2014-12-17 12:10:23.395000+00:00
+8608,"Wrong coupon: parade,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,jerryrendich_20141031142109.jpg,2014-12-17 12:10:28.517000+00:00
+8609,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 12:10:30.211000+00:00
+8610,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 12:10:30.885000+00:00
+8611,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 14:33:15.633000+00:00
+8612,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 14:33:17.937000+00:00
+8613,          Page timeout,blank,blank,blank,blank,2014-12-17 14:39:09.856000+00:00
+8614,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 17:16:01.837000+00:00
+8615,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 17:16:03.856000+00:00
+8616,"Opened KearahDonatoMarmot.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:17:48.896000+00:00
+8617,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:18:13.479000+00:00
+8618,"Opened pigButts.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:18:30.397000+00:00
+8619,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:18:39.369000+00:00
+8620,"Opened brocards_20141206215132.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:18:49.826000+00:00
+8621,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:18:58.193000+00:00
+8622,"Opened GoodOnPaper_ICantWait.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:19:04.625000+00:00
+8623,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:19:08.020000+00:00
+8624,"Opened running.river_20140911035650.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:19:13.159000+00:00
+8625,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:19:15.516000+00:00
+8626,"Opened txtMsg.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:19:17.179000+00:00
+8627,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:19:23.896000+00:00
+8628,"Opened running.river_20141113060712.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:19:32.248000+00:00
+8629,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:19:39.648000+00:00
+8630,"Opened bottles.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:19:58.922000+00:00
+8631,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:20:02.231000+00:00
+8632,"Opened bluePrint.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:20:11.856000+00:00
+8633,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:20:16.607000+00:00
+8634,"Opened carrots.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:20:29.174000+00:00
+8635,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:20:31.196000+00:00
+8636,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:20:54.353000+00:00
+8637,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 17:20:58.637000+00:00
+8638,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 17:21:00.590000+00:00
+8639,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 17:21:04.543000+00:00
+8640,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 17:21:08.257000+00:00
+8641,"Opened tinybee_20141029030515.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:21:25.172000+00:00
+8642,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:21:35.331000+00:00
+8643,"Opened MarielleStoeltzingBirthdays.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:21:48.172000+00:00
+8644,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:22:08.781000+00:00
+8645,"Opened jerryrendich_20141031205130.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:22:15.506000+00:00
+8646,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:22:19.880000+00:00
+8647,"Opened diskette.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:22:27.820000+00:00
+8648,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:22:30.650000+00:00
+8649,"Opened emilyj_20140428012015.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:22:33.683000+00:00
+8650,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:22:35.460000+00:00
+8651,"Opened eli_christopher_20140913052723.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:23:39.668000+00:00
+8652,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:23:41.307000+00:00
+8653,"Opened valentine.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:23:51.103000+00:00
+8654,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:23:56.229000+00:00
+8655,"Opened KearahDonatoMarmot.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:24:14.221000+00:00
+8656,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:24:29.482000+00:00
+8657,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 17:24:31.022000+00:00
+8658,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Imagine the snowy mountains...or just wait until tomorrow. i ca,blank,,2014-12-17 17:25:26.925000+00:00
+8659,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Imagine the snowy mountains...or just wait until tomorrow. I can't wait toncelebrate ,blank,,2014-12-17 17:25:40.833000+00:00
+8660,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Imagine the snowy mountains...or just wait until tomorrow. I can't wait to celebrate ,blank,,2014-12-17 17:25:43.683000+00:00
+8661,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Imagine the snowy mountains...or just wait until tomorrow. I can't wait to celebrate at our own very special place.NEWLINEI LOVE YOU",blank,,2014-12-17 17:26:38.818000+00:00
+8662,"Back of card clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Imagine the snowy mountains...or just wait until tomorrow. I can't wait to celebrate at our own very special place.NEWLINEI LOVE YOU",blank,,2014-12-17 17:26:42.233000+00:00
+8663,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Imagine the snowy mountains...or just wait until tomorrow. I can't wait to celebrate at our own very special place.NEWLINEI LOVE YOU",blank,,2014-12-17 17:26:45.483000+00:00
+8664,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Imagine the snowy mountains...or just wait until tomorrow. I can't wait to celebrate at our own very special place.NEWLINEI LOVE YOU",blank,,2014-12-17 17:26:52.295000+00:00
+8665,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Imagine the snowy mountains...or just wait until tomorrow. I can't wait to celebrate at our own very special place.NEWLINEI LOVE YOU",blank,KearahDonatoMarmot.jpg,2014-12-17 17:27:02.562000+00:00
+8666,"credit, ANDREA E,GARLAND,1418837237----------------------------------------------------------------------------------------",blank,"Imagine the snowy mountains...or just wait until tomorrow. I can't wait to celebrate at our own very special place.NEWLINEI LOVE YOU",blank,KearahDonatoMarmot.jpg,2014-12-17 17:27:16.936000+00:00
+8667,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Imagine the snowy mountains...or just wait until tomorrow. I can't wait to celebrate at our own very special place.NEWLINEI LOVE YOU",blank,KearahDonatoMarmot.jpg,2014-12-17 17:27:21.933000+00:00
+8668,blank,blank,blank,blank,blank,2014-12-17 17:27:24.861000+00:00
+8669,blank,blank,blank,blank,blank,2014-12-17 17:27:25.664000+00:00
+8670,"Net Promoter value of 8,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 17:27:34.817000+00:00
+8671,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 17:27:35.701000+00:00
+8672,"Email receipt sent: andgarland@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 17:27:48.656000+00:00
+8673,No prints in queue,blank,blank,blank,blank,2014-12-17 17:28:47.221000+00:00
+8674,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 17:29:02.257000+00:00
+8675,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 18:55:04.578000+00:00
+8676,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 18:55:06.232000+00:00
+8677,"Opened sandramcfarland_20141104053246.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 18:55:12.575000+00:00
+8678,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 18:55:13.848000+00:00
+8679,"Opened sol4art_20141105183831.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 18:55:16.810000+00:00
+8680,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 18:55:29.668000+00:00
+8681,"Date at bottom of page,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 18:55:30.652000+00:00
+8682,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 18:55:31.779000+00:00
+8683,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 18:55:38.405000+00:00
+8684,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 18:56:07.838000+00:00
+8685,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 18:56:09.878000+00:00
+8686,"Subcategory Anniversary button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 18:56:11.249000+00:00
+8687,"Opened tinybee_20141031054943.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 18:56:13.285000+00:00
+8688,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 18:56:14.431000+00:00
+8689,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 18:56:39.387000+00:00
+8690,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 23:20:41.460000+00:00
+8691,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-17 23:20:46.612000+00:00
+8692,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 23:20:49.762000+00:00
+8693,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 23:20:52.365000+00:00
+8694,"Opened KearahDonatoNoPeeing.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:21:11.884000+00:00
+8695,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:21:19.347000+00:00
+8696,"Opened everythingYellow.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:21:31.896000+00:00
+8697,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:21:33.511000+00:00
+8698,"Opened emilyj_20140428012015.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:21:42.249000+00:00
+8699,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:21:44.631000+00:00
+8700,"Opened nettasart2014_20141202042428.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:21:53.397000+00:00
+8701,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:21:54.597000+00:00
+8702,"Opened sunflowers.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:22:08.540000+00:00
+8703,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:22:10.164000+00:00
+8704,"Opened typewritter.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:22:11.537000+00:00
+8705,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:22:16.241000+00:00
+8706,"Opened bluePrint.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:22:22.744000+00:00
+8707,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:22:34.850000+00:00
+8708,"Opened leaves.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:23:23.123000+00:00
+8709,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:23:24.719000+00:00
+8710,"Opened iheartvector-free-antique-yard-sign.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:23:26.691000+00:00
+8711,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:23:34.620000+00:00
+8712,"Opened iheartvector-free-antique-yard-sign.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:23:41.228000+00:00
+8713,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:23:42.577000+00:00
+8714,"Opened easter_hen.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:23:46.519000+00:00
+8715,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:23:48.429000+00:00
+8716,"Opened bfly.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:24:03.231000+00:00
+8717,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:24:04.486000+00:00
+8718,"Opened jailCell.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:24:20.500000+00:00
+8719,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:24:24.983000+00:00
+8720,"Opened diskette.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:24:32.173000+00:00
+8721,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:24:34.654000+00:00
+8722,"Opened MarielleStoeltzingOctopus.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:24:56.297000+00:00
+8723,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:24:58.242000+00:00
+8724,"Opened GoodOnPaper_BirthdayWorm.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:25:02.366000+00:00
+8725,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:25:03.561000+00:00
+8726,"Opened KearahDonatoNoPeeing.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:25:10.068000+00:00
+8727,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:25:20.304000+00:00
+8728,"Opened MarielleStoeltzingBirthdays.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:25:30.059000+00:00
+8729,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:25:49.797000+00:00
+8730,"Opened CarolineTavelliAbarCardIsle1.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:25:54.287000+00:00
+8731,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:25:55.734000+00:00
+8732,"Opened Scribbles.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:26:03.517000+00:00
+8733,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:26:05.331000+00:00
+8734,"Opened eagle.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:26:08.153000+00:00
+8735,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:26:10.047000+00:00
+8736,"Opened owl.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:26:11.867000+00:00
+8737,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:26:16.093000+00:00
+8738,"Opened KearahDonatoNoPeeing.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-17 23:26:17.813000+00:00
+8739,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,KearahDonatoNoPeeing.jpg,2014-12-17 23:26:18.665000+00:00
+8740,"credit,MARK A,GARLAND,1418858794----------------------------------------------------------------------------------------",blank,,blank,KearahDonatoNoPeeing.jpg,2014-12-17 23:26:33.946000+00:00
+8741,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,KearahDonatoNoPeeing.jpg,2014-12-17 23:26:38.944000+00:00
+8742,blank,blank,blank,blank,blank,2014-12-17 23:26:42.641000+00:00
+8743,blank,blank,blank,blank,blank,2014-12-17 23:26:43.725000+00:00
+8744,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 23:26:50.989000+00:00
+8745,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 23:26:56.137000+00:00
+8746,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 23:26:59.455000+00:00
+8747,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 23:27:02.332000+00:00
+8748,"Email receipt sent: markandrewgarland@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 23:27:26.306000+00:00
+8749,No prints in queue,blank,blank,blank,blank,2014-12-17 23:28:03.293000+00:00
+8750,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-17 23:28:18.330000+00:00
+8751,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 00:38:34.362000+00:00
+8752,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 00:38:37.795000+00:00
+8753,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-18 00:38:50.505000+00:00
+8754,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 00:38:56.375000+00:00
+8755,"Opened tinybee_20141031053842.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 00:39:03.572000+00:00
+8756,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 00:39:06.542000+00:00
+8757,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 00:39:08.266000+00:00
+8758,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 00:39:12.646000+00:00
+8759,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 00:39:15.038000+00:00
+8760,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 00:39:17.994000+00:00
+8761,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 00:39:22.022000+00:00

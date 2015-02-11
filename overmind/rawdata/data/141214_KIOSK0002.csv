@@ -1,0 +1,40 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+4046,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 02:32:47.480000+00:00
+4047,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 02:32:51.384000+00:00
+4048,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 02:32:55.065000+00:00
+4049,"Artist search for Bijan Peters,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 02:32:58.696000+00:00
+4050,"Opened bijan_20140829194406.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,,2014-12-15 02:33:03.535000+00:00
+4051,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,,2014-12-15 02:33:10.796000+00:00
+4052,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,,2014-12-15 02:33:12.066000+00:00
+4053,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,bijan_20140829194406.jpg,2014-12-15 02:33:14.831000+00:00
+4054,"Successful coupon: parade,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,bijan_20140829194406.jpg,2014-12-15 02:33:20.304000+00:00
+4055,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,bijan_20140829194406.jpg,2014-12-15 02:33:33.097000+00:00
+4056,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 02:33:34.957000+00:00
+4057,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 02:33:38.262000+00:00
+4058,"Wrong artist search for bij,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 02:33:40.614000+00:00
+4059,"Artist search for Bijan Peters,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 02:33:43.410000+00:00
+4060,"Opened bijan_20140829194406.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,,2014-12-15 02:33:45.558000+00:00
+4061,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,bijan_20140829194406.jpg,2014-12-15 02:33:46.548000+00:00
+4062,"Successful coupon: parade,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,bijan_20140829194406.jpg,2014-12-15 02:33:53.007000+00:00
+4063,"credit,BIJAN B            ,PETERS,1418610841MCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebit",blank,,blank,bijan_20140829194406.jpg,2014-12-15 02:34:00.741000+00:00
+4064,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,bijan_20140829194406.jpg,2014-12-15 02:34:05.759000+00:00
+4065,blank,blank,blank,blank,blank,2014-12-15 02:34:06.652000+00:00
+4066,blank,blank,blank,blank,blank,2014-12-15 02:34:06.900000+00:00
+4067,No prints in queue,blank,blank,blank,blank,2014-12-15 02:35:32.436000+00:00
+4068,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 02:35:47.464000+00:00
+4069,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 02:35:50.288000+00:00
+4070,"Artist search for Bijan Peters,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 02:35:52.767000+00:00
+4071,"Opened bijan_20140829192339.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,,2014-12-15 02:35:54.888000+00:00
+4072,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,bijan_20140829192339.jpg,2014-12-15 02:35:56.305000+00:00
+4073,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,,2014-12-15 02:36:26.684000+00:00
+4074,"Inside left of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,,2014-12-15 02:36:28.521000+00:00
+4075,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,bijan_20140829192339.jpg,2014-12-15 02:36:38.717000+00:00
+4076,"credit,BIJAN B            ,PETERS,1418611001MCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebit",blank,,blank,bijan_20140829192339.jpg,2014-12-15 02:36:41.336000+00:00
+4077,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Bijan%20Peters",blank,,blank,bijan_20140829192339.jpg,2014-12-15 02:36:46.353000+00:00
+4078,blank,blank,blank,blank,blank,2014-12-15 02:36:47.301000+00:00
+4079,blank,blank,blank,blank,blank,2014-12-15 02:36:47.505000+00:00
+4080,"Net Promoter value of 5,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 02:37:48.944000+00:00
+4081,No prints in queue,blank,blank,blank,blank,2014-12-15 02:38:07.045000+00:00
+4082,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 02:38:22.093000+00:00
+4082,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 02:38:22.093000+00:00
+4082,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 02:38:22.093000+00:00

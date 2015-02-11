@@ -1,0 +1,174 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+8762,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:16:07.338000+00:00
+8763,"Artist search for Katherine Devine,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:16:14.251000+00:00
+8764,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Katherine%20Devine",blank,,blank,,2014-12-18 16:16:21.977000+00:00
+8765,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:16:24+00:00
+8766,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:24:02.836000+00:00
+8767,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:24:05.652000+00:00
+8768,"Opened katherinedevine_20141203191639.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:24:36.551000+00:00
+8769,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:24:40.498000+00:00
+8770,"Opened BlueHolidaysVector-by-Freevectors.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:25:12.951000+00:00
+8771,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:25:14.456000+00:00
+8772,"Opened running.river_20141109034007.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:25:28.005000+00:00
+8773,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:25:34.574000+00:00
+8774,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:25:37.514000+00:00
+8775,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:25:38.445000+00:00
+8776,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:26:56.394000+00:00
+8777,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:26:59.065000+00:00
+8778,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,It's a major award!,blank,,2014-12-18 16:27:47.369000+00:00
+8779,"Opened running.river_20141109034007.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:28:55.391000+00:00
+8780,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:29:00.800000+00:00
+8781,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,May your days be merry and bright.,blank,,2014-12-18 16:29:02.274000+00:00
+8782,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,It's a major award!,blank,,2014-12-18 16:29:04.447000+00:00
+8783,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,It's a major award!,blank,,2014-12-18 16:29:05.906000+00:00
+8784,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"It's a major award!NEWLINENEWLINEThanks for ypur hard ",blank,,2014-12-18 16:29:17.644000+00:00
+8785,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"It's a major award!NEWLINENEWLINEThanks for ypur hard ",blank,,2014-12-18 16:29:19.196000+00:00
+8786,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"It's a major award!NEWLINENEWLINEThanks for your hard ",blank,,2014-12-18 16:29:24.260000+00:00
+8787,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"It's a major award!NEWLINENEWLINEThanks for your hard work this year!!NEWLINENEWLINE-AaronNEWLINEGarland Properties",blank,running.river_20141109034007.jpg,2014-12-18 16:30:20.523000+00:00
+8788,"credit,2049 ,LLC,1418920236----------------------------------------------------------------------------------------",blank,"It's a major award!NEWLINENEWLINEThanks for your hard work this year!!NEWLINENEWLINE-AaronNEWLINEGarland Properties",blank,running.river_20141109034007.jpg,2014-12-18 16:30:36.384000+00:00
+8789,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"It's a major award!NEWLINENEWLINEThanks for your hard work this year!!NEWLINENEWLINE-AaronNEWLINEGarland Properties",blank,running.river_20141109034007.jpg,2014-12-18 16:30:41.376000+00:00
+8790,blank,blank,blank,blank,blank,2014-12-18 16:30:42.115000+00:00
+8791,blank,blank,blank,blank,blank,2014-12-18 16:30:42.199000+00:00
+8792,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:30:45.862000+00:00
+8793,"Email receipt sent: johnaarongarland@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:31:12.075000+00:00
+8794,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:31:13.939000+00:00
+8795,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:31:18.195000+00:00
+8796,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:31:19.367000+00:00
+8797,"Opened ladylucas_20141028173918.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:31:53.164000+00:00
+8798,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:31:56.481000+00:00
+8799,"Opened ladylucas_20141028174109.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:31:59.814000+00:00
+8800,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:32:01.361000+00:00
+8801,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:32:31.506000+00:00
+8802,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:32:34.503000+00:00
+8803,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:35:15.846000+00:00
+8804,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Thanks for pitching in this year.  Good luck in Utah.NEWLINENEWLINE-Aaron GarlandNEWLINEGarland Properties",blank,tinybee_20141031052726.jpg,2014-12-18 16:36:28.265000+00:00
+8805,"credit,2049 ,LLC,1418920598----------------------------------------------------------------------------------------",blank,"Thanks for pitching in this year.  Good luck in Utah.NEWLINENEWLINE-Aaron GarlandNEWLINEGarland Properties",blank,tinybee_20141031052726.jpg,2014-12-18 16:36:38.052000+00:00
+8806,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Thanks for pitching in this year.  Good luck in Utah.NEWLINENEWLINE-Aaron GarlandNEWLINEGarland Properties",blank,tinybee_20141031052726.jpg,2014-12-18 16:36:43.059000+00:00
+8807,blank,blank,blank,blank,blank,2014-12-18 16:36:44.411000+00:00
+8808,blank,blank,blank,blank,blank,2014-12-18 16:36:44.701000+00:00
+8809,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:36:47.554000+00:00
+8810,"Email receipt sent: johnaarongarland@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:37:12.459000+00:00
+8811,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:37:15.851000+00:00
+8812,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:37:20.121000+00:00
+8813,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:37:21.712000+00:00
+8814,"Opened katherinedevine_20141203191934.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:37:33.051000+00:00
+8815,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,katherinedevine_20141203191934.jpg,2014-12-18 16:37:39.587000+00:00
+8816,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:37:44.539000+00:00
+8817,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:37:46.597000+00:00
+8818,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thankyou for ,blank,,2014-12-18 16:37:56.966000+00:00
+8819,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thankyou for ,blank,,2014-12-18 16:38:05.806000+00:00
+8820,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thank-you for all that you do to keep us organized and on track,blank,,2014-12-18 16:38:50.090000+00:00
+8821,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Thank-you for all that you do to keep us organized and on track.  Here's to another year of fun working together.NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,katherinedevine_20141203191934.jpg,2014-12-18 16:40:27.776000+00:00
+8822,"credit,2049 ,LLC,1418920837----------------------------------------------------------------------------------------",blank,"Thank-you for all that you do to keep us organized and on track.  Here's to another year of fun working together.NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,katherinedevine_20141203191934.jpg,2014-12-18 16:40:37.310000+00:00
+8823,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Thank-you for all that you do to keep us organized and on track.  Here's to another year of fun working together.NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,katherinedevine_20141203191934.jpg,2014-12-18 16:40:42.304000+00:00
+8824,blank,blank,blank,blank,blank,2014-12-18 16:40:42.864000+00:00
+8825,blank,blank,blank,blank,blank,2014-12-18 16:40:43.029000+00:00
+8826,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:40:45.126000+00:00
+8827,"Email receipt sent: johnaarongarland@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:41:06.017000+00:00
+8828,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:41:08.100000+00:00
+8829,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:41:10.321000+00:00
+8830,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:41:13.190000+00:00
+8831,"Opened katherinedevine_20141203202021.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:41:30.410000+00:00
+8832,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:41:36.236000+00:00
+8833,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:41:37.792000+00:00
+8834,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thank-you for all of yoir late nights,blank,,2014-12-18 16:42:03.565000+00:00
+8835,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thank-you for all of your late nights,blank,,2014-12-18 16:42:06.189000+00:00
+8836,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thank-you for all of your late nights,blank,,2014-12-18 16:42:10.576000+00:00
+8837,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thank-you for keeping our buildings clean and all of your late nights,blank,,2014-12-18 16:42:26.257000+00:00
+8838,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Thank-you for keeping our buildings clean and all of your late nights. i always know i can count on you.NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,katherinedevine_20141203202021.jpg,2014-12-18 16:43:18.472000+00:00
+8839,"credit,2049 ,LLC,1418921006----------------------------------------------------------------------------------------",blank,"Thank-you for keeping our buildings clean and all of your late nights. i always know i can count on you.NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,katherinedevine_20141203202021.jpg,2014-12-18 16:43:26.158000+00:00
+8840,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Thank-you for keeping our buildings clean and all of your late nights. i always know i can count on you.NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,katherinedevine_20141203202021.jpg,2014-12-18 16:43:31.155000+00:00
+8841,blank,blank,blank,blank,blank,2014-12-18 16:43:31.666000+00:00
+8842,blank,blank,blank,blank,blank,2014-12-18 16:43:31.899000+00:00
+8843,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:43:43.457000+00:00
+8844,No prints in queue,blank,blank,blank,blank,2014-12-18 16:44:51.469000+00:00
+8845,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:45:06.548000+00:00
+8846,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:46:03.209000+00:00
+8847,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:46:04.014000+00:00
+8848,"Opened katealbee_20141107205930.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:47:00.395000+00:00
+8849,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:47:01.446000+00:00
+8850,"Opened brocards_20141206215232.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:47:03.055000+00:00
+8851,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 16:47:12.341000+00:00
+8852,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Like gallstones, this too shall pass.",blank,,2014-12-18 16:47:21.517000+00:00
+8853,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Like gallstones, this too shall pass.",blank,,2014-12-18 16:47:23.543000+00:00
+8854,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Like gallstones, this too shall pass.NEWLINENEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedication",blank,,2014-12-18 16:49:25.044000+00:00
+8855,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Like gallstones, this too shall pass.""NEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedication",blank,,2014-12-18 16:49:33.712000+00:00
+8856,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Like gallstones, this too shall pass.""NEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedication",blank,,2014-12-18 16:49:38.998000+00:00
+8857,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Like gallstones, this too shall pass.""NEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedication",blank,,2014-12-18 16:49:39.739000+00:00
+8858,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"""Like gallstones, this too shall pass.""NEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedication",blank,,2014-12-18 16:49:55.543000+00:00
+8859,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"""Like gallstones, this too shall pass.""NEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedicationNEWLINEAaron Garland",blank,,2014-12-18 16:50:08.163000+00:00
+8860,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"""Like gallstones, this too shall pass.""NEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedicationNEWLINE-Aaron Garland",blank,,2014-12-18 16:50:22.563000+00:00
+8861,"Back of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"""Like gallstones, this too shall pass.""NEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedicationNEWLINE-Aaron Garland",blank,,2014-12-18 16:50:25.442000+00:00
+8862,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"""Like gallstones, this too shall pass.""NEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedicationNEWLINE-Aaron Garland",blank,,2014-12-18 16:50:27.637000+00:00
+8863,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"""Like gallstones, this too shall pass.""NEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedicationNEWLINE-Aaron Garland",blank,brocards_20141206215232.jpg,2014-12-18 16:50:30.302000+00:00
+8864,"credit,2049 ,LLC,1418921439----------------------------------------------------------------------------------------",blank,"""Like gallstones, this too shall pass.""NEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedicationNEWLINE-Aaron Garland",blank,brocards_20141206215232.jpg,2014-12-18 16:50:39.228000+00:00
+8865,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"""Like gallstones, this too shall pass.""NEWLINELOL - I thought you would appreciate this card.  Thanks for your hard work and dedicationNEWLINE-Aaron Garland",blank,brocards_20141206215232.jpg,2014-12-18 16:50:44.232000+00:00
+8866,blank,blank,blank,blank,blank,2014-12-18 16:50:45.468000+00:00
+8867,blank,blank,blank,blank,blank,2014-12-18 16:50:45.593000+00:00
+8868,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:50:49.740000+00:00
+8869,"Email receipt sent: johnaarongarland@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:51:07.415000+00:00
+8870,No prints in queue,blank,blank,blank,blank,2014-12-18 16:52:07.152000+00:00
+8871,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 16:52:22.189000+00:00
+8872,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:04:47.712000+00:00
+8873,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:04:50.787000+00:00
+8874,"Subcategory Hanukkah button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:04:52.853000+00:00
+8875,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-18 17:05:00.680000+00:00
+8876,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:05:02.647000+00:00
+8877,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:05:03.755000+00:00
+8878,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 17:05:07.831000+00:00
+8879,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 17:05:09.488000+00:00
+8880,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 17:05:11.496000+00:00
+8881,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thank you for all of your support promoting and developing ,blank,,2014-12-18 17:07:10.851000+00:00
+8882,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thank you for all of your support promoting and developing ,blank,,2014-12-18 17:07:26.216000+00:00
+8883,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thank you for all of your support promoting and developing our projects.  we couldn't do it without the ,blank,,2014-12-18 17:09:56.748000+00:00
+8884,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thank you for all of your support promoting and developing our projects.  we couldn't do it without the ,blank,,2014-12-18 17:10:12.385000+00:00
+8885,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Thank you for all of your support promoting and developing our projects.  we couldn't do it without the ambassador of fun. ,blank,,2014-12-18 17:10:49.674000+00:00
+8886,          Page timeout,blank,blank,blank,blank,2014-12-18 17:11:02.471000+00:00
+8887,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:11:59.882000+00:00
+8888,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:12:01.066000+00:00
+8889,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 17:12:04.193000+00:00
+8890,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:12:05.850000+00:00
+8891,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:12:07.150000+00:00
+8892,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 17:12:10.967000+00:00
+8893,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 17:12:15.093000+00:00
+8894,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 17:12:24.516000+00:00
+8895,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 17:12:54.898000+00:00
+8896,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,John / Beth - thank you for all you have done this year to promote and develope our ,blank,,2014-12-18 17:14:30.676000+00:00
+8897,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,John / Beth - thank you for all you have done this year to promote and develope our ,blank,,2014-12-18 17:14:31.971000+00:00
+8898,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,John / Beth - thank you for all you have done this year to promote and develope our ,blank,,2014-12-18 17:14:36.937000+00:00
+8899,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,John / Beth - thank you for all you have done this year to promote and develope our ,blank,,2014-12-18 17:14:38.201000+00:00
+8900,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,John / Beth - thank you for all you have done this year to promote and develop our ,blank,,2014-12-18 17:14:39.985000+00:00
+8901,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"John / Beth - thank you for all you have done this year to promote and develop our projects.  NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,,2014-12-18 17:15:44.388000+00:00
+8902,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"John / Beth - thank you for all you have done this year to promote and develop our projects.  NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,tinybee_20141031052126.jpg,2014-12-18 17:15:46.847000+00:00
+8903,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"John / Beth - thank you for all you have done this year to promote and develop our projects.  NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,,2014-12-18 17:16:28.343000+00:00
+8904,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"John / Beth - thank you for all you have done this year to promote and develop our projects.  NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,tinybee_20141031052126.jpg,2014-12-18 17:16:30.934000+00:00
+8905,"credit,2049 ,LLC,1418923005----------------------------------------------------------------------------------------",blank,"John / Beth - thank you for all you have done this year to promote and develop our projects.  NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,tinybee_20141031052126.jpg,2014-12-18 17:16:44.830000+00:00
+8906,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"John / Beth - thank you for all you have done this year to promote and develop our projects.  NEWLINENEWLINEAaron GarlandNEWLINEGarland Properties",blank,tinybee_20141031052126.jpg,2014-12-18 17:16:49.830000+00:00
+8907,blank,blank,blank,blank,blank,2014-12-18 17:16:51.536000+00:00
+8908,blank,blank,blank,blank,blank,2014-12-18 17:16:51.866000+00:00
+8909,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 17:16:56.294000+00:00
+8910,"Email receipt sent: johnaarongarland@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 17:17:21.333000+00:00
+8911,No prints in queue,blank,blank,blank,blank,2014-12-18 17:18:11.422000+00:00
+8912,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 17:18:26.466000+00:00
+8913,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 18:04:44.165000+00:00
+8914,"Subcategory Everything button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 18:04:46.142000+00:00
+8915,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 18:04:53.617000+00:00
+8916,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 18:04:56.316000+00:00
+8917,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 19:15:47.376000+00:00
+8918,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 19:15:55.335000+00:00
+8919,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 19:16:03.972000+00:00
+8920,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-18 19:16:27.394000+00:00
+8921,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 20:59:23.268000+00:00
+8922,"Opened tinybee_20141029025132.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 20:59:42.789000+00:00
+8923,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 20:59:49.376000+00:00
+8924,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 20:59:51.313000+00:00
+8925,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 20:59:54.059000+00:00
+8926,"Opened tinybee_20141031053738.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 20:59:57.590000+00:00
+8927,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 20:59:58.716000+00:00
+8928,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 21:00:00.187000+00:00
+8929,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 21:00:02.666000+00:00
+8930,"Opened WeBeer.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 21:00:10.141000+00:00
+8931,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 21:00:11.578000+00:00
+8932,"Opened brocards_20141206215649.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 21:00:13.242000+00:00
+8933,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 21:00:14.268000+00:00
+8934,          Page timeout,blank,blank,blank,blank,2014-12-18 21:06:10.799000+00:00

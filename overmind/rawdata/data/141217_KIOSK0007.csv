@@ -1,0 +1,101 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+5700,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 15:25:21.186000+00:00
+5701,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 15:25:23.320000+00:00
+5702,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 15:25:30.504000+00:00
+5703,"Opened katealbee_20141107210323.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 15:25:39.484000+00:00
+5704,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 15:25:46.182000+00:00
+5705,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 15:25:51.698000+00:00
+5706,"Opened eli_christopher_20141206235337.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 15:25:56.426000+00:00
+5707,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 15:25:58.337000+00:00
+5708,          Page timeout,blank,blank,blank,blank,2014-12-17 15:31:48.850000+00:00
+5709,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 17:36:48.150000+00:00
+5710,"Opened ladylucas_20141028173346.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 17:36:50.493000+00:00
+5711,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 17:36:51.034000+00:00
+5712,"Opened tinybee_20141029030515.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 17:36:52.158000+00:00
+5713,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 17:36:52.273000+00:00
+5714,"Opened tinybee_20141029030515.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 17:36:53.011000+00:00
+5715,          Page timeout,blank,blank,blank,blank,2014-12-17 17:42:43.419000+00:00
+5716,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 18:25:19.735000+00:00
+5717,          Page timeout,blank,blank,blank,blank,2014-12-17 18:31:12.590000+00:00
+5718,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 18:52:32.959000+00:00
+5719,          Page timeout,blank,blank,blank,blank,2014-12-17 18:58:26.009000+00:00
+5720,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 19:11:39.104000+00:00
+5721,"Katherine Devine preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 19:11:46.019000+00:00
+5722,"Tina Repass preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=KatherineSPACEDevine",blank,,blank,,2014-12-17 19:11:50.296000+00:00
+5723,          Page timeout,blank,blank,blank,blank,2014-12-17 19:17:42.396000+00:00
+5724,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 19:43:57.597000+00:00
+5725,"Subcategory Anniversary button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 19:44:01.385000+00:00
+5726,"Opened AbstractTreeVectorIllustration.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:44:39.738000+00:00
+5727,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:44:40.969000+00:00
+5728,"Opened AllieKelley6.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:44:51.673000+00:00
+5729,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:44:54.315000+00:00
+5730,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:44:57.437000+00:00
+5731,"Opened valentine.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:45:03.071000+00:00
+5732,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:45:04.100000+00:00
+5733,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:50:41.578000+00:00
+5734,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:50:41.914000+00:00
+5735,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:56:07.907000+00:00
+5736,"Opened nightAndDay_fidostudio.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:56:12.310000+00:00
+5737,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-17 19:56:13.887000+00:00
+5738,"info@cardisle.com email address,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 19:56:14.838000+00:00
+5739,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 19:56:25.872000+00:00
+5740,"Preview for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 19:56:26.843000+00:00
+5741,"Preview for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 19:56:27.496000+00:00
+5742,"Preview for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 19:56:28.270000+00:00
+5743,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 19:56:31.754000+00:00
+5744,"Opened tinybee_20141029030515.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 19:56:37.592000+00:00
+5745,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 19:56:42.878000+00:00
+5746,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 19:56:45.303000+00:00
+5747,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 19:56:50.643000+00:00
+5748,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 19:56:52.095000+00:00
+5749,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 20:21:13.939000+00:00
+5750,          Page timeout,blank,blank,blank,blank,2014-12-17 20:27:14.027000+00:00
+5751,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 22:31:33.242000+00:00
+5752,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-17 22:31:42.385000+00:00
+5753,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 22:31:56.773000+00:00
+5754,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 22:32:03.814000+00:00
+5755,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 22:32:07.869000+00:00
+5756,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 22:32:09.181000+00:00
+5757,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 22:32:10.847000+00:00
+5758,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 22:32:13.656000+00:00
+5759,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 22:32:15.250000+00:00
+5760,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 22:32:17.865000+00:00
+5761,"Opened eli_christopher_20141103041003.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 22:32:35.850000+00:00
+5762,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 22:32:38.745000+00:00
+5763,"Opened sandramcfarland_20141103050712.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 22:32:46.010000+00:00
+5764,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 22:32:52.133000+00:00
+5765,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-17 22:32:53.841000+00:00
+5766,"info@cardisle.com email address,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 22:32:54.960000+00:00
+5767,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-17 23:19:55.297000+00:00
+5768,"Opened jerryrendich_20141031205644.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-17 23:24:44.878000+00:00
+5769,          Page timeout,blank,blank,blank,blank,2014-12-17 23:30:35.373000+00:00
+5770,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 02:09:06.207000+00:00
+5771,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 02:09:06.451000+00:00
+5772,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 02:09:12.298000+00:00
+5773,"Opened FreeVectorSnowflakes-by-room122.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 02:09:44.894000+00:00
+5774,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 02:09:53.278000+00:00
+5775,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Good tidings and Cheer,blank,,2014-12-18 02:09:58.079000+00:00
+5776,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Good tidings and Cheer,blank,,2014-12-18 02:10:02.377000+00:00
+5777,"Opened harveycreasey_20141204162607.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Good tidings and Cheer,blank,,2014-12-18 02:10:16.113000+00:00
+5778,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Happy Holidays.,blank,,2014-12-18 02:10:24.790000+00:00
+5779,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Happy Holidays.,blank,,2014-12-18 02:10:42.732000+00:00
+5780,"Opened ChristmasGifts-by-dezignus.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Happy Holidays.,blank,,2014-12-18 02:10:59.056000+00:00
+5781,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Happy Holidays.,blank,,2014-12-18 02:11:19.233000+00:00
+5782,          Page timeout,blank,blank,blank,blank,2014-12-18 02:17:54.859000+00:00
+5783,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 02:35:13.994000+00:00
+5784,"Opened bijan_20140923051640.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 02:35:20.442000+00:00
+5785,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,bijan_20140923051640.jpg,2014-12-18 02:35:22.664000+00:00
+5786,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 02:35:27.499000+00:00
+5787,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,bijan_20140923051640.jpg,2014-12-18 02:35:31.242000+00:00
+5788,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 02:35:34.658000+00:00
+5789,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 02:35:35.054000+00:00
+5790,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 02:35:39.609000+00:00
+5791,          Page timeout,blank,blank,blank,blank,2014-12-18 02:41:31.487000+00:00
+5792,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 02:46:17.539000+00:00
+5793,"Opened jerrylofaro_20140429153027.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 02:46:25.295000+00:00
+5794,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 02:46:35.504000+00:00
+5795,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 02:46:39.796000+00:00
+5796,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 02:46:42.801000+00:00
+5797,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 02:47:00.049000+00:00
+5798,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 02:47:01.532000+00:00
+5799,          Page timeout,blank,blank,blank,blank,2014-12-18 02:53:15.571000+00:00

@@ -1,0 +1,9 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+3015,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-20 13:41:05.918000+00:00
+3016,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-20 13:41:07.027000+00:00
+3017,"Opened running.river_20141109035100.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-20 13:41:10.527000+00:00
+3018,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-20 13:41:11.179000+00:00
+3019,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-20 13:41:11.903000+00:00
+3020,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"ioskmheckNEWLINE",blank,running.river_20141109035100.jpg,2014-12-20 13:41:17.668000+00:00
+3021,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"ioskmheckNEWLINE",blank,,2014-12-20 13:41:18.994000+00:00
+3022,          Page timeout,blank,blank,blank,blank,2014-12-20 13:47:08.659000+00:00

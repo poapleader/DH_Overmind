@@ -1,0 +1,24 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+4893,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 13:27:40.567000+00:00
+4894,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 13:27:42.419000+00:00
+4895,"Opened BellaMediaDesigns.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-23 13:28:33.985000+00:00
+4896,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-23 13:28:39.684000+00:00
+4897,"Opened ladylucas_20141006174513.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-23 13:28:51.084000+00:00
+4898,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-23 13:28:56.849000+00:00
+4899,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-23 13:29:03.136000+00:00
+4900,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday to my baby girl!NEWLINENEWLINELove you!NEWLINEMommy, Daddy, and PaulNEWLINE",blank,ladylucas_20141006174513.jpg,2014-12-23 13:31:41.773000+00:00
+4901,"credit,MARIA P,FLEGAS,1419341514----------------------------------------------------------------------------------------",blank,"Happy Birthday to my baby girl!NEWLINENEWLINELove you!NEWLINEMommy, Daddy, and PaulNEWLINE",blank,ladylucas_20141006174513.jpg,2014-12-23 13:31:54.095000+00:00
+4902,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday to my baby girl!NEWLINENEWLINELove you!NEWLINEMommy, Daddy, and PaulNEWLINE",blank,ladylucas_20141006174513.jpg,2014-12-23 13:31:59.101000+00:00
+4903,blank,blank,blank,blank,blank,2014-12-23 13:31:59.958000+00:00
+4904,blank,blank,blank,blank,blank,2014-12-23 13:32:00.054000+00:00
+4905,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-23 13:32:39.880000+00:00
+4906,"Invalid email: mflegad,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-23 13:32:50.868000+00:00
+4907,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-23 13:32:54.377000+00:00
+4908,"Invalid email: mflegad,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-23 13:32:55.963000+00:00
+4909,          Page timeout,blank,blank,blank,blank,2014-12-23 13:38:48.156000+00:00
+4910,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 15:00:20.907000+00:00
+4911,"Subcategory Just_Because button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 15:00:27.609000+00:00
+4912,"Opened AllieKelley9.jpg,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-23 15:00:37.583000+00:00
+4913,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-23 15:00:41.758000+00:00
+4914,          Page timeout,blank,blank,blank,blank,2014-12-23 15:06:27.968000+00:00
+4915,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 17:40:03.997000+00:00

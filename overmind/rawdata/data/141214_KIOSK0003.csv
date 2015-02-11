@@ -1,0 +1,134 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+5259,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 16:39:10.242000+00:00
+5260,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 16:39:11.912000+00:00
+5261,"Subcategory New_River_Valley button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 16:39:16.892000+00:00
+5262,"Adam Donato preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-14 16:39:23.154000+00:00
+5263,"Allie Kelley preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=AdamSPACEDonato",blank,,blank,,2014-12-14 16:39:25.801000+00:00
+5264,"Kearah Donato preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=AllieSPACEKelleyANDANDAdamSPACEDonato",blank,,blank,,2014-12-14 16:39:28.637000+00:00
+5265,"Bijan Peters preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=KearahSPACEDonatoANDANDAllieSPACEKelleyANDANDAdamSPACEDonato",blank,,blank,,2014-12-14 16:39:31.004000+00:00
+5266,"Steven Baker preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=BijanSPACEPetersANDANDKearahSPACEDonatoANDANDAllieSPACEKelleyANDANDAdamSPACEDonato",blank,,blank,,2014-12-14 16:39:33.819000+00:00
+5267,Harvey Creasey preference value button,blank,,blank,,2014-12-14 16:39:36.244000+00:00
+5268,Back button to start screen,blank,,blank,,2014-12-14 16:39:41.750000+00:00
+5269,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 16:39:52.150000+00:00
+5270,"Subcategory Everything button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 16:39:56.532000+00:00
+5271,"Opened cupCakes.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-14 16:40:38.447000+00:00
+5272,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"It's your birthday,therefore so you get the biggest cake.",blank,,2014-12-14 16:40:50.772000+00:00
+5273,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"It's your birthday,therefore so you get the biggest cake.",blank,,2014-12-14 16:41:00.665000+00:00
+5274,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"Happy Birthday Nicole!NEWLINEIt's not what you have in Life, but who you have in your life that matter.",blank,,2014-12-14 16:43:17.717000+00:00
+5275,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"Happy Birthday Nicole!NEWLINENEWLINEIt's not what you have in Life, but who you have in your life that matter.",blank,,2014-12-14 16:43:23.978000+00:00
+5276,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"Happy Birthday Nicole!NEWLINENEWLINEIt's not what you have in Life, but who you have in your life that matter. You have been blessed by many that love you!",blank,,2014-12-14 16:44:27.045000+00:00
+5277,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"Happy Birthday Nicole!NEWLINENEWLINEIt's not what you have in Life, but who you have in your life that matter. You have been blessed by many that love you!",blank,,2014-12-14 16:44:27.927000+00:00
+5278,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"Happy Birthday Nicole!NEWLINENEWLINEIt's not what you have in Life, but who you have in your life that matters. You have been blessed by many that love you!",blank,cupCakes.jpg,2014-12-14 16:44:40.898000+00:00
+5279,"credit,JOHN E,TARTER,1418575490MCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebit",blank,"Happy Birthday Nicole!NEWLINENEWLINEIt's not what you have in Life, but who you have in your life that matters. You have been blessed by many that love you!",blank,cupCakes.jpg,2014-12-14 16:44:50.130000+00:00
+5280,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"Happy Birthday Nicole!NEWLINENEWLINEIt's not what you have in Life, but who you have in your life that matters. You have been blessed by many that love you!",blank,cupCakes.jpg,2014-12-14 16:44:55.146000+00:00
+5281,blank,blank,blank,blank,blank,2014-12-14 16:44:55.964000+00:00
+5282,blank,blank,blank,blank,blank,2014-12-14 16:44:56.269000+00:00
+5283,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-14 16:45:04.444000+00:00
+5284,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:11.073000+00:00
+5285,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:13.050000+00:00
+5286,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:15.057000+00:00
+5287,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:17.048000+00:00
+5288,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:19.048000+00:00
+5289,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:21.051000+00:00
+5290,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:23.062000+00:00
+5291,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:25.061000+00:00
+5292,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:27.071000+00:00
+5293,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:29.067000+00:00
+5294,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:31.070000+00:00
+5295,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:33.060000+00:00
+5296,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:35.070000+00:00
+5297,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:37.065000+00:00
+5298,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:39.066000+00:00
+5299,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:41.064000+00:00
+5300,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:43.062000+00:00
+5301,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:45.069000+00:00
+5302,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:47.068000+00:00
+5303,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:49.089000+00:00
+5304,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:51.071000+00:00
+5305,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:53.068000+00:00
+5306,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:55.065000+00:00
+5307,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:57.067000+00:00
+5308,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:45:59.097000+00:00
+5309,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:46:01.067000+00:00
+5310,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:46:03.068000+00:00
+5311,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:46:05.062000+00:00
+5312,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:46:07.079000+00:00
+5313,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:46:09.082000+00:00
+5314,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:46:11.084000+00:00
+5315,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:46:13.078000+00:00
+5316,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-14 16:46:15.084000+00:00
+5317,No prints in queue,blank,blank,blank,blank,2014-12-14 16:46:21.811000+00:00
+5318,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-14 16:46:36.837000+00:00
+5319,Swapping default printer from Canon MG7100 series to Canon MG7100 series Printer,blank,blank,blank,blank,2014-12-14 17:19:38.098000+00:00
+5320,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 17:19:38.331000+00:00
+5321,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 17:42:13.545000+00:00
+5322,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 17:42:15.164000+00:00
+5323,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:42:18.068000+00:00
+5324,"Local artists preference value TOP button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-14 17:42:32.298000+00:00
+5325,"Suggestive button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:42:35.671000+00:00
+5326,"Suggestive TOGGLE,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:42:39.029000+00:00
+5327,"Opened nettasart2014_20141202040712.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 17:43:08.471000+00:00
+5328,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 17:43:13.382000+00:00
+5329,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 17:43:14.925000+00:00
+5330,"Opened nettasart2014_20141202040341.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 17:43:16.665000+00:00
+5331,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 17:43:19.118000+00:00
+5332,"Opened tinybee_20141114044421.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 17:43:24.392000+00:00
+5333,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 17:43:30.408000+00:00
+5334,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 17:43:38.409000+00:00
+5335,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 17:43:41.566000+00:00
+5336,"Subcategory ValentineSINGLEs_Day button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 17:43:43.861000+00:00
+5337,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/ValentineSINGLEs_Day/",blank,,blank,,2014-12-14 17:43:51.266000+00:00
+5338,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 17:43:59.699000+00:00
+5339,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 17:44:02.170000+00:00
+5340,"Opened running.river_20141109034007.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:44:07.826000+00:00
+5341,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:44:12.306000+00:00
+5342,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:44:13.627000+00:00
+5343,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:44:17.703000+00:00
+5344,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:44:24.462000+00:00
+5345,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:44:27.045000+00:00
+5346,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:44:28.440000+00:00
+5347,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:44:29.059000+00:00
+5348,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:44:31.757000+00:00
+5349,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hi,blank,tinybee_20141031052126.jpg,2014-12-14 17:44:33.795000+00:00
+5350,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hi,blank,,2014-12-14 17:44:37.342000+00:00
+5351,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 17:44:39.386000+00:00
+5352,"info@cardisle.com email address,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 17:44:40.407000+00:00
+5353,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 19:00:48.394000+00:00
+5354,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 19:00:50.022000+00:00
+5355,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 19:00:57.471000+00:00
+5356,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 19:00:58.609000+00:00
+5357,"Suggestive button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 19:01:06.116000+00:00
+5358,"Suggestive TOGGLE,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-14 19:01:07.537000+00:00
+5359,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 19:01:12.264000+00:00
+5360,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 19:01:14.842000+00:00
+5361,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 19:01:16.782000+00:00
+5362,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 19:01:20.485000+00:00
+5363,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 19:01:22.613000+00:00
+5364,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-14 19:01:25.541000+00:00
+5365,"Inside right of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:01:28.942000+00:00
+5366,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:01:30.930000+00:00
+5367,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,tinybee_20141031052726.jpg,2014-12-14 19:01:32.698000+00:00
+5368,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:01:37.545000+00:00
+5369,"Opened running.river_20141109035604.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:01:41.482000+00:00
+5370,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:01:44.332000+00:00
+5371,"Opened eli_christopher_20140915232953.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:01:53.431000+00:00
+5372,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:01:56.544000+00:00
+5373,"Opened eli_christopher_20141103041003.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:02:10.965000+00:00
+5374,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:02:14.374000+00:00
+5375,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:02:14.707000+00:00
+5376,"Inside right of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:02:19.146000+00:00
+5377,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:02:20.419000+00:00
+5378,"Opened tinybee_20141121031210.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"poopNEWLINE",blank,,2014-12-14 19:02:25.828000+00:00
+5379,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,Santa's watching.,blank,,2014-12-14 19:02:30.773000+00:00
+5380,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,Santa's watching.,blank,,2014-12-14 19:02:33.426000+00:00
+5381,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,Santa's watching.,blank,,2014-12-14 19:02:35.956000+00:00
+5382,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,Santa's watching.,blank,,2014-12-14 19:02:40.646000+00:00
+5383,          Hourly restart,blank,blank,blank,blank,2014-12-14 19:08:30.757000+00:00
+5384,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-14 20:12:36.163000+00:00
+5385,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-14 20:12:40.687000+00:00
+5386,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 04:56:01.272000+00:00
+5387,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 04:56:01.972000+00:00
+5388,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 04:56:02.617000+00:00
+5389,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 04:56:03.856000+00:00
+5390,"Artist search for Harvey Creasey,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 04:56:06.762000+00:00
+5391,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Harvey%20Creasey",blank,,blank,,2014-12-15 04:56:49.105000+00:00

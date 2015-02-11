@@ -1,0 +1,26 @@
+Unit Number: KIOSK0003
+Unit Details: 1st Kiosk made by Drew Dodson
+Unit Notes: 
+
+Current Location: DEITRICK
+
+Current Components
+	Computer: SERVICE_TAG 3QTWS12; EXPRESS_CODE 8152706786
+	Screen: CN-OH6V56-74261-3CG-0EDU T
+	Printer_Top: ACYR82365
+	Printer_Bot: ACYR24368
+	Modem: S/N 142601-0173; IMEI 35969205100212; ICCID 891480000007702925468; MOBILE# 540-200-7651
+	ANTENNA: MIMO 4G LTE
+	CC Reader: B1C3FFA
+	KEY NUMBER:
+		TOP HATCH: ??
+		BOTTOM HATCH: ??
+		
+Open Action Items:
+	VERIFY CC READER
+
+
+
+History
+	141205; 35 TOP 35 BOTTOM CARD STOCK; ENVELOPES GOOD
+	141216; Restocking Event; C Ink Changed on Top Print; PGBK Ink Changed on Bot Print; Cards Upped to 35 each and ENV Upped to 60 each

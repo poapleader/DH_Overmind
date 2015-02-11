@@ -1,0 +1,64 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+4653,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 10:10:13.143000+00:00
+4654,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-08 10:10:35.937000+00:00
+4655,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-08 10:10:40.187000+00:00
+4656,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-08 10:10:41.844000+00:00
+4657,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=JerrySPACERendich",blank,,blank,,2014-12-08 10:10:44.789000+00:00
+4658,"Alexis Rawlins preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucasANDANDJerrySPACERendich",blank,,blank,,2014-12-08 10:10:46.941000+00:00
+4659,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlinsANDANDAshleySPACELucasANDANDJerrySPACERendich",blank,,blank,,2014-12-08 10:10:48.900000+00:00
+4660,"Opened ladylucas_20141028173800.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlinsANDANDAshleySPACELucas",blank,,blank,,2014-12-08 10:10:56.062000+00:00
+4661,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlinsANDANDAshleySPACELucas",blank,,blank,ladylucas_20141028173800.jpg,2014-12-08 10:10:59.144000+00:00
+4662,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlinsANDANDAshleySPACELucas",blank,,blank,,2014-12-08 10:11:05.002000+00:00
+4663,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlinsANDANDAshleySPACELucas",blank,,blank,,2014-12-08 10:11:06.729000+00:00
+4664,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlinsANDANDAshleySPACELucas",blank,gggggbb,blank,ladylucas_20141028173800.jpg,2014-12-08 10:11:14.559000+00:00
+4665,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlinsANDANDAshleySPACELucas",blank,gggggbb,blank,,2014-12-08 10:11:17.521000+00:00
+4666,          Hourly restart,blank,blank,blank,blank,2014-12-08 10:17:08.708000+00:00
+4667,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 19:29:00.128000+00:00
+4668,          Hourly restart,blank,blank,blank,blank,2014-12-08 19:34:51.626000+00:00
+4669,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 19:43:55.156000+00:00
+4670,          Hourly restart,blank,blank,blank,blank,2014-12-08 19:49:46.669000+00:00
+4671,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 20:06:50.436000+00:00
+4672,          Hourly restart,blank,blank,blank,blank,2014-12-08 20:12:41.968000+00:00
+4673,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 20:57:11.894000+00:00
+4674,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-08 20:57:29.793000+00:00
+4675,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 20:57:34.872000+00:00
+4676,"Opened ladylucas_20141028174109.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-08 20:57:47.004000+00:00
+4677,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-08 20:57:47.613000+00:00
+4678,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-08 20:57:51.750000+00:00
+4679,          Hourly restart,blank,blank,blank,blank,2014-12-08 21:03:42.763000+00:00
+4680,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 21:16:09.741000+00:00
+4681,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-08 21:16:11.470000+00:00
+4682,"Date at bottom of page,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 21:16:13.257000+00:00
+4683,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 21:16:19.581000+00:00
+4684,"Opened jerryrendich_20141031205130.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-08 21:16:54.939000+00:00
+4685,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-08 21:17:18.323000+00:00
+4686,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-08 21:17:24.223000+00:00
+4687,"Opened jerryrendich_20141031205130.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-08 21:17:33.067000+00:00
+4688,          Hourly restart,blank,blank,blank,blank,2014-12-08 21:23:23.507000+00:00
+4689,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 21:54:42.667000+00:00
+4690,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 21:54:43.255000+00:00
+4691,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 21:54:43.840000+00:00
+4692,          Hourly restart,blank,blank,blank,blank,2014-12-08 22:00:35.908000+00:00
+4693,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 23:26:00.866000+00:00
+4694,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-08 23:26:03.071000+00:00
+4695,"Opened katealbee_20140923020751.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:26:47.408000+00:00
+4696,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:26:55.620000+00:00
+4697,"Opened BellaMediaDesigns.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:27:02.855000+00:00
+4698,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:27:10.094000+00:00
+4699,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:27:17.147000+00:00
+4700,"Opened pmateson_20141002161216.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:27:36.896000+00:00
+4701,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:27:47.126000+00:00
+4702,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:27:48.483000+00:00
+4703,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:27:49.847000+00:00
+4704,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:28:02.914000+00:00
+4705,"Opened txtMsg.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:28:08.852000+00:00
+4706,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:28:17.319000+00:00
+4707,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:28:18.415000+00:00
+4708,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:28:20.758000+00:00
+4709,"Opened purpleBow.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:28:33.162000+00:00
+4710,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:28:37.536000+00:00
+4711,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:28:43.174000+00:00
+4712,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:28:44.961000+00:00
+4713,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,May your birthday be full of surprises!,blank,,2014-12-08 23:28:48.399000+00:00
+4714,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,May your birthday be full of surprises!,blank,,2014-12-08 23:29:02.398000+00:00
+4715,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-08 23:29:04.291000+00:00

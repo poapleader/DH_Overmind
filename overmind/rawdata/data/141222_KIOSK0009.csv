@@ -1,0 +1,137 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+2444,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 15:09:10.713000+00:00
+2445,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 15:09:11.654000+00:00
+2446,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 15:10:16.695000+00:00
+2447,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 15:10:17.867000+00:00
+2448,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Merry Christmas!,blank,,2014-12-22 15:10:18.999000+00:00
+2449,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Merry Christmas!,blank,,2014-12-22 15:10:20.596000+00:00
+2450,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas ErinNEWLINE!",blank,tinybee_20141031052126.jpg,2014-12-22 15:10:29.007000+00:00
+2451,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas ErinNEWLINE!",blank,,2014-12-22 15:10:30.430000+00:00
+2452,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Merry Christmas Erin!,blank,tinybee_20141031052126.jpg,2014-12-22 15:10:39.768000+00:00
+2453,blank,blank,blank,blank,blank,2014-12-22 15:10:41.503000+00:00
+2454,blank,blank,blank,blank,blank,2014-12-22 15:10:41.815000+00:00
+2455,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 15:10:47.659000+00:00
+2456,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 15:10:52.657000+00:00
+2457,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 15:10:54.290000+00:00
+2458,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 15:11:03.392000+00:00
+2459,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 15:11:04.773000+00:00
+2460,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 15:11:05.970000+00:00
+2461,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 15:11:19.021000+00:00
+2462,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 15:11:21.156000+00:00
+2463,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 15:11:21.549000+00:00
+2464,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 15:11:22.582000+00:00
+2465,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Feline Navidad!,blank,tinybee_20141125210625.jpg,2014-12-22 15:11:37.983000+00:00
+2466,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Feline Navidad!,blank,tinybee_20141125210625.jpg,2014-12-22 15:11:43.855000+00:00
+2467,blank,blank,blank,blank,blank,2014-12-22 15:11:45.194000+00:00
+2468,blank,blank,blank,blank,blank,2014-12-22 15:11:45.374000+00:00
+2469,No prints in queue,blank,blank,blank,blank,2014-12-22 15:12:58.929000+00:00
+2470,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 15:13:13.949000+00:00
+2471,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 16:21:37.131000+00:00
+2472,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 16:21:39.485000+00:00
+2473,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-22 16:21:44.124000+00:00
+2474,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 16:21:44.998000+00:00
+2475,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 16:21:49.778000+00:00
+2476,blank,blank,blank,blank,blank,2014-12-22 16:21:50.492000+00:00
+2477,blank,blank,blank,blank,blank,2014-12-22 16:21:50.601000+00:00
+2478,No prints in queue,blank,blank,blank,blank,2014-12-22 16:23:04.144000+00:00
+2479,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 16:23:10.042000+00:00
+2480,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 16:23:11.629000+00:00
+2481,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 16:23:14.185000+00:00
+2482,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-22 16:23:17.981000+00:00
+2483,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 16:23:18.529000+00:00
+2484,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 16:23:25.256000+00:00
+2485,blank,blank,blank,blank,blank,2014-12-22 16:23:25.850000+00:00
+2486,blank,blank,blank,blank,blank,2014-12-22 16:23:25.982000+00:00
+2487,No prints in queue,blank,blank,blank,blank,2014-12-22 16:24:27.537000+00:00
+2488,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 16:24:36.336000+00:00
+2489,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 17:06:03.413000+00:00
+2490,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 17:06:05.266000+00:00
+2491,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-22 17:06:09.618000+00:00
+2492,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 17:06:10.183000+00:00
+2493,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 17:06:14.351000+00:00
+2494,blank,blank,blank,blank,blank,2014-12-22 17:06:14.941000+00:00
+2495,blank,blank,blank,blank,blank,2014-12-22 17:06:15.198000+00:00
+2496,No prints in queue,blank,blank,blank,blank,2014-12-22 17:07:28.776000+00:00
+2497,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 17:07:39.499000+00:00
+2498,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 17:07:41.887000+00:00
+2499,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 17:07:46.164000+00:00
+2500,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-22 17:08:14.900000+00:00
+2501,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 17:08:16.322000+00:00
+2502,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 17:08:19.442000+00:00
+2503,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 17:08:23.553000+00:00
+2504,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 17:08:24.115000+00:00
+2505,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 17:08:25.142000+00:00
+2506,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 17:08:26.285000+00:00
+2507,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,... or should I say Katmas?,blank,tinybee_20141125210625.jpg,2014-12-22 17:09:11.517000+00:00
+2508,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,... or should I say Katmas?,blank,tinybee_20141125210625.jpg,2014-12-22 17:09:16.315000+00:00
+2509,blank,blank,blank,blank,blank,2014-12-22 17:09:17.861000+00:00
+2510,blank,blank,blank,blank,blank,2014-12-22 17:09:18.082000+00:00
+2511,No prints in queue,blank,blank,blank,blank,2014-12-22 17:10:33.632000+00:00
+2512,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 17:10:48.657000+00:00
+2513,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:01:53.322000+00:00
+2514,"Go home button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 18:02:03.590000+00:00
+2515,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:02:06.009000+00:00
+2516,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:02:08.131000+00:00
+2517,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-22 18:02:37.473000+00:00
+2518,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 18:02:38.563000+00:00
+2519,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 18:02:43.859000+00:00
+2520,blank,blank,blank,blank,blank,2014-12-22 18:02:44.420000+00:00
+2521,blank,blank,blank,blank,blank,2014-12-22 18:02:44.717000+00:00
+2522,No prints in queue,blank,blank,blank,blank,2014-12-22 18:04:10.289000+00:00
+2523,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 18:04:25.315000+00:00
+2524,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:04:53.514000+00:00
+2525,"Go home button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-22 18:04:55.234000+00:00
+2526,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:04:56.669000+00:00
+2527,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:04:59.763000+00:00
+2528,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-22 18:05:04.181000+00:00
+2529,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 18:05:04.847000+00:00
+2530,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 18:05:08.785000+00:00
+2531,blank,blank,blank,blank,blank,2014-12-22 18:05:09.507000+00:00
+2532,blank,blank,blank,blank,blank,2014-12-22 18:05:09.630000+00:00
+2533,No prints in queue,blank,blank,blank,blank,2014-12-22 18:07:29.202000+00:00
+2534,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 18:07:44.228000+00:00
+2535,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:07:52.304000+00:00
+2536,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:07:55.911000+00:00
+2537,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-22 18:08:00.068000+00:00
+2538,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 18:08:00.680000+00:00
+2539,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-22 18:08:05.464000+00:00
+2540,blank,blank,blank,blank,blank,2014-12-22 18:08:06.076000+00:00
+2541,blank,blank,blank,blank,blank,2014-12-22 18:08:06.253000+00:00
+2542,---Default printer Canon MG7100 series Printer has issue that requires intervention.---,blank,blank,blank,blank,2014-12-22 18:13:25.156000+00:00
+2543,Swapping default printer from Canon MG7100 series Printer to Canon MG7100 series,blank,blank,blank,blank,2014-12-22 18:13:25.249000+00:00
+2544,Print command has been sent for printer Canon MG7100 series,blank,blank,blank,blank,2014-12-22 18:13:25.460000+00:00
+2545,No prints in queue,blank,blank,blank,blank,2014-12-22 18:15:21.937000+00:00
+2546,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 18:15:35.965000+00:00
+2547,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:15:38.348000+00:00
+2548,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:15:38.487000+00:00
+2549,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:15:40.045000+00:00
+2550,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:15:42.661000+00:00
+2551,"Local preference name button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 18:15:47.369000+00:00
+2552,"Artists preference name button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 18:15:48.002000+00:00
+2553,"Go home button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 18:15:49.338000+00:00
+2554,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:15:50.984000+00:00
+2555,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:15:52.252000+00:00
+2556,"Opened katealbee_20141107210218.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 18:16:13.559000+00:00
+2557,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 18:16:14.411000+00:00
+2558,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,katealbee_20141107210218.jpg,2014-12-22 18:16:16.047000+00:00
+2559,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,katealbee_20141107210218.jpg,2014-12-22 18:16:20.376000+00:00
+2560,blank,blank,blank,blank,blank,2014-12-22 18:16:21.268000+00:00
+2561,blank,blank,blank,blank,blank,2014-12-22 18:16:21.553000+00:00
+2562,No prints in queue,blank,blank,blank,blank,2014-12-22 18:17:37.128000+00:00
+2563,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 18:17:52.160000+00:00
+2564,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:19:11.831000+00:00
+2565,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-22 18:19:13.814000+00:00
+2566,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:19:15.224000+00:00
+2567,"Opened tinybee_20141031052618.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-22 18:19:17.011000+00:00
+2568,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-22 18:19:17.730000+00:00
+2569,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-22 18:19:21.096000+00:00
+2570,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-22 18:19:21.386000+00:00
+2571,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:19:25.567000+00:00
+2572,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-22 18:19:26.811000+00:00
+2573,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:20:05.164000+00:00
+2574,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-22 18:20:06.834000+00:00
+2575,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 18:20:08.201000+00:00
+2576,"Opened tinybee_20141031055132.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-22 18:20:10.063000+00:00
+2577,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-22 18:20:10.694000+00:00
+2578,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-22 18:20:13.195000+00:00
+2579,          Page timeout,blank,blank,blank,blank,2014-12-22 18:25:59.506000+00:00

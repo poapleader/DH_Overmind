@@ -1,0 +1,76 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+2730,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 18:10:32.645000+00:00
+2731,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 18:10:38.899000+00:00
+2732,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-24 18:10:56.185000+00:00
+2733,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 18:11:32.232000+00:00
+2734,"Opened m_helton26._20141210172703.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-24 18:11:35.070000+00:00
+2735,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-24 18:11:37.470000+00:00
+2736,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-24 18:11:40.872000+00:00
+2737,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-24 18:11:48.581000+00:00
+2738,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-24 18:11:52.909000+00:00
+2739,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,"Merry Christmas!!NEWLINEMay 2015 bring you lots of Joy, Happiness and fun Adventures. ",blank,,2014-12-24 18:13:48.484000+00:00
+2740,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,"Merry Christmas!!NEWLINENEWLINEMay 2015 bring you lots of Joy, Happiness and fun Adventures. ",blank,,2014-12-24 18:14:01.834000+00:00
+2741,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,"Merry Christmas!!NEWLINENEWLINEMay 2015 bring you lots of Joy, Happiness and fun Adventures. NEWLINE",blank,m_helton26._20141210172703.jpg,2014-12-24 18:15:07.922000+00:00
+2742,"credit,NADJA,KOPP,1419444920----------------------------------------------------------------------------------------",blank,"Merry Christmas!!NEWLINENEWLINEMay 2015 bring you lots of Joy, Happiness and fun Adventures. NEWLINE",blank,m_helton26._20141210172703.jpg,2014-12-24 18:15:19.991000+00:00
+2743,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,"Merry Christmas!!NEWLINENEWLINEMay 2015 bring you lots of Joy, Happiness and fun Adventures. NEWLINE",blank,m_helton26._20141210172703.jpg,2014-12-24 18:15:25+00:00
+2744,blank,blank,blank,blank,blank,2014-12-24 18:15:25.324000+00:00
+2745,blank,blank,blank,blank,blank,2014-12-24 18:15:25.486000+00:00
+2746,"Net Promoter value of 8,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-24 18:15:46.943000+00:00
+2747,No prints in queue,blank,blank,blank,blank,2014-12-24 18:16:41.075000+00:00
+2748,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-24 18:16:56.099000+00:00
+2749,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 20:18:38.588000+00:00
+2750,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 20:18:40.105000+00:00
+2751,"Opened ChristasPattern-by-vectorbg.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:18:46.447000+00:00
+2752,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:18:49.863000+00:00
+2753,"Opened ChristasPattern-by-vectorbg.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:18:51.411000+00:00
+2754,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:18:52.070000+00:00
+2755,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:18:54.344000+00:00
+2756,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:18:56.405000+00:00
+2757,"Opened m_helton26._20141210172703.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:19:09.733000+00:00
+2758,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:19:13.441000+00:00
+2759,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:19:15.779000+00:00
+2760,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:19:16.262000+00:00
+2761,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:19:17.454000+00:00
+2762,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,merry christmas my love!!! i hope it is the first one of endless ones! ......and yes you are my christmas present,blank,,2014-12-24 20:20:24.793000+00:00
+2763,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,merry christmas my love!!! i hope it is the first one of endless ones! ......and yes you are my Christmas present,blank,,2014-12-24 20:20:29.480000+00:00
+2764,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,merry christmas my love!!! i hope it is the first one of endless ones! ......and yes you are my Christmas present,blank,,2014-12-24 20:20:30.955000+00:00
+2765,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,merry christmas my love!!! i hope it is the first one of endless ones! ......and yes you are my Christmas present,blank,,2014-12-24 20:20:31.589000+00:00
+2766,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,merry christmas my love!!! i hope it is the first one of endless ones! ......and yes you are my Christmas present,blank,,2014-12-24 20:20:32.429000+00:00
+2767,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,merry christmas my love!!! i hope it is the first one of endless ones! ......and yes you are my Christmas present,blank,,2014-12-24 20:20:33.674000+00:00
+2768,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,merry Christmas my love!!! i hope it is the first one of endless ones! ......and yes you are my Christmas present,blank,,2014-12-24 20:20:36.930000+00:00
+2769,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,merry Christmas my love!!! i hope it is the first one of endless ones! ......and yes you are my Christmas present!!!,blank,m_helton26._20141210172703.jpg,2014-12-24 20:20:44.840000+00:00
+2770,"credit,FRANCISCO-J     ,BECERRA-N,1419452472----------------------------------------------------------------------------------------",blank,merry Christmas my love!!! i hope it is the first one of endless ones! ......and yes you are my Christmas present!!!,blank,m_helton26._20141210172703.jpg,2014-12-24 20:21:12.147000+00:00
+2771,"Error file: Exception in thread ""main"" java.lang.Exception: Response returnCode: 3, returnMessage: Verification data does not match Please re-enter, approvedAmount: 0NEWLINE",blank,blank,blank,blank,2014-12-24 20:21:27.133000+00:00
+2772,"cancelling transaction while network is down,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,merry Christmas my love!!! i hope it is the first one of endless ones! ......and yes you are my Christmas present!!!,blank,m_helton26._20141210172703.jpg,2014-12-24 20:21:27.166000+00:00
+2773,blank,blank,blank,blank,blank,2014-12-24 20:21:27.508000+00:00
+2774,blank,blank,blank,blank,blank,2014-12-24 20:21:27.781000+00:00
+2775,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-24 20:21:31.403000+00:00
+2776,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-24 20:21:45.701000+00:00
+2777,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 20:21:49.703000+00:00
+2778,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 20:21:50.926000+00:00
+2779,"Opened ChristasPattern-by-vectorbg.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:22:35.285000+00:00
+2780,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:22:37.327000+00:00
+2781,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:22:38.328000+00:00
+2782,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,feliz navidad mi querida amiguita!!! un abrazo kevin!!!,blank,ChristasPattern-by-vectorbg.jpg,2014-12-24 20:23:14.989000+00:00
+2783,"credit,FRANCISCO-J     ,BECERRA-N,1419452600----------------------------------------------------------------------------------------",blank,feliz navidad mi querida amiguita!!! un abrazo kevin!!!,blank,ChristasPattern-by-vectorbg.jpg,2014-12-24 20:23:19.901000+00:00
+2784,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,feliz navidad mi querida amiguita!!! un abrazo kevin!!!,blank,,2014-12-24 20:27:02.090000+00:00
+2785,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:27:03.945000+00:00
+2786,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 20:27:08.004000+00:00
+2787,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 20:27:09.116000+00:00
+2788,"Opened ChristasPattern-by-vectorbg.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:27:11.542000+00:00
+2789,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:27:13.907000+00:00
+2790,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-24 20:27:14.915000+00:00
+2791,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,feliz navidad!!! un abrazo mi amiguita kevin!!!!,blank,ChristasPattern-by-vectorbg.jpg,2014-12-24 20:27:45.159000+00:00
+2792,"credit,EMPERATRIZ,CASTRO,1419452883----------------------------------------------------------------------------------------",blank,feliz navidad!!! un abrazo mi amiguita kevin!!!!,blank,ChristasPattern-by-vectorbg.jpg,2014-12-24 20:28:02.972000+00:00
+2793,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,feliz navidad!!! un abrazo mi amiguita kevin!!!!,blank,ChristasPattern-by-vectorbg.jpg,2014-12-24 20:28:07.980000+00:00
+2794,blank,blank,blank,blank,blank,2014-12-24 20:28:09.193000+00:00
+2795,blank,blank,blank,blank,blank,2014-12-24 20:28:09.268000+00:00
+2796,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-24 20:28:12.696000+00:00
+2797,"Email receipt sent: enzopach@hotmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-24 20:28:24.977000+00:00
+2798,No prints in queue,blank,blank,blank,blank,2014-12-24 20:29:36.832000+00:00
+2799,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-24 20:29:51.868000+00:00
+2800,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 21:49:59.770000+00:00
+2801,"Opened tinybee_20141031054905.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-24 21:50:18.120000+00:00
+2802,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-24 21:50:19.362000+00:00
+2803,          Page timeout,blank,blank,blank,blank,2014-12-24 21:56:13.383000+00:00
+2804,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-25 03:16:09.568000+00:00

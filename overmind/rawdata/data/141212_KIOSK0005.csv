@@ -1,0 +1,31 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+1859,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 18:32:33.224000+00:00
+1860,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 18:32:35.806000+00:00
+1861,"Opened debturcio_20141202171046.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:33:17.390000+00:00
+1862,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:33:28.727000+00:00
+1863,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:33:33.122000+00:00
+1864,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:33:34.776000+00:00
+1865,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:33:36.692000+00:00
+1866,"Opened debturcio_20141202171046.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:03.317000+00:00
+1867,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:09.963000+00:00
+1868,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:11.094000+00:00
+1869,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:12.045000+00:00
+1870,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:15.285000+00:00
+1871,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:37.130000+00:00
+1872,          Hourly restart,blank,blank,blank,blank,2014-12-12 18:45:53.917000+00:00
+1873,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 19:49:34.933000+00:00
+1874,"Opened harveycreasey_20141029193943.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-12 19:49:52.911000+00:00
+1875,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-12 19:49:56.840000+00:00
+1876,"Opened KearahDonatoJump.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-12 19:49:58.520000+00:00
+1877,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,KearahDonatoJump.jpg,2014-12-12 19:50:06.970000+00:00
+1878,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-12 19:50:11.426000+00:00
+1879,"Opened KearahDonatoJump.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-12 19:50:13.208000+00:00
+1880,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-12 19:50:15.603000+00:00
+1881,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-12 19:50:17.846000+00:00
+1882,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,"Bless your great big wonderful heartsNEWLINEfor sharing your home and your love with us!NEWLINEcant wait to return the favor NEWLINElove Matthias, Georgia, and Amelia",blank,KearahDonatoJump.jpg,2014-12-12 19:53:29.107000+00:00
+1883,"credit,AMELIA L,DACRUZ,1418414023----------------------------------------------------------------------------------------",blank,"Bless your great big wonderful heartsNEWLINEfor sharing your home and your love with us!NEWLINEcant wait to return the favor NEWLINElove Matthias, Georgia, and Amelia",blank,KearahDonatoJump.jpg,2014-12-12 19:53:42.799000+00:00
+1884,"Card accepted,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,"Bless your great big wonderful heartsNEWLINEfor sharing your home and your love with us!NEWLINEcant wait to return the favor NEWLINElove Matthias, Georgia, and Amelia",blank,KearahDonatoJump.jpg,2014-12-12 19:53:47.808000+00:00
+1885,blank,blank,blank,blank,blank,2014-12-12 19:53:51.920000+00:00
+1886,blank,blank,blank,blank,blank,2014-12-12 19:53:52.414000+00:00
+1887,No prints in queue,blank,blank,blank,blank,2014-12-12 19:55:11.983000+00:00
+1888,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-12 19:55:27.012000+00:00

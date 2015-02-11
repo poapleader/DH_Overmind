@@ -1,0 +1,171 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+2149,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 14:18:25.464000+00:00
+2150,"Subcategory New_Additions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 14:18:30.176000+00:00
+2151,"Opened jerryrendich_20141031142109.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 14:18:42.544000+00:00
+2152,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 14:18:43.919000+00:00
+2153,"Opened ladylucas_20141006173558.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 14:18:50.388000+00:00
+2154,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 14:18:51.359000+00:00
+2155,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 14:18:57.027000+00:00
+2156,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 14:18:58.888000+00:00
+2157,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 14:19:00.806000+00:00
+2158,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 14:19:01.983000+00:00
+2159,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 14:19:04.718000+00:00
+2160,"Subcategory Everything button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 14:19:08.729000+00:00
+2161,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-12 14:19:11.679000+00:00
+2162,"Opened bijan_20140829193843.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-12 14:19:22.921000+00:00
+2163,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-12 14:19:24.739000+00:00
+2164,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-12 14:20:02.991000+00:00
+2165,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 15:41:27.686000+00:00
+2166,          Hourly restart,blank,blank,blank,blank,2014-12-12 15:47:19.708000+00:00
+2167,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 15:59:31.493000+00:00
+2168,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 15:59:38.040000+00:00
+2169,"Opened tinybee_20141029025132.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 16:00:17.478000+00:00
+2170,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 16:00:35.282000+00:00
+2171,"Opened tinybee_20141029025132.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 16:00:36.817000+00:00
+2172,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 16:00:37.837000+00:00
+2173,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 16:00:39.714000+00:00
+2174,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,I love you lots!,blank,tinybee_20141029025132.jpg,2014-12-12 16:01:58.419000+00:00
+2175,"credit,ELIZABETH R,TERNES,1418400130----------------------------------------------------------------------------------------",blank,I love you lots!,blank,tinybee_20141029025132.jpg,2014-12-12 16:02:09.567000+00:00
+2176,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,I love you lots!,blank,tinybee_20141029025132.jpg,2014-12-12 16:02:14.593000+00:00
+2177,blank,blank,blank,blank,blank,2014-12-12 16:02:15.253000+00:00
+2178,blank,blank,blank,blank,blank,2014-12-12 16:02:15.373000+00:00
+2179,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-12 16:02:19.809000+00:00
+2180,"Email receipt sent: terneser@hollins.edu,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-12 16:02:48.755000+00:00
+2181,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:12.127000+00:00
+2182,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:14.126000+00:00
+2183,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:16.128000+00:00
+2184,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:18.127000+00:00
+2185,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:20.128000+00:00
+2186,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:22.129000+00:00
+2187,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:24.132000+00:00
+2188,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:26.140000+00:00
+2189,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:28.137000+00:00
+2190,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:30.134000+00:00
+2191,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:32.137000+00:00
+2192,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:34.141000+00:00
+2193,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:36.139000+00:00
+2194,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:38.143000+00:00
+2195,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:40.139000+00:00
+2196,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:42.141000+00:00
+2197,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:44.150000+00:00
+2198,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:46.140000+00:00
+2199,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:48.140000+00:00
+2200,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:50.142000+00:00
+2201,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:52.141000+00:00
+2202,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:54.138000+00:00
+2203,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:56.136000+00:00
+2204,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:04:58.139000+00:00
+2205,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:05:00.152000+00:00
+2206,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:05:02.165000+00:00
+2207,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:05:04.141000+00:00
+2208,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:05:06.138000+00:00
+2209,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:05:08.141000+00:00
+2210,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:05:10.144000+00:00
+2211,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:05:12.142000+00:00
+2212,---Printer Canon MG8200 series Printer has low toner.---,blank,blank,blank,blank,2014-12-12 16:05:14.142000+00:00
+2213,No prints in queue,blank,blank,blank,blank,2014-12-12 16:05:18.958000+00:00
+2214,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-12 16:05:33.986000+00:00
+2215,Swapping default printer from Canon MG8200 series Printer to Canon MG8200 series Printer (Copy 1),blank,blank,blank,blank,2014-12-12 16:06:00.059000+00:00
+2216,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 16:06:00.181000+00:00
+2217,          Hourly restart,blank,blank,blank,blank,2014-12-12 16:11:52.651000+00:00
+2218,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 18:26:41.356000+00:00
+2219,          Hourly restart,blank,blank,blank,blank,2014-12-12 18:32:46.045000+00:00
+2220,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 20:31:23.979000+00:00
+2221,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 20:31:28.665000+00:00
+2222,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-12 20:31:33.592000+00:00
+2223,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 20:31:44.180000+00:00
+2224,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-12 20:31:46.673000+00:00
+2225,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 20:31:51.925000+00:00
+2226,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 20:31:59.604000+00:00
+2227,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 21:22:36.007000+00:00
+2228,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 21:22:59.446000+00:00
+2229,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:23:10.581000+00:00
+2230,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 21:23:22.368000+00:00
+2231,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 21:23:24.177000+00:00
+2232,"Opened tinybee_20141121031210.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:23:27.945000+00:00
+2233,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,tinybee_20141121031210.jpg,2014-12-12 21:23:35.118000+00:00
+2234,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:23:57.195000+00:00
+2235,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:23:57.630000+00:00
+2236,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:24:01.310000+00:00
+2237,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:24:05.690000+00:00
+2238,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:24:07.298000+00:00
+2239,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 21:57:36.149000+00:00
+2240,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:57:40.434000+00:00
+2241,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:57:43.775000+00:00
+2242,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:57:45.696000+00:00
+2243,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:57:50.674000+00:00
+2244,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:57:53.119000+00:00
+2245,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:57:58.037000+00:00
+2246,"Opened eli_christopher_20140915232844.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:58:08.305000+00:00
+2247,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 21:58:11.713000+00:00
+2248,          Hourly restart,blank,blank,blank,blank,2014-12-12 22:04:24.596000+00:00
+2249,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 22:32:46.215000+00:00
+2250,"Subcategory Just_Because button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 22:32:53.844000+00:00
+2251,"Opened running.river_20141029011004.jpg,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-12 22:33:03.546000+00:00
+2252,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-12 22:33:07.387000+00:00
+2253,"Opened tleighanna_20141022001623.jpg,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-12 22:33:54.655000+00:00
+2254,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-12 22:34:15.872000+00:00
+2255,"Opened running.river_20141029011004.jpg,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-12 22:34:27.367000+00:00
+2256,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-12 22:34:32.862000+00:00
+2257,"Go home button,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-12 22:35:05.684000+00:00
+2258,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 22:35:13.296000+00:00
+2259,"Subcategory Just_Because button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 22:35:14.816000+00:00
+2260,"Go home button,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-12 22:35:29.741000+00:00
+2261,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 22:35:31.379000+00:00
+2262,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 22:35:34.022000+00:00
+2263,"Vectorbg preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 22:36:22.730000+00:00
+2264,"Suggestive button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=emptySPACEVectorbg",blank,,blank,,2014-12-12 22:36:24.227000+00:00
+2265,"Katherine Devine preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=emptySPACEVectorbg",blank,,blank,,2014-12-12 22:36:25.773000+00:00
+2266,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=KatherineSPACEDevineANDANDemptySPACEVectorbg",blank,,blank,,2014-12-12 22:36:28.481000+00:00
+2267,"Clarice Gomes preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=JerrySPACERendichANDANDKatherineSPACEDevineANDANDemptySPACEVectorbg",blank,,blank,,2014-12-12 22:36:30.428000+00:00
+2268,"Kate Albee preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=ClariceSPACEGomesANDANDJerrySPACERendichANDANDKatherineSPACEDevineANDANDemptySPACEVectorbg",blank,,blank,,2014-12-12 22:36:33.511000+00:00
+2269,Katherine Devine preference value button,blank,,blank,,2014-12-12 22:36:37.596000+00:00
+2270,"Clarice Gomes preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=KateSPACEAlbeeANDANDClariceSPACEGomesANDANDJerrySPACERendichANDANDemptySPACEVectorbg",blank,,blank,,2014-12-12 22:36:40.264000+00:00
+2271,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=KateSPACEAlbeeANDANDJerrySPACERendichANDANDemptySPACEVectorbg",blank,,blank,,2014-12-12 22:36:42.982000+00:00
+2272,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=KateSPACEAlbeeANDANDJerrySPACERendichANDANDemptySPACEVectorbg&prefN1=Local&prefV1=24060",blank,,blank,,2014-12-12 22:36:45.340000+00:00
+2273,"Kate Albee preference value TOP button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=KateSPACEAlbeeANDANDJerrySPACERendichANDANDemptySPACEVectorbg",blank,,blank,,2014-12-12 22:36:49.184000+00:00
+2274,"Jerry Rendich preference value TOP button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=JerrySPACERendichANDANDemptySPACEVectorbg",blank,,blank,,2014-12-12 22:36:51.493000+00:00
+2275,"Vectorbg preference value TOP button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=emptySPACEVectorbg",blank,,blank,,2014-12-12 22:36:53.251000+00:00
+2276,"Go home button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 22:36:54.977000+00:00
+2277,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 22:36:57.538000+00:00
+2278,"Subcategory Everything button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 22:36:59.070000+00:00
+2279,"Go home button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-12 22:37:50.577000+00:00
+2280,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 22:45:40.812000+00:00
+2281,"Opened Multi-ColorChristmasBackground-by-vector-eps.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 22:45:47.452000+00:00
+2282,          Hourly restart,blank,blank,blank,blank,2014-12-12 22:51:37.931000+00:00
+2283,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 22:53:07.622000+00:00
+2284,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 22:53:21.439000+00:00
+2285,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 22:53:26.535000+00:00
+2286,"Opened tinybee_20141103014103.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 22:53:37.517000+00:00
+2287,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 22:53:44.916000+00:00
+2288,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 22:53:46.398000+00:00
+2289,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 22:53:47.940000+00:00
+2290,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,Test,blank,,2014-12-12 22:53:52.785000+00:00
+2291,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,Test,blank,,2014-12-12 22:53:54.277000+00:00
+2292,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 22:53:59.736000+00:00
+2293,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"NEWLINE",blank,,2014-12-12 22:54:05.168000+00:00
+2294,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 22:54:15.471000+00:00
+2295,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 23:45:53.220000+00:00
+2296,          Hourly restart,blank,blank,blank,blank,2014-12-12 23:51:44.693000+00:00
+2297,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 02:22:23.710000+00:00
+2298,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 02:57:27.101000+00:00
+2299,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 02:57:31.696000+00:00
+2300,"Opened debturcio_20141202171119.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-13 02:57:50.528000+00:00
+2301,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-13 02:57:53.494000+00:00
+2302,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-13 02:58:28.478000+00:00
+2303,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 02:58:36.232000+00:00
+2304,"Subcategory Hanukkah button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 02:58:37.647000+00:00
+2305,"Opened tinybee_20141103014103.jpg,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-13 02:58:42.182000+00:00
+2306,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-13 02:59:05.102000+00:00
+2307,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-13 02:59:07.302000+00:00
+2308,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 03:09:07.848000+00:00
+2309,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-13 03:09:10.780000+00:00
+2310,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-13 03:09:18.828000+00:00
+2311,          Hourly restart,blank,blank,blank,blank,2014-12-13 03:15:09.828000+00:00
+2312,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 03:51:57.038000+00:00
+2313,"Opened tinybee_20141029030515.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-13 03:52:45.214000+00:00
+2314,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-13 03:52:49.218000+00:00
+2315,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-13 03:52:56.822000+00:00
+2316,          Hourly restart,blank,blank,blank,blank,2014-12-13 03:58:47.735000+00:00
+2317,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 04:01:41.232000+00:00
+2318,          Hourly restart,blank,blank,blank,blank,2014-12-13 04:07:32.844000+00:00

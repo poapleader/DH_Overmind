@@ -1,0 +1,47 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+646,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 08:48:38.453000+00:00
+647,          Hourly restart,blank,blank,blank,blank,2014-12-09 08:54:30.003000+00:00
+648,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 09:32:21.989000+00:00
+649,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 09:32:27.759000+00:00
+650,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 09:32:33.609000+00:00
+651,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 09:32:55.894000+00:00
+652,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 10:12:03.550000+00:00
+653,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 10:12:05.852000+00:00
+654,"Opened running.river_20141109035604.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 10:12:08.856000+00:00
+655,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 10:12:11.795000+00:00
+656,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 10:12:13.915000+00:00
+657,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 10:12:14.535000+00:00
+658,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 10:12:19.329000+00:00
+659,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 10:12:32.907000+00:00
+660,"Opened katealbee_20141107210218.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-09 10:12:47.602000+00:00
+661,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,"Wishing you peace, joy, and love.",blank,,2014-12-09 10:12:56.285000+00:00
+662,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,"Wishing you peace, joy, and love.",blank,,2014-12-09 10:12:59.502000+00:00
+663,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,"Wishing you peace, joy, and love.NEWLINENEWLINElove",blank,,2014-12-09 10:13:13.123000+00:00
+664,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,"Wishing you peace, joy, and love.NEWLINENEWLINElove",blank,,2014-12-09 10:13:22.223000+00:00
+665,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-09 10:13:24.636000+00:00
+666,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 10:13:29.944000+00:00
+667,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 12:10:45.632000+00:00
+668,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 12:10:46.217000+00:00
+669,"Opened droopyDog.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:10:49.962000+00:00
+670,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:02.112000+00:00
+671,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:02.319000+00:00
+672,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:14.795000+00:00
+673,"Opened GoodOnPaper_BirthdayWorm.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:24.133000+00:00
+674,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:25.367000+00:00
+675,"Opened tinybee_20141031053842.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:30.059000+00:00
+676,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:43.256000+00:00
+677,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:47.777000+00:00
+678,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:53.051000+00:00
+679,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:53.328000+00:00
+680,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:53.576000+00:00
+681,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-09 12:11:55.872000+00:00
+682,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"happy birthday!NEWLINEBrian",blank,,2014-12-09 12:12:35.841000+00:00
+683,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"happy birthday!NEWLINEBrian",blank,,2014-12-09 12:12:37.540000+00:00
+684,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"happy birthday!NEWLINEBrian",blank,,2014-12-09 12:12:37.777000+00:00
+685,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"happy birthday, Brian",blank,,2014-12-09 12:12:46.484000+00:00
+686,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"happy birthday, Brian",blank,,2014-12-09 12:12:47.442000+00:00
+687,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"happy birthday, Brian",blank,,2014-12-09 12:12:49.421000+00:00
+688,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"happy birthday,NEWLINEBrian",blank,,2014-12-09 12:12:53.258000+00:00
+689,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"happy birthday,NEWLINEBrian!",blank,tinybee_20141031053842.jpg,2014-12-09 12:13:19.036000+00:00
+690,"Kearah Donato preference value button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"happy birthday,NEWLINEBrian!",blank,,2014-12-09 12:14:42.997000+00:00
+691,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 17:53:57.592000+00:00

@@ -1,0 +1,484 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+20,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:25:08.540000+00:00
+21,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:25:09.706000+00:00
+22,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-06 06:25:15.234000+00:00
+23,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:25:18.728000+00:00
+24,"Successful coupon: parade,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:25:25.606000+00:00
+25,"credit,,,1417847148MCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebit",blank,,blank,horizontal.jpg,2014-12-06 06:25:48.217000+00:00
+26,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:25:53.251000+00:00
+27,blank,blank,blank,blank,blank,2014-12-06 06:25:53.739000+00:00
+28,blank,blank,blank,blank,blank,2014-12-06 06:25:53.881000+00:00
+29,No prints in queue,blank,blank,blank,blank,2014-12-06 06:26:11.448000+00:00
+30,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 06:26:26.463000+00:00
+31,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:38:22.505000+00:00
+32,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:38:25.880000+00:00
+33,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-06 06:38:30.562000+00:00
+34,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:38:32.600000+00:00
+35,"Successful coupon: Parade,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:38:41.207000+00:00
+36,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:38:56.647000+00:00
+37,blank,blank,blank,blank,blank,2014-12-06 06:38:56.945000+00:00
+38,blank,blank,blank,blank,blank,2014-12-06 06:38:56.992000+00:00
+39,No prints in queue,blank,blank,blank,blank,2014-12-06 06:39:14.514000+00:00
+40,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 06:39:29.528000+00:00
+41,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:42:38.441000+00:00
+42,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:42:40.442000+00:00
+43,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-06 06:42:44.339000+00:00
+44,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-06 06:42:45.758000+00:00
+45,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:42:46.491000+00:00
+46,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:42:53.884000+00:00
+47,blank,blank,blank,blank,blank,2014-12-06 06:42:54.184000+00:00
+48,blank,blank,blank,blank,blank,2014-12-06 06:42:54.249000+00:00
+49,No prints in queue,blank,blank,blank,blank,2014-12-06 06:43:11.770000+00:00
+50,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 06:43:26.788000+00:00
+51,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:43:50.057000+00:00
+52,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:43:50.939000+00:00
+53,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-06 06:43:56.117000+00:00
+54,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:43:57.316000+00:00
+55,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:44:04.459000+00:00
+56,blank,blank,blank,blank,blank,2014-12-06 06:44:04.751000+00:00
+57,blank,blank,blank,blank,blank,2014-12-06 06:44:04.796000+00:00
+58,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:19.735000+00:00
+59,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:21.419000+00:00
+60,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:23.420000+00:00
+61,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:25.428000+00:00
+62,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:27.423000+00:00
+63,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:29.422000+00:00
+64,---Default printer Canon MG8200 series has issue that requires intervention.---,blank,blank,blank,blank,2014-12-06 06:44:31.426000+00:00
+65,Swapping default printer from Canon MG8200 series to Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:44:31.650000+00:00
+66,Print command has been sent for printer Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:44:31.804000+00:00
+67,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:37.422000+00:00
+68,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:39.429000+00:00
+69,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:41.423000+00:00
+70,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:43.423000+00:00
+71,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:45.436000+00:00
+72,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:47.436000+00:00
+73,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:49.441000+00:00
+74,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:44:51.502000+00:00
+75,---Default printer Canon MG8200 series has issue that requires intervention.---,blank,blank,blank,blank,2014-12-06 06:44:53.679000+00:00
+76,Swapping default printer from Canon MG8200 series to Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:44:53.837000+00:00
+77,Print command has been sent for printer Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:44:54.092000+00:00
+78,No prints in queue,blank,blank,blank,blank,2014-12-06 06:44:55.555000+00:00
+79,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 06:45:10.576000+00:00
+80,Swapping default printer from Canon MG8200 series to Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:45:10.699000+00:00
+81,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:45:11.262000+00:00
+82,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:45:13.091000+00:00
+83,---Default printer Canon MG8200 series has issue that requires intervention.---,blank,blank,blank,blank,2014-12-06 06:45:15.105000+00:00
+84,Swapping default printer from Canon MG8200 series to Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:45:15.182000+00:00
+85,Print command has been sent for printer Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:45:15.326000+00:00
+86,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:45:19.352000+00:00
+87,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:45:21.120000+00:00
+88,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:45:23.093000+00:00
+89,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:45:25.100000+00:00
+90,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:45:27.202000+00:00
+91,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:45:29.094000+00:00
+92,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:45:31.095000+00:00
+93,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:45:33.094000+00:00
+94,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:45:35.186000+00:00
+95,---Default printer Canon MG8200 series has issue that requires intervention.---,blank,blank,blank,blank,2014-12-06 06:45:37.121000+00:00
+96,Swapping default printer from Canon MG8200 series to Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:45:37.211000+00:00
+97,Print command has been sent for printer Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:45:37.415000+00:00
+98,Swapping default printer from Canon MG8200 series to Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:46:50.512000+00:00
+99,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:46:50.655000+00:00
+100,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:46:53.637000+00:00
+101,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:46:54.581000+00:00
+102,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:46:56.511000+00:00
+103,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-06 06:47:01.464000+00:00
+104,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:47:02.339000+00:00
+105,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:47:06.241000+00:00
+106,blank,blank,blank,blank,blank,2014-12-06 06:47:06.559000+00:00
+107,blank,blank,blank,blank,blank,2014-12-06 06:47:06.607000+00:00
+108,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:21.251000+00:00
+109,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:23.256000+00:00
+110,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:25.243000+00:00
+111,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:27.244000+00:00
+112,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:29.251000+00:00
+113,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:31.247000+00:00
+114,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:33.258000+00:00
+115,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:35.247000+00:00
+116,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:37.251000+00:00
+117,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:39.262000+00:00
+118,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:41.254000+00:00
+119,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:43.271000+00:00
+120,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:45.260000+00:00
+121,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:47.289000+00:00
+122,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:49.256000+00:00
+123,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:51.358000+00:00
+124,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:53.344000+00:00
+125,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:55.335000+00:00
+126,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:57.350000+00:00
+127,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:47:59.345000+00:00
+128,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:01.345000+00:00
+129,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:03.264000+00:00
+130,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:05.263000+00:00
+131,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:07.264000+00:00
+132,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:09.259000+00:00
+133,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:11.266000+00:00
+134,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:13.271000+00:00
+135,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:15.291000+00:00
+136,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:17.283000+00:00
+137,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:19.272000+00:00
+138,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:21.273000+00:00
+139,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:23.267000+00:00
+140,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:25.268000+00:00
+141,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:27.271000+00:00
+142,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:29.272000+00:00
+143,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:48:31.271000+00:00
+144,No prints in queue,blank,blank,blank,blank,2014-12-06 06:48:36.161000+00:00
+145,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 06:48:51.182000+00:00
+146,Swapping default printer from Canon MG8200 series to Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:48:51.302000+00:00
+147,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:50:52.274000+00:00
+148,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:50:53.596000+00:00
+149,"Opened horizontal.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-06 06:50:59.402000+00:00
+150,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:51:00.638000+00:00
+151,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,horizontal.jpg,2014-12-06 06:51:04.435000+00:00
+152,blank,blank,blank,blank,blank,2014-12-06 06:51:04.731000+00:00
+153,blank,blank,blank,blank,blank,2014-12-06 06:51:04.790000+00:00
+154,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:19.446000+00:00
+155,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:21.434000+00:00
+156,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:23.432000+00:00
+157,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:25.433000+00:00
+158,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:27.433000+00:00
+159,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:29.433000+00:00
+160,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:31.436000+00:00
+161,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:33.431000+00:00
+162,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:35.435000+00:00
+163,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:37.435000+00:00
+164,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:39.438000+00:00
+165,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:41.439000+00:00
+166,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:43.438000+00:00
+167,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:45.432000+00:00
+168,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:47.444000+00:00
+169,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:49.435000+00:00
+170,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:51.430000+00:00
+171,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:53.435000+00:00
+172,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:55.432000+00:00
+173,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:57.436000+00:00
+174,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:51:59.440000+00:00
+175,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:52:01.439000+00:00
+176,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:52:03.435000+00:00
+177,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:52:05.436000+00:00
+178,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:52:07.433000+00:00
+179,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:52:09.434000+00:00
+180,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:52:11.431000+00:00
+181,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:52:13.438000+00:00
+182,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:52:15.437000+00:00
+183,No prints in queue,blank,blank,blank,blank,2014-12-06 06:52:20.322000+00:00
+184,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 06:52:35.343000+00:00
+185,Swapping default printer from Canon MG8200 series to Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:53:06.948000+00:00
+186,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:53:07.092000+00:00
+187,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:53:08.008000+00:00
+188,"Opened vertical.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-06 06:53:12.563000+00:00
+189,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,vertical.jpg,2014-12-06 06:53:13.427000+00:00
+190,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,vertical.jpg,2014-12-06 06:53:20.060000+00:00
+191,blank,blank,blank,blank,blank,2014-12-06 06:53:20.403000+00:00
+192,blank,blank,blank,blank,blank,2014-12-06 06:53:20.461000+00:00
+193,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:35.107000+00:00
+194,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:37.097000+00:00
+195,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:39.097000+00:00
+196,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:41.098000+00:00
+197,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:43.099000+00:00
+198,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:45.095000+00:00
+199,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:47.105000+00:00
+200,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:49.104000+00:00
+201,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:51.106000+00:00
+202,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:53.110000+00:00
+203,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:55.118000+00:00
+204,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:57.112000+00:00
+205,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:53:59.112000+00:00
+206,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:01.113000+00:00
+207,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:03.119000+00:00
+208,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:05.114000+00:00
+209,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:07.116000+00:00
+210,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:09.115000+00:00
+211,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:11.117000+00:00
+212,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:13.122000+00:00
+213,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:15.133000+00:00
+214,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:17.137000+00:00
+215,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:19.119000+00:00
+216,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:21.121000+00:00
+217,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:23.121000+00:00
+218,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:25.124000+00:00
+219,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:27.130000+00:00
+220,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:29.122000+00:00
+221,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:31.125000+00:00
+222,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:33.123000+00:00
+223,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:35.133000+00:00
+224,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:37.141000+00:00
+225,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:39.128000+00:00
+226,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:41.132000+00:00
+227,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:43.131000+00:00
+228,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:45.132000+00:00
+229,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:47.133000+00:00
+230,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:49.134000+00:00
+231,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:54:51.131000+00:00
+232,No prints in queue,blank,blank,blank,blank,2014-12-06 06:54:56.014000+00:00
+233,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 06:55:11.036000+00:00
+234,Swapping default printer from Canon MG8200 series to Canon MG8200 series,blank,blank,blank,blank,2014-12-06 06:55:57.295000+00:00
+235,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:55:57.501000+00:00
+236,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 06:55:58.353000+00:00
+237,"Opened jerryrendich_20141031204927.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 06:56:04.011000+00:00
+238,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 06:56:06.614000+00:00
+239,"Opened katealbee_20141107210028.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 06:56:16.202000+00:00
+240,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 06:56:19.140000+00:00
+241,"Opened katealbee_20141107210001.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 06:56:20.357000+00:00
+242,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,katealbee_20141107210001.jpg,2014-12-06 06:56:20.967000+00:00
+243,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 06:56:22.365000+00:00
+244,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 06:56:23.239000+00:00
+245,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Can't wait to be together this holiday season.,blank,,2014-12-06 06:56:24.068000+00:00
+246,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Can't wait to be together this holiday season.,blank,katealbee_20141107210001.jpg,2014-12-06 06:56:25.306000+00:00
+247,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Can't wait to be together this holiday season.,blank,,2014-12-06 06:56:26.590000+00:00
+248,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Can't wait to be together this holiday season.,blank,katealbee_20141107210001.jpg,2014-12-06 06:56:27.874000+00:00
+249,"Successful coupon: pennytest,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Can't wait to be together this holiday season.,blank,katealbee_20141107210001.jpg,2014-12-06 06:56:36.851000+00:00
+250,"credit,DAVID ,HENRY,1417849007----------------------------------------------------------------------------------------",blank,Can't wait to be together this holiday season.,blank,katealbee_20141107210001.jpg,2014-12-06 06:56:46.940000+00:00
+251,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Can't wait to be together this holiday season.,blank,katealbee_20141107210001.jpg,2014-12-06 06:56:51.949000+00:00
+252,blank,blank,blank,blank,blank,2014-12-06 06:56:52.940000+00:00
+253,blank,blank,blank,blank,blank,2014-12-06 06:56:53.292000+00:00
+254,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:07.951000+00:00
+255,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:09.947000+00:00
+256,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:11.944000+00:00
+257,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:13.947000+00:00
+258,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:15.945000+00:00
+259,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:17.949000+00:00
+260,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:19.947000+00:00
+261,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:21.951000+00:00
+262,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:23.952000+00:00
+263,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:25.950000+00:00
+264,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:27.958000+00:00
+265,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:29.960000+00:00
+266,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:31.953000+00:00
+267,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:33.953000+00:00
+268,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:35.950000+00:00
+269,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:37.954000+00:00
+270,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:39.953000+00:00
+271,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:41.953000+00:00
+272,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:43.954000+00:00
+273,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:45.955000+00:00
+274,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:47.955000+00:00
+275,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:49.962000+00:00
+276,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:51.958000+00:00
+277,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:53.955000+00:00
+278,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:55.956000+00:00
+279,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:57.959000+00:00
+280,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:57:59.959000+00:00
+281,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:58:01.956000+00:00
+282,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:58:03.960000+00:00
+283,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 06:58:05.954000+00:00
+284,No prints in queue,blank,blank,blank,blank,2014-12-06 06:58:10.842000+00:00
+285,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 06:58:25.874000+00:00
+286,Swapping default printer from Canon MG8200 series to Canon MG8200 series,blank,blank,blank,blank,2014-12-06 07:14:08.585000+00:00
+287,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 07:14:08.837000+00:00
+288,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 07:14:09.823000+00:00
+289,"Opened katealbee_20141107210323.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 07:14:15.041000+00:00
+290,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,katealbee_20141107210323.jpg,2014-12-06 07:14:16.219000+00:00
+291,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 07:14:18.922000+00:00
+292,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 07:14:19.601000+00:00
+293,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Happy Holidays!,blank,,2014-12-06 07:14:20.305000+00:00
+294,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Happy Holidays!,blank,katealbee_20141107210323.jpg,2014-12-06 07:14:20.962000+00:00
+295,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Happy Holidays!,blank,katealbee_20141107210323.jpg,2014-12-06 07:14:26.356000+00:00
+296,blank,blank,blank,blank,blank,2014-12-06 07:14:27.660000+00:00
+297,blank,blank,blank,blank,blank,2014-12-06 07:14:27.873000+00:00
+298,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:14:42.518000+00:00
+299,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:14:44.516000+00:00
+300,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:14:46.518000+00:00
+301,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:14:48.517000+00:00
+302,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:14:50.516000+00:00
+303,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:14:52.518000+00:00
+304,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:14:54.518000+00:00
+305,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:14:56.522000+00:00
+306,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:14:58.519000+00:00
+307,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:00.526000+00:00
+308,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:02.530000+00:00
+309,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:04.520000+00:00
+310,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:06.522000+00:00
+311,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:08.522000+00:00
+312,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:10.519000+00:00
+313,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:12.519000+00:00
+314,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:14.524000+00:00
+315,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:16.522000+00:00
+316,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:18.523000+00:00
+317,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:20.533000+00:00
+318,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:22.535000+00:00
+319,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:24.521000+00:00
+320,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:26.523000+00:00
+321,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:28.528000+00:00
+322,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:30.531000+00:00
+323,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:32.530000+00:00
+324,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:34.530000+00:00
+325,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:36.531000+00:00
+326,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:38.528000+00:00
+327,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:40.530000+00:00
+328,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:42.534000+00:00
+329,---Printer Canon MG8200 series has low toner.---,blank,blank,blank,blank,2014-12-06 07:15:44.529000+00:00
+330,No prints in queue,blank,blank,blank,blank,2014-12-06 07:15:49.417000+00:00
+331,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 07:16:04.442000+00:00
+332,Swapping default printer from Canon MG8200 series to Canon MG8200 series,blank,blank,blank,blank,2014-12-06 08:03:15.396000+00:00
+333,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:03:15.590000+00:00
+334,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:03:18.181000+00:00
+335,"Opened tinybee_20141028081423.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 08:03:27.205000+00:00
+336,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 08:03:28.305000+00:00
+337,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 08:03:29.431000+00:00
+338,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,Thanks for all the kelp!,blank,,2014-12-06 08:03:48.370000+00:00
+339,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"NEWLINENEWLINENEWLINEThanks for all the kelp!",blank,tinybee_20141028081423.jpg,2014-12-06 08:03:55.554000+00:00
+340,"Successful coupon: pennytest,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"NEWLINENEWLINENEWLINEThanks for all the kelp!",blank,tinybee_20141028081423.jpg,2014-12-06 08:04:02.445000+00:00
+341,"credit,ADAM A,DONATO,1417853050----------------------------------------------------------------------------------------",blank,"NEWLINENEWLINENEWLINEThanks for all the kelp!",blank,tinybee_20141028081423.jpg,2014-12-06 08:04:10.210000+00:00
+342,"Card accepted,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"NEWLINENEWLINENEWLINEThanks for all the kelp!",blank,tinybee_20141028081423.jpg,2014-12-06 08:04:15.248000+00:00
+343,blank,blank,blank,blank,blank,2014-12-06 08:04:16.507000+00:00
+344,blank,blank,blank,blank,blank,2014-12-06 08:04:16.903000+00:00
+345,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 08:04:27.567000+00:00
+346,No prints in queue,blank,blank,blank,blank,2014-12-06 08:05:42.480000+00:00
+347,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 08:05:57.509000+00:00
+348,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:06:02.232000+00:00
+349,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:06:03.383000+00:00
+350,"Opened katealbee_20141107210323.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:06:18.790000+00:00
+351,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,To grandmother's house we go!,blank,,2014-12-06 08:06:22.852000+00:00
+352,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,To grandmother's house we go!,blank,katealbee_20141107210323.jpg,2014-12-06 08:06:24.623000+00:00
+353,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,To grandmother's house we go!,blank,,2014-12-06 08:06:31.831000+00:00
+354,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,To grandmother's house we go!,blank,,2014-12-06 08:06:32.771000+00:00
+355,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,To grandmother's house we go!,blank,,2014-12-06 08:06:33.792000+00:00
+356,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,To grandmother's house we go!,blank,,2014-12-06 08:06:34.575000+00:00
+357,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,To grandmother's house we go!,blank,,2014-12-06 08:06:36.328000+00:00
+358,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"To grandmother's NEWLINEhouse we go!",blank,katealbee_20141107210323.jpg,2014-12-06 08:06:40.003000+00:00
+359,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"To grandmother's NEWLINEhouse we go!",blank,katealbee_20141107210323.jpg,2014-12-06 08:06:42.333000+00:00
+360,blank,blank,blank,blank,blank,2014-12-06 08:06:43.494000+00:00
+361,blank,blank,blank,blank,blank,2014-12-06 08:06:43.637000+00:00
+362,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 08:06:46.344000+00:00
+363,"Email receipt sent: adam@cardisle.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 08:06:57.157000+00:00
+364,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 08:07:35.099000+00:00
+365,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:07:42.248000+00:00
+366,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 08:07:52.364000+00:00
+367,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:07:53.903000+00:00
+368,"Artist search for Gabrielle McClure,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:08:03.382000+00:00
+369,"Opened running.river_20141109034007.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Gabrielle%20McClure",blank,,blank,,2014-12-06 08:08:16.292000+00:00
+370,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Gabrielle%20McClure",blank,,blank,,2014-12-06 08:08:17.180000+00:00
+371,"Opened running.river_20141109033246.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Gabrielle%20McClure",blank,,blank,,2014-12-06 08:08:23.395000+00:00
+372,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Gabrielle%20McClure",blank,You've earned all of the cookies.,blank,,2014-12-06 08:08:24.804000+00:00
+373,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Gabrielle%20McClure",blank,You've earned all of the cookies.,blank,running.river_20141109033246.jpg,2014-12-06 08:08:26.267000+00:00
+374,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Gabrielle%20McClure",blank,You've earned all of the cookies.,blank,running.river_20141109033246.jpg,2014-12-06 08:08:33.474000+00:00
+375,blank,blank,blank,blank,blank,2014-12-06 08:08:33.789000+00:00
+376,blank,blank,blank,blank,blank,2014-12-06 08:08:33.826000+00:00
+377,No prints in queue,blank,blank,blank,blank,2014-12-06 08:09:41.356000+00:00
+378,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 08:09:56.385000+00:00
+379,"Preview for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:11:00.340000+00:00
+380,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:11:43+00:00
+381,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:11:46.085000+00:00
+382,"Subcategory Anniversary button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:11:49.368000+00:00
+383,"Opened AllieKelley2.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:11:52.613000+00:00
+384,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:11:53.619000+00:00
+385,"Opened nightAndDay_fidostudio.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:12:00.246000+00:00
+386,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:12:02.324000+00:00
+387,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:12:03.955000+00:00
+388,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,nightAndDay_fidostudio.jpg,2014-12-06 08:12:05.741000+00:00
+389,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:12:25.008000+00:00
+390,"Opened AllieKelley5.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:12:33.358000+00:00
+391,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:12:36.756000+00:00
+392,"Opened forestSunset.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:12:43.588000+00:00
+393,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:12:45.594000+00:00
+394,"Opened UnderConstructionBackgrounds-by-anonymous.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:12:47.181000+00:00
+395,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:12:48.956000+00:00
+396,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-06 08:13:05.477000+00:00
+397,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:28:49.012000+00:00
+398,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-06 08:29:01.787000+00:00
+399,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:29:27.196000+00:00
+400,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 08:29:43.987000+00:00
+401,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:29:47.089000+00:00
+402,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:29:50.025000+00:00
+403,"Opened Magicchristmasreindeer-by-RobertasPezas.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:31:04.137000+00:00
+404,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:31:12.634000+00:00
+405,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:31:16.091000+00:00
+406,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,This entiles Eia to 48 hours away,blank,,2014-12-06 08:32:06.227000+00:00
+407,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,This entiles Eia to 48 hours away,blank,,2014-12-06 08:32:08.697000+00:00
+408,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,This entitles Eia to 48 hours away,blank,,2014-12-06 08:32:20.859000+00:00
+409,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"This entitles Eia to 48 hours away, sans children.  Aunt Trudy will babysit for your get away.NEWLINEMerry Christmas!",blank,Magicchristmasreindeer-by-RobertasPezas.jpg,2014-12-06 08:34:23.772000+00:00
+410,"credit,EIA           ,SCHHRIDER,1417854882----------------------------------------------------------------------------------------",blank,"This entitles Eia to 48 hours away, sans children.  Aunt Trudy will babysit for your get away.NEWLINEMerry Christmas!",blank,Magicchristmasreindeer-by-RobertasPezas.jpg,2014-12-06 08:34:42.127000+00:00
+411,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"This entitles Eia to 48 hours away, sans children.  Aunt Trudy will babysit for your get away.NEWLINEMerry Christmas!",blank,Magicchristmasreindeer-by-RobertasPezas.jpg,2014-12-06 08:34:47.133000+00:00
+412,blank,blank,blank,blank,blank,2014-12-06 08:34:48.030000+00:00
+413,blank,blank,blank,blank,blank,2014-12-06 08:34:48.136000+00:00
+414,No prints in queue,blank,blank,blank,blank,2014-12-06 08:36:11.695000+00:00
+415,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-06 08:36:26.725000+00:00
+416,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:37:52.348000+00:00
+417,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 08:37:54.894000+00:00
+418,"Opened sandramcfarland_20141103050712.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:38:16.735000+00:00
+419,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:38:22.961000+00:00
+420,"Opened ladylucas_20141013211343.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:38:25.759000+00:00
+421,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:38:30.327000+00:00
+422,"Opened eli_christopher_20140915231522.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:38:34.920000+00:00
+423,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:38:37.732000+00:00
+424,"Opened jerryrendich_20141103221042.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:38:44.096000+00:00
+425,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:38:47.650000+00:00
+426,"Opened eli_christopher_20140915232844.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:39:09.983000+00:00
+427,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:39:12.448000+00:00
+428,"Opened ladylucas_20141013154400.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:39:14.473000+00:00
+429,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:39:17.325000+00:00
+430,"Opened tinybee_20141029025132.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:39:26.366000+00:00
+431,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:39:31.162000+00:00
+432,"Opened running.river_20140911211437.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:39:33.076000+00:00
+433,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-06 08:39:36.315000+00:00
+434,          Hourly restart,blank,blank,blank,blank,2014-12-06 08:45:27.266000+00:00
+435,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 09:05:36.472000+00:00
+436,"Opened jerryrendich_20141103221228.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 09:05:41.035000+00:00
+437,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,Dear Santa - this is what I want for Christmas,blank,,2014-12-06 09:05:42.910000+00:00
+438,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:30.575000+00:00
+439,"Opened jerryrendich_20141031205323.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:34.632000+00:00
+440,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:34.792000+00:00
+441,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:35.223000+00:00
+442,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:35.441000+00:00
+443,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:35.850000+00:00
+444,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:36+00:00
+445,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:36.401000+00:00
+446,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:36.536000+00:00
+447,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:36.938000+00:00
+448,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:37.072000+00:00
+449,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:37.474000+00:00
+450,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:37.608000+00:00
+451,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:38.009000+00:00
+452,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:38.144000+00:00
+453,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:38.544000+00:00
+454,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:38.679000+00:00
+455,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:39.082000+00:00
+456,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:39.216000+00:00
+457,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:39.624000+00:00
+458,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:39.753000+00:00
+459,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:40.163000+00:00
+460,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:40.288000+00:00
+461,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:40.700000+00:00
+462,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"jmm,zcc?Dear Santa - this is what I want for Christmas",blank,,2014-12-06 09:06:40.823000+00:00
+463,RUNNING AGAIN: closing IE,blank,blank,blank,blank,2014-12-06 09:08:15.588000+00:00
+464,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 09:49:20.523000+00:00
+465,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 09:49:25.750000+00:00
+466,"Opened GoodOnPaper_BirthdayWorm.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-06 09:49:35.085000+00:00
+467,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-06 09:49:36.860000+00:00
+468,"Opened eli_christopher_20140913052723.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-06 09:50:16.544000+00:00
+469,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-06 09:50:24.056000+00:00
+470,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-06 09:50:26.338000+00:00
+471,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-06 09:50:38.689000+00:00
+472,          Hourly restart,blank,blank,blank,blank,2014-12-06 09:56:29.647000+00:00
+473,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 11:50:16.447000+00:00
+474,"Opened tinybee_20141029062854.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 11:50:30.961000+00:00
+475,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 11:50:40.201000+00:00
+476,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 11:50:42.783000+00:00
+477,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 11:50:47.170000+00:00
+478,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 11:50:52.672000+00:00
+479,"Opened jerryrendich_20141031205323.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 11:51:02.032000+00:00
+480,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 11:51:07.844000+00:00
+481,"Opened tinybee_20141031054905.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 11:51:13.744000+00:00
+482,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 11:51:20.932000+00:00
+483,          Hourly restart,blank,blank,blank,blank,2014-12-06 11:57:11.930000+00:00
+484,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 13:34:01.724000+00:00
+485,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 13:34:03.904000+00:00
+486,"Subcategory Angels,_Fairies,_ANDSIGN_Mermaids button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 13:34:07.181000+00:00
+487,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Angels,_Fairies,_ANDSIGN_Mermaids/",blank,,blank,,2014-12-06 13:34:19.446000+00:00
+488,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 13:34:21.943000+00:00
+489,"Subcategory New_River_Valley button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 13:34:24.089000+00:00
+490,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-06 13:34:33.318000+00:00
+491,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 13:34:36.548000+00:00
+492,"Subcategory New_River_Valley button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 13:34:37.615000+00:00
+493,          Hourly restart,blank,blank,blank,blank,2014-12-06 13:40:28.835000+00:00
+494,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 15:35:10.769000+00:00
+495,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-06 15:35:17.036000+00:00
+496,"Allie Kelley preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-06 15:35:27.024000+00:00
+497,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Local&prefV0=24060&prefN1=Artists&prefV1=AllieSPACEKelley",blank,,blank,,2014-12-06 15:35:30.432000+00:00
+498,"Allie Kelley preference value TOP button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=AllieSPACEKelley",blank,,blank,,2014-12-06 15:35:37.788000+00:00
+499,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-06 15:35:46.128000+00:00
+500,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 15:36:23.443000+00:00
+501,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-06 15:36:36.781000+00:00
+502,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-06 15:36:40.289000+00:00

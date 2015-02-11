@@ -1,0 +1,40 @@
+{% load staticfiles %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'hardware/style.css' %}" />
+
+
+<body>
+
+<div id="header">
+<h1>Card Isle Kiosk Dashboard</h1>
+<h2>Total Kiosks={{ number_launched_kiosks }}  &nbsp&nbsp #Active Kiosks={{number_active_kiosks}}  &nbsp&nbsp #Idle Kiosks={{number_idle_kiosks}}</h2>
+</div>
+
+{% if kiosk_location_list %}
+    <ul>
+    {% for kiosk in kiosk_location_list %}
+        <div class="kiosks">
+        	<p>
+        		<a href="/hardware/{{ kiosk.id }}/">{{ kiosk.kiosk_name }}</a>
+                <br>
+        		Current Location = {{ kiosk.current_location }}
+                <br>
+                Status = {{ kiosk.kiosk_status }}
+        		<img src="{% static "hardware/images/kiosk.gif" %}" alt="Kiosk Pic" style="height:50px;float:right">
+                <br>
+                Inventory Levels:
+                <br>
+                Top Printer = {{kiosk.top_printer.current_cardstock}} Bottom Printer = {{kiosk.bottom_printer.current_cardstock}} White Envelopes = {{kiosk.current_white_envelopes}} Brown Envelopes = {{kiosk.current_brown_envelopes}}
+        	</p>	
+        </div>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No Kiosks are available.</p>
+{% endif %}
+
+<div id="footer">
+Copyright © cardisle.com
+</div>
+
+</body>

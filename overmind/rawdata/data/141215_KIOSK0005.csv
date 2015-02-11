@@ -1,0 +1,12 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+2040,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:49:24.464000+00:00
+2041,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:49:28.465000+00:00
+2042,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:49:29.903000+00:00
+2043,"Opened tinybee_20141029025132.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 19:49:36.093000+00:00
+2044,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-15 19:49:45.273000+00:00
+2045,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-15 19:49:48.167000+00:00
+2046,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-15 19:49:59.809000+00:00
+2047,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-15 19:50:01.490000+00:00
+2048,"Opened eli_christopher_20140915231522.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-15 19:50:56.422000+00:00
+2049,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-15 19:50:59.769000+00:00
+2050,          Hourly restart,blank,blank,blank,blank,2014-12-15 19:56:50.948000+00:00

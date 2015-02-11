@@ -1,0 +1,63 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+3792,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 16:17:09.252000+00:00
+3793,"Artist search for Gabrielle McClure,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 16:17:12.869000+00:00
+3794,"Go home button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Gabrielle%20McClure",blank,,blank,,2014-11-24 16:17:28.852000+00:00
+3795,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 16:17:30.482000+00:00
+3796,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-24 16:17:43.321000+00:00
+3797,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 16:17:46.190000+00:00
+3798,"Subcategory Thank_You button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 16:17:47.590000+00:00
+3799,"Opened tinybee_20141031053006.jpg,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-11-24 16:18:11.228000+00:00
+3800,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-11-24 16:18:11.897000+00:00
+3801,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-11-24 16:18:12.909000+00:00
+3802,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-11-24 16:18:14.089000+00:00
+3803,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,Thanks for the help Valley View! ,blank,tinybee_20141031053006.jpg,2014-11-24 16:18:50.143000+00:00
+3804,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,Thanks for the help Valley View! ,blank,tinybee_20141031053006.jpg,2014-11-24 16:18:55.205000+00:00
+3805,blank,blank,blank,blank,blank,2014-11-24 16:18:56.443000+00:00
+3806,blank,blank,blank,blank,blank,2014-11-24 16:18:56.864000+00:00
+3807,No prints in queue,blank,blank,blank,blank,2014-11-24 16:20:12.426000+00:00
+3808,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-11-24 16:20:27.450000+00:00
+3809,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 16:21:15.859000+00:00
+3810,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-11-24 16:21:17.841000+00:00
+3811,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 18:35:15.753000+00:00
+3812,"Opened tinybee_20141031054943.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-24 18:35:17.366000+00:00
+3813,          Hourly restart,blank,blank,blank,blank,2014-11-24 18:41:07.309000+00:00
+3814,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 20:16:36.699000+00:00
+3815,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 20:16:38.007000+00:00
+3816,"Opened running.river_20141113060712.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-11-24 20:16:44.843000+00:00
+3817,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-11-24 20:16:47.214000+00:00
+3818,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-11-24 20:16:52.346000+00:00
+3819,          Hourly restart,blank,blank,blank,blank,2014-11-24 20:22:45.935000+00:00
+3820,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 20:43:19.761000+00:00
+3821,"Opened KearahDonatoJump.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-11-24 20:47:19.603000+00:00
+3822,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-11-24 20:47:26.628000+00:00
+3823,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-11-24 20:47:28.984000+00:00
+3824,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-11-24 20:47:33.477000+00:00
+3825,          Hourly restart,blank,blank,blank,blank,2014-11-24 20:53:24.448000+00:00
+3826,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 22:45:57.629000+00:00
+3827,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-11-24 22:45:59.577000+00:00
+3828,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 22:46:02.229000+00:00
+3829,          Hourly restart,blank,blank,blank,blank,2014-11-24 22:51:54.317000+00:00
+3830,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 23:55:13.018000+00:00
+3831,"Opened tinybee_20141031052650.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-24 23:55:19.026000+00:00
+3832,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-24 23:55:20.017000+00:00
+3833,          Hourly restart,blank,blank,blank,blank,2014-11-25 00:01:11.083000+00:00
+3834,"info@cardisle.com email address,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-25 00:59:50.736000+00:00
+3835,"Preview for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-25 00:59:54.824000+00:00
+3836,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-25 00:59:59.846000+00:00
+3837,"Opened ladylucas_20141006174412.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-25 01:00:04.922000+00:00
+3838,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-25 01:00:06.126000+00:00
+3839,"Inside right of card clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-25 01:00:41.242000+00:00
+3840,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,ladylucas_20141006174412.jpg,2014-11-25 01:00:44.725000+00:00
+3841,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-25 01:05:14.135000+00:00
+3842,"Opened tinybee_20141029025132.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-25 01:05:15.582000+00:00
+3843,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,tinybee_20141029025132.jpg,2014-11-25 01:05:16.881000+00:00
+3844,          Hourly restart,blank,blank,blank,blank,2014-11-25 01:11:07.925000+00:00
+3845,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-25 01:52:53.093000+00:00
+3846,"Opened jerryrendich_20141031205501.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-25 01:52:59.842000+00:00
+3847,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,jerryrendich_20141031205501.jpg,2014-11-25 01:53:01.836000+00:00
+3848,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-25 01:53:05.079000+00:00
+3849,"Opened tinybee_20141031052813.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-25 01:53:06.453000+00:00
+3850,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-25 01:53:07.014000+00:00
+3851,"Opened ladylucas_20141028174109.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-11-25 01:53:07.714000+00:00
+3852,RUNNING AGAIN: closing IE,blank,blank,blank,blank,2014-11-25 01:53:53.524000+00:00
+3853,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-25 02:23:02.567000+00:00

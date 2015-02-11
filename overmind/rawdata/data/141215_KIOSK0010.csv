@@ -1,0 +1,34 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+2692,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 14:31:53.372000+00:00
+2693,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 14:32:12.998000+00:00
+2694,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Santa's watching.,blank,,2014-12-15 14:32:19.922000+00:00
+2695,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Santa's watching.,blank,,2014-12-15 14:32:25.187000+00:00
+2696,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Santa's watching.,blank,,2014-12-15 14:32:25.386000+00:00
+2697,"Inside left of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Much presents.,blank,,2014-12-15 14:32:49.290000+00:00
+2698,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Much presents.,blank,tinybee_20141031052726.jpg,2014-12-15 14:32:59.980000+00:00
+2699,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Much presents.,blank,,2014-12-15 14:33:11.780000+00:00
+2700,          Hourly restart,blank,blank,blank,blank,2014-12-15 14:39:02.795000+00:00
+2701,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 17:24:19.063000+00:00
+2702,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 17:24:22.509000+00:00
+2703,"Subcategory Everything button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 17:24:23.515000+00:00
+2704,"Opened running.river_20141123194251.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-15 17:24:50.608000+00:00
+2705,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-15 17:24:57.498000+00:00
+2706,          Hourly restart,blank,blank,blank,blank,2014-12-15 17:30:48.704000+00:00
+2707,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 22:23:01.864000+00:00
+2708,          Hourly restart,blank,blank,blank,blank,2014-12-15 22:28:54.713000+00:00
+2709,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 23:03:05.523000+00:00
+2710,"Opened tinybee_20141031052042.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-15 23:03:26.325000+00:00
+2711,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-15 23:03:27.544000+00:00
+2712,"Local Yocal preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-15 23:03:36.386000+00:00
+2713,"Local Yocal preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=LocalSPACEYocal",blank,,blank,,2014-12-15 23:03:43.834000+00:00
+2714,"Opened beer.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-15 23:03:48.239000+00:00
+2715,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-15 23:03:49.292000+00:00
+2716,"Kearah Donato preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-15 23:03:50.406000+00:00
+2717,"Opened KearahDonatoJump.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=KearahSPACEDonato",blank,,blank,,2014-12-15 23:04:05.639000+00:00
+2718,          Hourly restart,blank,blank,blank,blank,2014-12-15 23:09:56.072000+00:00
+2719,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 23:40:06.609000+00:00
+2720,          Hourly restart,blank,blank,blank,blank,2014-12-15 23:45:58.235000+00:00
+2721,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 02:59:29.798000+00:00
+2722,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 02:59:33.977000+00:00
+2723,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 02:59:56.538000+00:00
+2724,"Date at bottom of page,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 02:59:57.528000+00:00

@@ -1,0 +1,67 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+4010,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 13:47:44.887000+00:00
+4011,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 13:47:54.005000+00:00
+4012,"Subcategory Get_Well button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 13:47:57.353000+00:00
+4013,"Stock T-Shirt Designs preference value button,URL=http://127.0.0.1:8000/kiosk/Get_Well/",blank,,blank,,2014-12-12 13:48:38.856000+00:00
+4014,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Get_Well/?prefN0=Artists&prefV0=StockSPACET-ShirtSPACEDesigns",blank,,blank,,2014-12-12 13:48:43.381000+00:00
+4015,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 14:50:49.269000+00:00
+4016,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 14:51:32.860000+00:00
+4017,"Opened katherinehall_20141201192130.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 14:52:02.304000+00:00
+4018,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 14:52:09.769000+00:00
+4019,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 14:52:12.955000+00:00
+4020,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 14:52:28.299000+00:00
+4021,"Opened GoldenSwirlingChristmasTreewithBlackishGreenBackground-by-thevectorart.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 14:52:34.245000+00:00
+4022,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 14:52:50.528000+00:00
+4023,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 14:52:50.805000+00:00
+4024,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 14:52:53.035000+00:00
+4025,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 14:52:53.273000+00:00
+4026,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 14:53:00.419000+00:00
+4027,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 14:53:25.861000+00:00
+4028,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 15:25:48.118000+00:00
+4029,"Opened eli_christopher_20140915231522.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 15:26:00.282000+00:00
+4030,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 15:26:02.109000+00:00
+4031,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 15:26:04.694000+00:00
+4032,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 15:26:07.281000+00:00
+4033,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 15:26:10.038000+00:00
+4034,"info@cardisle.com email address,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 15:26:11.055000+00:00
+4035,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 16:22:02.892000+00:00
+4036,"Opened running.river_20141109035604.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 16:22:12.032000+00:00
+4037,          Hourly restart,blank,blank,blank,blank,2014-12-12 16:28:02.415000+00:00
+4038,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 18:14:43.599000+00:00
+4039,"Subcategory Thank_You button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 18:14:45.084000+00:00
+4040,"Opened pmateson_20141006160101.jpg,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-12-12 18:14:54.802000+00:00
+4041,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-12-12 18:14:56.955000+00:00
+4042,"Opened sandramcfarland_20141103192917.jpg,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-12-12 18:15:00.686000+00:00
+4043,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-12-12 18:15:02.575000+00:00
+4044,          Hourly restart,blank,blank,blank,blank,2014-12-12 18:20:51.091000+00:00
+4045,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 18:37:53.757000+00:00
+4046,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-12 18:37:59.408000+00:00
+4047,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 18:38:02.395000+00:00
+4048,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 18:38:04.617000+00:00
+4049,"Opened running.river_20141109034007.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:38:13.817000+00:00
+4050,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:38:20.618000+00:00
+4051,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:38:20.677000+00:00
+4052,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 18:38:22.815000+00:00
+4053,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 18:38:24.264000+00:00
+4054,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:38:31.638000+00:00
+4055,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:38:37.875000+00:00
+4056,"Opened jerryrendich_20141031204927.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:38:41.056000+00:00
+4057,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:38:42.921000+00:00
+4058,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:38:45.549000+00:00
+4059,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:38:52.233000+00:00
+4060,"Opened brocards_20141206215232.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:38:55.405000+00:00
+4061,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:05.897000+00:00
+4062,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:08.051000+00:00
+4063,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:09.980000+00:00
+4064,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:12.803000+00:00
+4065,"Opened debturcio_20141202171119.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:15.082000+00:00
+4066,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:18.574000+00:00
+4067,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:23.272000+00:00
+4068,"Opened ChristasPattern-by-vectorbg.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:28.104000+00:00
+4069,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:30.786000+00:00
+4070,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:33.099000+00:00
+4071,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:37.541000+00:00
+4072,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:41.622000+00:00
+4073,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:47.188000+00:00
+4074,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 18:39:49.943000+00:00
+4075,          Hourly restart,blank,blank,blank,blank,2014-12-12 18:45:51.134000+00:00

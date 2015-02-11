@@ -1,0 +1,194 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+1602,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 11:31:22.730000+00:00
+1603,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 14:57:39.023000+00:00
+1604,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 14:57:42.932000+00:00
+1605,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 14:57:48.821000+00:00
+1606,"Opened ladylucas_20141006174412.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:58:47.464000+00:00
+1607,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:58:49.119000+00:00
+1608,"Opened tinybee_20141029025132.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:58:56.672000+00:00
+1609,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:58:58.491000+00:00
+1610,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:59:01.949000+00:00
+1611,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:59:02.801000+00:00
+1612,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:59:03.988000+00:00
+1613,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:59:11.140000+00:00
+1614,"Opened jerryrendich_20141031142109.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:59:16.144000+00:00
+1615,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:59:17.564000+00:00
+1616,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:59:35.569000+00:00
+1617,"Opened jerryrendich_20141031205644.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-09 14:59:41.015000+00:00
+1618,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-09 14:59:47.215000+00:00
+1619,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-09 14:59:51.673000+00:00
+1620,"Alexis Rawlins preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-09 14:59:55.671000+00:00
+1621,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlins",blank,,blank,,2014-12-09 15:00:14.084000+00:00
+1622,"Alexis Rawlins preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucasANDANDAlexisSPACERawlins",blank,,blank,,2014-12-09 15:00:19.704000+00:00
+1623,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucas",blank,,blank,,2014-12-09 15:00:32.897000+00:00
+1624,          Hourly restart,blank,blank,blank,blank,2014-12-09 15:06:24.677000+00:00
+1625,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 15:56:52.264000+00:00
+1626,"Opened AllieKelley3.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-09 15:57:03.475000+00:00
+1627,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,AllieKelley3.jpg,2014-12-09 15:57:10.476000+00:00
+1628,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-09 15:57:12.947000+00:00
+1629,          Hourly restart,blank,blank,blank,blank,2014-12-09 16:03:16.831000+00:00
+1630,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 16:20:33.397000+00:00
+1631,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 17:02:44.426000+00:00
+1632,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 17:06:03.411000+00:00
+1633,"Subcategory ISINGLEm_Sorry button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 17:06:06.078000+00:00
+1634,"Opened tleighanna_20140930044937.jpg,URL=http://127.0.0.1:8000/kiosk/ISINGLEm_Sorry/",blank,,blank,,2014-12-09 17:06:10.519000+00:00
+1635,          Hourly restart,blank,blank,blank,blank,2014-12-09 17:13:57.440000+00:00
+1636,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 18:25:59.907000+00:00
+1637,"Subcategory Everything button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 18:26:01.055000+00:00
+1638,          Hourly restart,blank,blank,blank,blank,2014-12-09 18:34:53.622000+00:00
+1639,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 19:50:48.486000+00:00
+1640,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 20:52:20.396000+00:00
+1641,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 20:52:21.989000+00:00
+1642,"Opened katealbee_20141107210028.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:52:35.677000+00:00
+1643,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:52:36.646000+00:00
+1644,"Opened jerryrendich_20141103221042.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:52:48.348000+00:00
+1645,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:52:49.463000+00:00
+1646,"Opened sandramcfarland_20141103050712.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:52:55.448000+00:00
+1647,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:52:56.229000+00:00
+1648,"Opened FreeSnowmanVectors-by-webdesignhot.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:53:06.304000+00:00
+1649,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a Merry Christmas,blank,,2014-12-09 20:53:10.182000+00:00
+1650,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a Merry Christmas,blank,,2014-12-09 20:53:12.824000+00:00
+1651,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Jess.NEWLINE",blank,FreeSnowmanVectors-by-webdesignhot.jpg,2014-12-09 20:54:45.732000+00:00
+1652,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Jess.NEWLINE",blank,,2014-12-09 20:55:07.192000+00:00
+1653,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:55:13.354000+00:00
+1654,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 20:55:17.456000+00:00
+1655,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 20:55:23.394000+00:00
+1656,"Opened FreeSnowmanVectors-by-webdesignhot.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:55:34.980000+00:00
+1657,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:55:36.755000+00:00
+1658,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:55:39.267000+00:00
+1659,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a Merry Christmas,blank,,2014-12-09 20:55:40.270000+00:00
+1660,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a Merry Christmas,blank,,2014-12-09 20:55:41.383000+00:00
+1661,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Wishing you a Merry ChristmasNEWLINENEWLINE",blank,FreeSnowmanVectors-by-webdesignhot.jpg,2014-12-09 20:55:51.331000+00:00
+1662,"Inside left of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Wishing you a Merry ChristmasNEWLINENEWLINE",blank,,2014-12-09 20:56:03.785000+00:00
+1663,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Wishing you a Merry ChristmasNEWLINENEWLINE",blank,,2014-12-09 20:56:07.078000+00:00
+1664,"Back of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Wishing you a Merry ChristmasNEWLINENEWLINE",blank,,2014-12-09 20:56:10.084000+00:00
+1665,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Wishing you a Merry ChristmasNEWLINENEWLINE",blank,FreeSnowmanVectors-by-webdesignhot.jpg,2014-12-09 20:56:18.575000+00:00
+1666,"credit,CAROLINE R,ROTTKAMP,1418158586----------------------------------------------------------------------------------------",blank,"Wishing you a Merry ChristmasNEWLINENEWLINE",blank,FreeSnowmanVectors-by-webdesignhot.jpg,2014-12-09 20:56:26.482000+00:00
+1667,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Wishing you a Merry ChristmasNEWLINENEWLINE",blank,FreeSnowmanVectors-by-webdesignhot.jpg,2014-12-09 20:56:31.493000+00:00
+1668,blank,blank,blank,blank,blank,2014-12-09 20:56:32.476000+00:00
+1669,blank,blank,blank,blank,blank,2014-12-09 20:56:32.665000+00:00
+1670,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-09 20:56:36.586000+00:00
+1671,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 20:56:38.142000+00:00
+1672,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 20:56:39.203000+00:00
+1673,"Opened FreeVectorSnowflakes-by-room122.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:56:55.290000+00:00
+1674,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:56:58.995000+00:00
+1675,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:57:00.136000+00:00
+1676,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Good tidings and Cheer,blank,,2014-12-09 20:57:02.020000+00:00
+1677,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Good tidings and Cheer,blank,,2014-12-09 20:57:03.222000+00:00
+1678,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good tidings and CheerNEWLINENEWLINEMerry Christmas Mama",blank,FreeVectorSnowflakes-by-room122.jpg,2014-12-09 20:57:20.037000+00:00
+1679,"credit,CAROLINE R,ROTTKAMP,1418158645----------------------------------------------------------------------------------------",blank,"Good tidings and CheerNEWLINENEWLINEMerry Christmas Mama",blank,FreeVectorSnowflakes-by-room122.jpg,2014-12-09 20:57:25.345000+00:00
+1680,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good tidings and CheerNEWLINENEWLINEMerry Christmas Mama",blank,FreeVectorSnowflakes-by-room122.jpg,2014-12-09 20:57:30.353000+00:00
+1681,blank,blank,blank,blank,blank,2014-12-09 20:57:31.313000+00:00
+1682,blank,blank,blank,blank,blank,2014-12-09 20:57:31.421000+00:00
+1683,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-09 20:58:03.544000+00:00
+1684,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 20:58:10.845000+00:00
+1685,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 20:58:12.120000+00:00
+1686,"Opened sol4art_20141105183831.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:58:39.796000+00:00
+1687,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Merry Christmas to you!,blank,,2014-12-09 20:58:45.175000+00:00
+1688,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Merry Christmas to you!,blank,,2014-12-09 20:58:47.456000+00:00
+1689,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas to you!NEWLINENEWLINELove you Daddy!",blank,sol4art_20141105183831.jpg,2014-12-09 20:59:08.703000+00:00
+1690,"credit,CAROLINE R,ROTTKAMP,1418158757----------------------------------------------------------------------------------------",blank,"Merry Christmas to you!NEWLINENEWLINELove you Daddy!",blank,sol4art_20141105183831.jpg,2014-12-09 20:59:17.135000+00:00
+1691,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas to you!NEWLINENEWLINELove you Daddy!",blank,sol4art_20141105183831.jpg,2014-12-09 20:59:22.144000+00:00
+1692,blank,blank,blank,blank,blank,2014-12-09 20:59:23.127000+00:00
+1693,blank,blank,blank,blank,blank,2014-12-09 20:59:23.409000+00:00
+1694,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-09 20:59:36.225000+00:00
+1695,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 20:59:38.092000+00:00
+1696,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 20:59:39.512000+00:00
+1697,"Opened AbstractChristmasTreeVector-by-Freevectors.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 20:59:54.138000+00:00
+1698,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Good tidings and Cheer,blank,,2014-12-09 20:59:55.942000+00:00
+1699,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Good tidings and Cheer,blank,,2014-12-09 20:59:57.415000+00:00
+1700,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good tidings and CheerNEWLINENEWLINEMerry Christmas Chelsea!",blank,AbstractChristmasTreeVector-by-Freevectors.jpg,2014-12-09 21:00:16.044000+00:00
+1701,"credit,CAROLINE R,ROTTKAMP,1418158824----------------------------------------------------------------------------------------",blank,"Good tidings and CheerNEWLINENEWLINEMerry Christmas Chelsea!",blank,AbstractChristmasTreeVector-by-Freevectors.jpg,2014-12-09 21:00:23.673000+00:00
+1702,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good tidings and CheerNEWLINENEWLINEMerry Christmas Chelsea!",blank,AbstractChristmasTreeVector-by-Freevectors.jpg,2014-12-09 21:00:28.682000+00:00
+1703,blank,blank,blank,blank,blank,2014-12-09 21:00:29.903000+00:00
+1704,blank,blank,blank,blank,blank,2014-12-09 21:00:30.055000+00:00
+1705,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-09 21:00:55.800000+00:00
+1706,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-09 21:01:04.549000+00:00
+1707,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 21:01:17.307000+00:00
+1708,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 21:01:19.594000+00:00
+1709,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 21:01:24.302000+00:00
+1710,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 21:01:27.648000+00:00
+1711,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 21:01:32.494000+00:00
+1712,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hey jocelyn i tot you this card cause itnreminded,blank,,2014-12-09 21:02:27.034000+00:00
+1713,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hey jocelyn i tot you this card cause it reminded,blank,,2014-12-09 21:02:31.514000+00:00
+1714,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hey jocelyn i tot you this card cause it reminded,blank,,2014-12-09 21:02:35.194000+00:00
+1715,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hey jocelyn i got you this card cause it reminded,blank,,2014-12-09 21:02:37.983000+00:00
+1716,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hey jocelyn i got you this card cause it reminded me of you. hope you like it ^-^,blank,,2014-12-09 21:04:02.805000+00:00
+1717,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hey jocelyn i got you this card cause it reminded me of you. hope you like it ^-^,blank,tinybee_20141031052726.jpg,2014-12-09 21:04:03.749000+00:00
+1718,"credit,MAYRA L,ARROYO,1418159056MCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebit",blank,hey jocelyn i got you this card cause it reminded me of you. hope you like it ^-^,blank,tinybee_20141031052726.jpg,2014-12-09 21:04:15.688000+00:00
+1719,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hey jocelyn i got you this card cause it reminded me of you. hope you like it ^-^,blank,tinybee_20141031052726.jpg,2014-12-09 21:04:20.711000+00:00
+1720,blank,blank,blank,blank,blank,2014-12-09 21:04:21.567000+00:00
+1721,blank,blank,blank,blank,blank,2014-12-09 21:04:21.799000+00:00
+1722,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-09 21:04:26.439000+00:00
+1723,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 21:04:32.184000+00:00
+1724,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 21:04:34.342000+00:00
+1725,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 21:04:38.108000+00:00
+1726,"Opened ladylucas_20141028173451.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 21:04:56.737000+00:00
+1727,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 21:04:57.955000+00:00
+1728,"Opened tinybee_20141029025132.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 21:05:18.710000+00:00
+1729,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,tinybee_20141029025132.jpg,2014-12-09 21:05:20.623000+00:00
+1730,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 21:05:22.403000+00:00
+1731,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,tinybee_20141029025132.jpg,2014-12-09 21:05:28.083000+00:00
+1732,"credit,MAYRA L,ARROYO,1418159135MCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebit",blank,,blank,tinybee_20141029025132.jpg,2014-12-09 21:05:35.121000+00:00
+1733,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,tinybee_20141029025132.jpg,2014-12-09 21:05:40.152000+00:00
+1734,blank,blank,blank,blank,blank,2014-12-09 21:05:40.806000+00:00
+1735,blank,blank,blank,blank,blank,2014-12-09 21:05:40.938000+00:00
+1736,No prints in queue,blank,blank,blank,blank,2014-12-09 21:06:50.506000+00:00
+1737,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-09 21:07:03.411000+00:00
+1738,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 22:09:37.893000+00:00
+1739,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 22:09:38.071000+00:00
+1740,"Waiting for user to stop touching screen.,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 22:09:38.497000+00:00
+1741,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 22:09:41.532000+00:00
+1742,"Opened tinybee_20141029025132.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 22:09:44.143000+00:00
+1743,          Hourly restart,blank,blank,blank,blank,2014-12-09 22:15:34.650000+00:00
+1744,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 23:29:53.271000+00:00
+1745,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-09 23:30:22.031000+00:00
+1746,"Opened tleighanna_20141109042711.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 23:30:29.164000+00:00
+1747,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 23:30:30.421000+00:00
+1748,"Opened sol4art_20141105190215.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 23:31:00.783000+00:00
+1749,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 23:31:07.837000+00:00
+1750,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-09 23:31:09.862000+00:00
+1751,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. con amor, joseph",blank,,2014-12-09 23:31:46.803000+00:00
+1752,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. con amor, joseph",blank,,2014-12-09 23:31:47.699000+00:00
+1753,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. con amor, joseph",blank,,2014-12-09 23:31:48.494000+00:00
+1754,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. con amor, joseph",blank,,2014-12-09 23:31:49.103000+00:00
+1755,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. con amor, joseph",blank,,2014-12-09 23:31:49.736000+00:00
+1756,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. con amor, joseph",blank,,2014-12-09 23:31:50.303000+00:00
+1757,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. con amor, joseph",blank,,2014-12-09 23:31:50.729000+00:00
+1758,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. con amor, joseph",blank,,2014-12-09 23:31:51.168000+00:00
+1759,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. con amor, joseph",blank,,2014-12-09 23:31:51.442000+00:00
+1760,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. NEWLINENEWLINEcon amor, joseph",blank,,2014-12-09 23:31:59.791000+00:00
+1761,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. NEWLINENEWLINEcon amor, NEWLINEjoseph",blank,sol4art_20141105190215.jpg,2014-12-09 23:32:02.626000+00:00
+1762,"Successful coupon: pennytest,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. NEWLINENEWLINEcon amor, NEWLINEjoseph",blank,sol4art_20141105190215.jpg,2014-12-09 23:32:11.163000+00:00
+1763,"credit,DAVID ,HENRY,1418167939----------------------------------------------------------------------------------------",blank,"espero que estan bien en estos navidades. NEWLINENEWLINEcon amor, NEWLINEjoseph",blank,sol4art_20141105190215.jpg,2014-12-09 23:32:19.362000+00:00
+1764,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"espero que estan bien en estos navidades. NEWLINENEWLINEcon amor, NEWLINEjoseph",blank,sol4art_20141105190215.jpg,2014-12-09 23:32:24.383000+00:00
+1765,blank,blank,blank,blank,blank,2014-12-09 23:32:25.310000+00:00
+1766,blank,blank,blank,blank,blank,2014-12-09 23:32:25.634000+00:00
+1767,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-09 23:32:31.883000+00:00
+1768,"Email receipt sent: david@cardisle.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-09 23:32:47.391000+00:00
+1769,No prints in queue,blank,blank,blank,blank,2014-12-09 23:33:47.187000+00:00
+1770,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-09 23:34:02.217000+00:00
+1771,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-10 00:16:55.097000+00:00
+1772,"Opened KearahDonatoMcAffeeSunset.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-10 00:16:57.437000+00:00
+1773,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-10 00:17:06.166000+00:00
+1774,          Hourly restart,blank,blank,blank,blank,2014-12-10 00:22:47.955000+00:00
+1775,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-10 02:02:36.663000+00:00
+1776,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-10 02:11:53.607000+00:00
+1777,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-10 02:11:56.173000+00:00
+1778,"Opened MerryChristmasWallpaper-by-VectorFresh.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-10 02:12:26.291000+00:00
+1779,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-10 02:12:32.781000+00:00
+1780,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-10 02:12:36.390000+00:00
+1781,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Good tidings and Cheer,blank,,2014-12-10 02:12:42.450000+00:00
+1782,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Good tidings and Cheer,blank,,2014-12-10 02:12:43.877000+00:00
+1783,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good tidings and CheerNEWLINEHope Hope You Have A Merry Christmas",blank,,2014-12-10 02:13:50.973000+00:00
+1784,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good tidings and CheerNEWLINEHope Hope You Have A Merry Christmas",blank,,2014-12-10 02:13:51.564000+00:00
+1785,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good tidings and CheerNEWLINEHope You Have A Merry Christmas",blank,,2014-12-10 02:13:56.708000+00:00
+1786,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good tidings and CheerNEWLINENEWLINEHope You Have A Merry Christmas",blank,,2014-12-10 02:14:15.582000+00:00
+1787,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good Tidings and CheerNEWLINENEWLINEHope You Have A Merry Christmas",blank,,2014-12-10 02:14:18.526000+00:00
+1788,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good Tidings And CheerNEWLINENEWLINEHope You Have A Merry Christmas",blank,,2014-12-10 02:14:36.589000+00:00
+1789,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good Tidings And CheerNEWLINENEWLINEHope You Have A Merry Christmas",blank,,2014-12-10 02:14:38.781000+00:00
+1790,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good Tidings And CheerNEWLINENEWLINEHope You Have A Merry Christmas",blank,,2014-12-10 02:14:39.760000+00:00
+1791,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good Tidings And CheerNEWLINENEWLINEHope You Have A Merry Christmas",blank,,2014-12-10 02:14:40.693000+00:00
+1792,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good Tidings And CheerNEWLINENEWLINEHope You Have A Merry ChristmasNEWLINENEWLINEXOXO",blank,MerryChristmasWallpaper-by-VectorFresh.jpg,2014-12-10 02:14:51.600000+00:00
+1793,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Good Tidings And CheerNEWLINENEWLINEHope You Have A Merry ChristmasNEWLINENEWLINEXOXO",blank,,2014-12-10 02:15:22.972000+00:00
+1794,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-10 02:15:25.741000+00:00

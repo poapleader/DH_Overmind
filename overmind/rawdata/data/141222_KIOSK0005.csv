@@ -1,0 +1,50 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+2581,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 17:21:08.570000+00:00
+2582,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-22 17:21:14.999000+00:00
+2583,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 17:21:16.981000+00:00
+2584,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 17:21:18.346000+00:00
+2585,"Opened eli_christopher_20140915231522.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 17:21:51.140000+00:00
+2586,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,eli_christopher_20140915231522.jpg,2014-12-22 17:22:00.943000+00:00
+2587,"credit,LAURA ,HAMM,1419268949----------------------------------------------------------------------------------------",blank,,blank,eli_christopher_20140915231522.jpg,2014-12-22 17:22:28.981000+00:00
+2588,"Error file: Exception in thread ""main"" java.lang.Exception: Response returnCode: 0, returnMessage: Transaction Id (1419268949) is NOT greater than the previous one (1419320471), appr",blank,blank,blank,blank,2014-12-22 17:22:33.970000+00:00
+2589,"cancelling transaction while network is down,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,eli_christopher_20140915231522.jpg,2014-12-22 17:22:43.995000+00:00
+2590,blank,blank,blank,blank,blank,2014-12-22 17:22:44.873000+00:00
+2591,blank,blank,blank,blank,blank,2014-12-22 17:22:44.969000+00:00
+2592,"Net Promoter value of  9,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 17:23:01.611000+00:00
+2593,No prints in queue,blank,blank,blank,blank,2014-12-22 17:23:54.514000+00:00
+2594,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-22 17:24:09.546000+00:00
+2595,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 20:11:01.707000+00:00
+2596,"Subcategory Hanukkah button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 20:11:04.294000+00:00
+2597,"Opened tinybee_20141103014103.jpg,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-22 20:11:10.912000+00:00
+2598,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-22 20:11:13.859000+00:00
+2599,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-22 20:11:16.611000+00:00
+2600,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 23:23:18.496000+00:00
+2601,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 23:23:20.896000+00:00
+2602,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 23:23:30.264000+00:00
+2603,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 23:23:35.386000+00:00
+2604,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 23:23:37.676000+00:00
+2605,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 23:23:48.411000+00:00
+2606,"Opened tinybee_20141114044421.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 23:24:09.718000+00:00
+2607,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 23:24:13.933000+00:00
+2608,"Dezignus preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 23:24:28.361000+00:00
+2609,"Dezignus preference value TOP button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Artists&prefV0=emptySPACEDezignus",blank,,blank,,2014-12-22 23:24:37.522000+00:00
+2610,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 23:24:40.487000+00:00
+2611,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 23:24:44.250000+00:00
+2612,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 01:18:12.526000+00:00
+2613,"Opened football2.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:18:15.168000+00:00
+2614,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:20:40.346000+00:00
+2615,"Opened MarielleStoeltzingOctopus.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:20:41.992000+00:00
+2616,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:20:42.675000+00:00
+2617,"Opened jerrylofaro_20140429153027.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:20:44.981000+00:00
+2618,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:20:46.106000+00:00
+2619,"Opened jerrylofaro_20140429153027.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:20:47.840000+00:00
+2620,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:20:48.965000+00:00
+2621,"Opened jerrylofaro_20140429153027.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:20:50.136000+00:00
+2622,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,jerrylofaro_20140429153027.jpg,2014-12-23 01:20:52.112000+00:00
+2623,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:21:18.115000+00:00
+2624,"Opened jamie_20140426193342.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:21:18.804000+00:00
+2625,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,jamie_20140426193342.jpg,2014-12-23 01:21:21.920000+00:00
+2626,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:21:22.001000+00:00
+2627,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:21:23.767000+00:00
+2628,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:24:43.619000+00:00
+2629,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-23 01:24:45.505000+00:00

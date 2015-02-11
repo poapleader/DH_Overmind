@@ -1,0 +1,36 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+2369,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 16:04:45.870000+00:00
+2370,"Local Yocal preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-19 16:04:51.942000+00:00
+2371,"Christopher Crowley preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=LocalSPACEYocal",blank,,blank,,2014-12-19 16:04:57.187000+00:00
+2372,"Kearah Donato preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=ChristopherSPACECrowleyANDANDLocalSPACEYocal",blank,,blank,,2014-12-19 16:05:01.102000+00:00
+2373,"Local Yocal preference value button,URL=http://127.0.0.1:8000/kiosk/Everything/?prefN0=Artists&prefV0=KearahSPACEDonatoANDANDChristopherSPACECrowleyANDANDLocalSPACEYocal",blank,,blank,,2014-12-19 16:05:05.694000+00:00
+2374,          Page timeout,blank,blank,blank,blank,2014-12-19 16:10:57.912000+00:00
+2375,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 20:15:47.592000+00:00
+2376,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 20:15:50.099000+00:00
+2377,"Opened eli_christopher_20141103041003.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 20:16:31.954000+00:00
+2378,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 20:16:39.488000+00:00
+2379,"Opened jerryrendich_20141103221042.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 20:17:11.615000+00:00
+2380,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 20:17:12.754000+00:00
+2381,"Opened ladylucas_20141028173918.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 20:17:25.099000+00:00
+2382,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 20:17:30.549000+00:00
+2383,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 20:18:09.884000+00:00
+2384,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 20:18:12.582000+00:00
+2385,"Opened debturcio_20141202171119.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 20:18:19.891000+00:00
+2386,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 20:18:22.802000+00:00
+2387,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 20:18:28.483000+00:00
+2388,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 20:18:42.208000+00:00
+2389,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 20:18:47.257000+00:00
+2390,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 20:18:48.835000+00:00
+2391,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 20:18:49.640000+00:00
+2392,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 20:18:51.509000+00:00
+2393,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 20:39:55.986000+00:00
+2394,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-19 20:40:07.677000+00:00
+2395,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucas",blank,,blank,,2014-12-19 20:40:10.778000+00:00
+2396,"Alexis Rawlins preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-19 20:40:14.153000+00:00
+2397,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlins",blank,,blank,,2014-12-19 20:40:19.849000+00:00
+2398,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlins&prefN1=Local&prefV1=24060",blank,,blank,,2014-12-19 20:40:25.133000+00:00
+2399,"Opened jerryrendich_20141103221042.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=JerrySPACERendichANDANDAlexisSPACERawlins&prefN1=Local&prefV1=24060",blank,,blank,,2014-12-19 20:40:30.524000+00:00
+2400,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=JerrySPACERendichANDANDAlexisSPACERawlins&prefN1=Local&prefV1=24060",blank,,blank,,2014-12-19 20:40:33.801000+00:00
+2401,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=JerrySPACERendichANDANDAlexisSPACERawlins&prefN1=Local&prefV1=24060",blank,,blank,,2014-12-19 20:40:38.529000+00:00
+2402,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 22:18:39.030000+00:00
+2403,          Page timeout,blank,blank,blank,blank,2014-12-19 22:24:44.975000+00:00

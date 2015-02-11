@@ -1,0 +1,136 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+1298,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 06:49:32.384000+00:00
+1299,"Subcategory Anniversary button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 06:49:35.036000+00:00
+1300,"Opened emilyj_20140428011514.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-18 06:49:57.860000+00:00
+1301,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-18 06:50:02.398000+00:00
+1302,"Opened AllieKelley2.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-18 06:52:00.012000+00:00
+1303,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-18 06:52:06.745000+00:00
+1304,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-18 06:52:29.562000+00:00
+1305,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-18 06:52:32.439000+00:00
+1306,"Opened AllieKelley10.jpg,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-18 06:52:34.583000+00:00
+1307,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-18 06:52:53.441000+00:00
+1308,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-18 06:53:21.610000+00:00
+1309,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-18 06:53:26.299000+00:00
+1310,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 06:53:35.359000+00:00
+1311,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 06:53:42.185000+00:00
+1312,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 06:54:01.338000+00:00
+1313,"Local artists preference value TOP button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-18 06:54:12.451000+00:00
+1314,"Kearah Donato preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 06:54:20.986000+00:00
+1315,"Allie Kelley preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=KearahSPACEDonato",blank,,blank,,2014-12-18 06:54:25.902000+00:00
+1316,"Adam Donato preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=AllieSPACEKelleyANDANDKearahSPACEDonato",blank,,blank,,2014-12-18 06:54:32.170000+00:00
+1317,"Bijan Peters preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=AdamSPACEDonatoANDANDAllieSPACEKelleyANDANDKearahSPACEDonato",blank,,blank,,2014-12-18 06:54:34.740000+00:00
+1318,"Steven Baker preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=BijanSPACEPetersANDANDAdamSPACEDonatoANDANDAllieSPACEKelleyANDANDKearahSPACEDonato",blank,,blank,,2014-12-18 06:54:37.096000+00:00
+1319,Harvey Creasey preference value button,blank,,blank,,2014-12-18 06:54:41.125000+00:00
+1320,Harvey Creasey preference value TOP button,blank,,blank,,2014-12-18 06:54:46.412000+00:00
+1321,Back button to start screen,blank,,blank,,2014-12-18 06:54:50.897000+00:00
+1322,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 06:54:54.683000+00:00
+1323,"Subcategory Everything button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 06:55:01.458000+00:00
+1324,"Opened eli_christopher_20140913054244.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 06:55:26.366000+00:00
+1325,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 06:55:29.908000+00:00
+1326,"Opened CarolineTavelliAbarCardIsle1.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 06:57:15.924000+00:00
+1327,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 06:57:31.432000+00:00
+1328,"Opened katealbee_20141107210028.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 07:00:15.109000+00:00
+1329,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 07:00:22.072000+00:00
+1330,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-18 07:00:24.248000+00:00
+1331,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,happy annivesary,blank,,2014-12-18 07:00:35.923000+00:00
+1332,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,happy anniversary,blank,,2014-12-18 07:00:47.996000+00:00
+1333,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,happy anniversary!,blank,,2014-12-18 07:00:59.453000+00:00
+1334,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,happy anniversary!,blank,,2014-12-18 07:01:00.707000+00:00
+1335,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"happy anniversary!NEWLINENEWLINEi love you...",blank,,2014-12-18 07:01:34.021000+00:00
+1336,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"NEWLINENEWLINEhappy anniversary!NEWLINENEWLINEi love you...",blank,,2014-12-18 07:01:43.681000+00:00
+1337,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"NEWLINENEWLINEhappy anniversary!NEWLINENEWLINEi love you...",blank,,2014-12-18 07:01:54.747000+00:00
+1338,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"NEWLINENEWLINEhappy anniversary!NEWLINENEWLINEi love you...",blank,katealbee_20141107210028.jpg,2014-12-18 07:02:00.433000+00:00
+1339,"credit,KATHRYN J,ELICH,1418886133----------------------------------------------------------------------------------------",blank,"NEWLINENEWLINEhappy anniversary!NEWLINENEWLINEi love you...",blank,katealbee_20141107210028.jpg,2014-12-18 07:02:12.545000+00:00
+1340,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,"NEWLINENEWLINEhappy anniversary!NEWLINENEWLINEi love you...",blank,katealbee_20141107210028.jpg,2014-12-18 07:02:17.551000+00:00
+1341,blank,blank,blank,blank,blank,2014-12-18 07:02:18.910000+00:00
+1342,blank,blank,blank,blank,blank,2014-12-18 07:02:19.291000+00:00
+1343,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 07:02:23.301000+00:00
+1344,"Email receipt sent: millmtnpottery@aol.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 07:02:53.588000+00:00
+1345,No prints in queue,blank,blank,blank,blank,2014-12-18 07:03:36.846000+00:00
+1346,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 07:03:51.864000+00:00
+1347,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 08:39:59.334000+00:00
+1348,"Opened tinybee_20141031054943.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 08:40:03.313000+00:00
+1349,          Page timeout,blank,blank,blank,blank,2014-12-18 08:45:53.735000+00:00
+1350,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 11:56:03.753000+00:00
+1351,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 11:56:15.294000+00:00
+1352,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 11:56:18.138000+00:00
+1353,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 11:56:25.446000+00:00
+1354,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 11:56:34.248000+00:00
+1355,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 11:56:48.703000+00:00
+1356,"Inside right of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 11:57:16.732000+00:00
+1357,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,hannah_20141210173049.jpg,2014-12-18 11:57:21.778000+00:00
+1358,"credit, PARKER          ,STAFFORD,1418903852----------------------------------------------------------------------------------------",blank,,blank,hannah_20141210173049.jpg,2014-12-18 11:57:32.111000+00:00
+1359,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,hannah_20141210173049.jpg,2014-12-18 11:57:37.122000+00:00
+1360,blank,blank,blank,blank,blank,2014-12-18 11:57:37.327000+00:00
+1361,blank,blank,blank,blank,blank,2014-12-18 11:57:37.437000+00:00
+1362,No prints in queue,blank,blank,blank,blank,2014-12-18 11:58:53.004000+00:00
+1363,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 11:59:08.026000+00:00
+1364,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 13:07:05.710000+00:00
+1365,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 13:07:10.164000+00:00
+1366,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 13:07:17.332000+00:00
+1367,"Subcategory Animals button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 13:07:19.595000+00:00
+1368,          Page timeout,blank,blank,blank,blank,2014-12-18 13:13:33.825000+00:00
+1369,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 13:17:03.871000+00:00
+1370,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 13:17:15.522000+00:00
+1371,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 13:17:17.825000+00:00
+1372,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 13:17:19.666000+00:00
+1373,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 13:17:24.600000+00:00
+1374,"Inside right of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Happy Holidays!NEWLINENEWLINE",blank,,2014-12-18 13:18:23.023000+00:00
+1375,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Happy Holidays!NEWLINENEWLINE",blank,,2014-12-18 13:18:24.493000+00:00
+1376,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Happy Holidays!NEWLINENEWLINE",blank,,2014-12-18 13:18:26.637000+00:00
+1377,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Happy Holidays!NEWLINENEWLINE",blank,,2014-12-18 13:18:28.832000+00:00
+1378,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Happy Holidays!NEWLINENEWLINE",blank,,2014-12-18 13:18:29.676000+00:00
+1379,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Happy Holidays!NEWLINENEWLINE",blank,,2014-12-18 13:18:33.823000+00:00
+1380,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Happy Holidays!NEWLINENEWLINE",blank,,2014-12-18 13:18:43.531000+00:00
+1381,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Happy Holidays!NEWLINENEWLINE",blank,,2014-12-18 13:18:46.594000+00:00
+1382,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Happy Holidays!NEWLINENEWLINE",blank,hannah_20141210173049.jpg,2014-12-18 13:18:54.176000+00:00
+1383,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Happy Holidays!NEWLINENEWLINE",blank,,2014-12-18 13:19:00.888000+00:00
+1384,"Christmas preference value button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"Happy Holidays!NEWLINENEWLINE",blank,,2014-12-18 13:19:02.467000+00:00
+1385,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 13:51:36.211000+00:00
+1386,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-18 13:51:39.944000+00:00
+1387,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 13:51:41.928000+00:00
+1388,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 13:51:48.276000+00:00
+1389,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 13:51:50.526000+00:00
+1390,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,hannah_20141210173049.jpg,2014-12-18 13:51:51.510000+00:00
+1391,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 13:53:32.913000+00:00
+1392,"Artist search for Hannah Stafford,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 13:53:39.353000+00:00
+1393,"Opened hannah_20141210173049.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 13:53:41.805000+00:00
+1394,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 13:53:42.873000+00:00
+1395,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,,blank,,2014-12-18 13:53:44.001000+00:00
+1396,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy holidays!,blank,hannah_20141210173049.jpg,2014-12-18 13:53:56.684000+00:00
+1397,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,Happy holidays!,blank,,2014-12-18 13:54:03.590000+00:00
+1398,"Successful coupon: luggage,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Hannah%20Stafford",blank,"NEWLINENEWLINEHappy holidays!",blank,hannah_20141210173049.jpg,2014-12-18 13:54:08.805000+00:00
+1399,blank,blank,blank,blank,blank,2014-12-18 13:54:09.172000+00:00
+1400,blank,blank,blank,blank,blank,2014-12-18 13:54:09.327000+00:00
+1401,No prints in queue,blank,blank,blank,blank,2014-12-18 13:55:28.888000+00:00
+1402,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 13:55:43.910000+00:00
+1403,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 14:00:01.235000+00:00
+1404,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 14:00:03.640000+00:00
+1405,"Opened BlueChristmasVectorDesignTheme-by-Freevectors.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 14:00:52.064000+00:00
+1406,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 14:00:55.798000+00:00
+1407,"Opened Magicchristmasreindeer-by-RobertasPezas.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 14:01:02.143000+00:00
+1408,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a Merry Christmas,blank,,2014-12-18 14:01:21.955000+00:00
+1409,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a Merry Christmas,blank,,2014-12-18 14:01:25.078000+00:00
+1410,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 14:01:41.940000+00:00
+1411,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 14:01:45.693000+00:00
+1412,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 14:01:46.354000+00:00
+1413,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 14:01:47.789000+00:00
+1414,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,,2014-12-18 14:02:54.689000+00:00
+1415,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,,2014-12-18 14:02:56.654000+00:00
+1416,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,,2014-12-18 14:03:00.936000+00:00
+1417,"Back of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,,2014-12-18 14:03:05.469000+00:00
+1418,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,,2014-12-18 14:03:09.590000+00:00
+1419,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,,2014-12-18 14:03:18.920000+00:00
+1420,"Inside right of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,,2014-12-18 14:03:21.929000+00:00
+1421,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,,2014-12-18 14:03:25.953000+00:00
+1422,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,,2014-12-18 14:03:29.011000+00:00
+1423,"Inside right of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,,2014-12-18 14:03:31.336000+00:00
+1424,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,,2014-12-18 14:03:34.095000+00:00
+1425,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,Magicchristmasreindeer-by-RobertasPezas.jpg,2014-12-18 14:03:36.900000+00:00
+1426,"credit,CHASE D,HOUSE             ,1418911429----------------------------------------------------------------------------------------",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,Magicchristmasreindeer-by-RobertasPezas.jpg,2014-12-18 14:03:49.266000+00:00
+1427,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Merry Christmas Little Lady,NEWLINEI Love YOU",blank,Magicchristmasreindeer-by-RobertasPezas.jpg,2014-12-18 14:03:54.274000+00:00
+1428,blank,blank,blank,blank,blank,2014-12-18 14:03:55.490000+00:00
+1429,blank,blank,blank,blank,blank,2014-12-18 14:03:55.622000+00:00
+1430,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 14:04:24.598000+00:00
+1431,No prints in queue,blank,blank,blank,blank,2014-12-18 14:05:17.183000+00:00
+1432,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 14:05:32.205000+00:00

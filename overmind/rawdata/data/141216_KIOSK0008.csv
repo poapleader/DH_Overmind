@@ -1,0 +1,27 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+4278,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 14:21:18.016000+00:00
+4279,"Subcategory Just_Because button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 14:21:25.776000+00:00
+4280,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-16 14:21:56.449000+00:00
+4281,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:12:20.526000+00:00
+4282,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:12:25.977000+00:00
+4283,"Opened ladylucas_20141028173304.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 17:12:44.147000+00:00
+4284,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 17:12:48.189000+00:00
+4285,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 17:12:52.798000+00:00
+4286,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 17:13:06.960000+00:00
+4287,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 17:13:07.681000+00:00
+4288,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:13:11.225000+00:00
+4289,"Opened jerryrendich_20141031141822.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-16 17:13:17.712000+00:00
+4290,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"Who, me?",blank,,2014-12-16 17:13:23.777000+00:00
+4291,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"Who, me?",blank,,2014-12-16 17:13:32.694000+00:00
+4292,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-16 17:13:39.968000+00:00
+4293,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:13:42.856000+00:00
+4294,"Subcategory Animals button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:13:47.916000+00:00
+4295,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-16 17:14:09.983000+00:00
+4296,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:14:14.170000+00:00
+4297,"Opened jerryrendich_20141031141822.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-16 17:14:19.839000+00:00
+4298,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-16 17:14:23.222000+00:00
+4299,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-16 17:14:26.096000+00:00
+4300,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,merry ct,blank,,2014-12-16 17:15:03.053000+00:00
+4301,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-16 17:15:06.530000+00:00
+4302,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 17:15:22.073000+00:00
+4303,          Hourly restart,blank,blank,blank,blank,2014-12-16 17:21:16.859000+00:00

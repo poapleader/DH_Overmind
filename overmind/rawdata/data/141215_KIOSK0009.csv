@@ -1,0 +1,10 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+2009,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 22:20:43.788000+00:00
+2010,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-13 22:20:50.712000+00:00
+2011,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-13 22:21:00.194000+00:00
+2012,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-13 22:21:08.761000+00:00
+2013,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-13 22:21:10.853000+00:00
+2014,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"herp derpNEWLINE",blank,tinybee_20141125210625.jpg,2014-12-13 22:21:20.951000+00:00
+2015,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"herp derpNEWLINE",blank,,2014-12-13 22:21:24.175000+00:00
+2016,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"herp derpNEWLINE",blank,tinybee_20141125210625.jpg,2014-12-13 22:21:30.778000+00:00
+2017,          Hourly restart,blank,blank,blank,blank,2014-12-13 22:27:24.930000+00:00

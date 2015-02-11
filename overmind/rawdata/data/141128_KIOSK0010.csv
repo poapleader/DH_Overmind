@@ -1,0 +1,16 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+130,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-29 01:36:26.038000+00:00
+131,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-29 01:37:01.740000+00:00
+132,"Opened ladylucas_20141028173800.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-11-29 01:37:27.063000+00:00
+133,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-11-29 01:37:45.321000+00:00
+134,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-11-29 01:37:49.390000+00:00
+135,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-11-29 01:37:50.602000+00:00
+136,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-11-29 01:37:58.866000+00:00
+137,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-11-29 01:38:16.361000+00:00
+138,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-11-29 01:38:16.590000+00:00
+139,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-11-29 01:38:16.796000+00:00
+140,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hi,blank,ladylucas_20141028173800.jpg,2014-11-29 01:38:25.977000+00:00
+141,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hi,blank,,2014-11-29 01:38:34.675000+00:00
+142,"Opened ladylucas_20141028173918.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hi,blank,,2014-11-29 01:38:38.412000+00:00
+143,"Opened jerryrendich_20141031204927.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,hi,blank,,2014-11-29 01:38:50.216000+00:00
+144,          Hourly restart,blank,blank,blank,blank,2014-11-29 01:44:40.752000+00:00

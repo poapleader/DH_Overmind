@@ -1,0 +1,70 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+6702,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 15:08:03.204000+00:00
+6703,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 15:08:04.667000+00:00
+6704,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 15:08:09.228000+00:00
+6705,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-19 15:08:20.371000+00:00
+6706,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Santa's watching.,blank,,2014-12-19 15:08:22.019000+00:00
+6707,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Remember: Santa's watching.,blank,,2014-12-19 15:08:40.269000+00:00
+6708,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Remember: Santa's watching.NEWLINENEWLINEMerry Christmas!",blank,,2014-12-19 15:09:14.456000+00:00
+6709,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Remember: Santa's watching.NEWLINENEWLINEMerry Christmas!NEWLINENEWLINE",blank,tinybee_20141031052726.jpg,2014-12-19 15:09:30.405000+00:00
+6710,"credit,JAMES W,READ,1419001782----------------------------------------------------------------------------------------",blank,"Remember: Santa's watching.NEWLINENEWLINEMerry Christmas!NEWLINENEWLINE",blank,tinybee_20141031052726.jpg,2014-12-19 15:09:42.314000+00:00
+6711,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Remember: Santa's watching.NEWLINENEWLINEMerry Christmas!NEWLINENEWLINE",blank,tinybee_20141031052726.jpg,2014-12-19 15:09:47.321000+00:00
+6712,blank,blank,blank,blank,blank,2014-12-19 15:09:48.756000+00:00
+6713,blank,blank,blank,blank,blank,2014-12-19 15:09:49.072000+00:00
+6714,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:09:53.663000+00:00
+6715,"Email receipt sent: read.jay@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:10:07.657000+00:00
+6716,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:10:11.277000+00:00
+6717,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 15:10:18.510000+00:00
+6718,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-19 15:10:21.422000+00:00
+6719,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-19 15:10:23.105000+00:00
+6720,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-19 15:10:24.888000+00:00
+6721,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"Remember: Santa's WatchingNEWLINENEWLINEMerry ChristmasNEWLINENicolette!",blank,tinybee_20141031052726.jpg,2014-12-19 15:11:21.613000+00:00
+6722,"credit,CHRISTINE,ASH,1419001905----------------------------------------------------------------------------------------",blank,"Remember: Santa's WatchingNEWLINENEWLINEMerry ChristmasNEWLINENicolette!",blank,tinybee_20141031052726.jpg,2014-12-19 15:11:45.229000+00:00
+6723,"Card accepted,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,"Remember: Santa's WatchingNEWLINENEWLINEMerry ChristmasNEWLINENicolette!",blank,tinybee_20141031052726.jpg,2014-12-19 15:11:50.218000+00:00
+6724,blank,blank,blank,blank,blank,2014-12-19 15:11:51.641000+00:00
+6725,blank,blank,blank,blank,blank,2014-12-19 15:11:51.881000+00:00
+6726,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:11:56.080000+00:00
+6727,"Email receipt sent: chrisa9@vt.edu,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:12:15.849000+00:00
+6728,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:12:20.593000+00:00
+6729,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 15:12:24.473000+00:00
+6730,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 15:12:25.609000+00:00
+6731,"Opened tinybee_20141031053842.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:12:32.956000+00:00
+6732,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:12:34.091000+00:00
+6733,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"There are three hundred and sixty-four days when you might get un-birthday presents, and only one for birthday presents, you know.",blank,,2014-12-19 15:12:41.606000+00:00
+6734,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"There are three hundred and sixty-four days when you might get un-birthday presents, and only one for birthday presents, you know.",blank,tinybee_20141031053842.jpg,2014-12-19 15:12:45.485000+00:00
+6735,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"There are three hundred and sixty-four days when you might get un-birthday presents, and only one for birthday presents, you know.",blank,,2014-12-19 15:12:49.290000+00:00
+6736,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"There are three hundred and sixty-four days when you might get un-birthday presents, and only one for birthday presents, you know.",blank,,2014-12-19 15:12:54.427000+00:00
+6737,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"There are three hundred and sixty-four days when you might get un-birthday presents, and only one for birthday presents, you know.",blank,tinybee_20141031053842.jpg,2014-12-19 15:13:05.171000+00:00
+6738,"credit,JAMES W,READ,1419001990----------------------------------------------------------------------------------------",blank,"There are three hundred and sixty-four days when you might get un-birthday presents, and only one for birthday presents, you know.",blank,tinybee_20141031053842.jpg,2014-12-19 15:13:09.712000+00:00
+6739,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"There are three hundred and sixty-four days when you might get un-birthday presents, and only one for birthday presents, you know.",blank,tinybee_20141031053842.jpg,2014-12-19 15:13:14.712000+00:00
+6740,blank,blank,blank,blank,blank,2014-12-19 15:13:16.231000+00:00
+6741,blank,blank,blank,blank,blank,2014-12-19 15:13:16.438000+00:00
+6742,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:13:19.810000+00:00
+6743,"Email receipt sent: read.jay@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:13:32.799000+00:00
+6744,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:13:33.647000+00:00
+6745,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 15:13:36.244000+00:00
+6746,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-19 15:13:37.206000+00:00
+6747,"Opened sandHearts.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:14.307000+00:00
+6748,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:18.640000+00:00
+6749,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:22.108000+00:00
+6750,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:29.270000+00:00
+6751,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:32.313000+00:00
+6752,"Opened sandHearts.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:34.204000+00:00
+6753,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:35.637000+00:00
+6754,"Opened retroFlowers.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:37.059000+00:00
+6755,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:50.436000+00:00
+6756,"Opened sandHearts.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:53.760000+00:00
+6757,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:55.113000+00:00
+6758,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:55.968000+00:00
+6759,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:56.812000+00:00
+6760,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:57.527000+00:00
+6761,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-19 15:14:58.901000+00:00
+6762,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday Beeb!NEWLINENEWLINELove, NEWLINEJay",blank,sandHearts.jpg,2014-12-19 15:15:18.463000+00:00
+6763,"credit,JAMES W,READ,1419002125----------------------------------------------------------------------------------------",blank,"Happy Birthday Beeb!NEWLINENEWLINELove, NEWLINEJay",blank,sandHearts.jpg,2014-12-19 15:15:24.805000+00:00
+6764,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday Beeb!NEWLINENEWLINELove, NEWLINEJay",blank,sandHearts.jpg,2014-12-19 15:15:29.813000+00:00
+6765,blank,blank,blank,blank,blank,2014-12-19 15:15:33.052000+00:00
+6766,blank,blank,blank,blank,blank,2014-12-19 15:15:34.120000+00:00
+6767,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:15:39.438000+00:00
+6768,"Email receipt sent: read.jay@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:15:57.987000+00:00
+6769,No prints in queue,blank,blank,blank,blank,2014-12-19 15:16:59.694000+00:00
+6770,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-19 15:17:14.726000+00:00

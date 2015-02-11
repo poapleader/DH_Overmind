@@ -1,0 +1,21 @@
+Unit Number: KIOSK0001
+Unit Details: EATS Kiosk
+Unit Notes: Uses MG8220 Printers; Built in Mike Day's Garage
+
+Current Location: EATS
+
+Current Components
+	Computer: SERVICE_TAG DBM1122; EXPRESS_CODE 29000297882
+	Screen: ELO ET2243L-8UWA-0-D-NPB-G; S/N J133007313
+	Printer_Top: ACGL14291
+	Printer_Bot: [NONE]
+	Modem: [NONE]
+	Antenna: [NONE]
+	CC Reader: B293DE1
+
+
+History
+	Placed in Eats in December 2013
+	141205; 40 Peices of Card Stock; 25 B 25 W Envelopes
+	141222; 18 Card Stock Added; 5 B 10 W Added
+	

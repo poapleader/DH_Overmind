@@ -1,0 +1,43 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+4083,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 12:17:58.941000+00:00
+4084,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 12:18:02.400000+00:00
+4085,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 12:18:04.057000+00:00
+4086,          Hourly restart,blank,blank,blank,blank,2014-12-15 12:24:30.044000+00:00
+4087,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 13:16:48.142000+00:00
+4088,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 13:16:50.417000+00:00
+4089,"Opened eli_christopher_20140915231522.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 13:17:57.504000+00:00
+4090,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Meowy Christmas,blank,,2014-12-15 13:18:00.592000+00:00
+4091,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Meowy Christmas,blank,,2014-12-15 13:18:02.660000+00:00
+4092,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Meowy Christmas,blank,,2014-12-15 13:18:12.131000+00:00
+4093,"Opened harveycreasey_20141203214302.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Meowy Christmas,blank,,2014-12-15 13:18:22.901000+00:00
+4094,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Meowy Christmas,blank,,2014-12-15 13:18:25.616000+00:00
+4095,"Opened tinybee_20141114044421.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Meowy Christmas,blank,,2014-12-15 13:18:26.916000+00:00
+4096,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Meowy Christmas,blank,,2014-12-15 13:18:32.549000+00:00
+4097,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 13:18:37.579000+00:00
+4098,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 14:08:42.245000+00:00
+4099,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 15:19:22.216000+00:00
+4100,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 15:19:24.231000+00:00
+4101,"Subcategory Sympathy button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 15:19:28.396000+00:00
+4102,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Sympathy/",blank,,blank,,2014-12-15 15:19:46.706000+00:00
+4103,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 15:20:00.455000+00:00
+4104,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 15:20:10.965000+00:00
+4105,"Subcategory Sympathy button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 15:20:12.730000+00:00
+4106,"Opened emilyj_20140428005444.jpg,URL=http://127.0.0.1:8000/kiosk/Sympathy/",blank,,blank,,2014-12-15 15:20:20.540000+00:00
+4107,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Sympathy/",blank,,blank,,2014-12-15 15:20:29.908000+00:00
+4108,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Sympathy/",blank,,blank,,2014-12-15 15:20:33.022000+00:00
+4109,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Sympathy/",blank,,blank,,2014-12-15 15:20:45.685000+00:00
+4110,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Sympathy/",blank,Sorry for your loss. ,blank,,2014-12-15 15:20:57.831000+00:00
+4111,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Sympathy/",blank,"Sorry for your loss. NEWLINE",blank,,2014-12-15 15:22:48.690000+00:00
+4112,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Sympathy/",blank,,blank,,2014-12-15 15:22:53.118000+00:00
+4113,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 18:03:11.798000+00:00
+4114,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 18:03:13.157000+00:00
+4115,          Hourly restart,blank,blank,blank,blank,2014-12-15 18:09:15.503000+00:00
+4116,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:00:42.959000+00:00
+4117,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-15 19:00:47.245000+00:00
+4118,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:00:52.287000+00:00
+4119,"Artist search for Old Grey Sea Wolf,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:00:58.243000+00:00
+4120,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Old%20Grey%20Sea%20Wolf",blank,,blank,,2014-12-15 19:01:00.020000+00:00
+4121,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 23:55:40.892000+00:00
+4122,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-15 23:55:47.966000+00:00
+4123,          Hourly restart,blank,blank,blank,blank,2014-12-16 00:01:47.879000+00:00
+4124,"Preview for Your Town ad,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 02:26:13.057000+00:00

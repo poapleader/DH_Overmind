@@ -1,0 +1,31 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+3980,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 13:09:37.300000+00:00
+3981,"Artist search for Katherine Devine,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 13:09:38.696000+00:00
+3982,"Go home button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Katherine%20Devine",blank,,blank,,2014-12-11 13:09:40.593000+00:00
+3983,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:04:14.803000+00:00
+3984,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:04:17.975000+00:00
+3985,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 20:04:28.715000+00:00
+3986,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 20:04:36.784000+00:00
+3987,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 20:04:40.240000+00:00
+3988,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Ho Ho Ho!!,blank,,2014-12-11 20:05:01.937000+00:00
+3989,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 20:05:05.339000+00:00
+3990,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:05:12.142000+00:00
+3991,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:05:13.970000+00:00
+3992,"Opened debturcio_20141202171119.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 20:05:17.486000+00:00
+3993,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 20:05:23.855000+00:00
+3994,"Opened tinybee_20141125210625.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 20:05:26.176000+00:00
+3995,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-11 20:05:40.365000+00:00
+3996,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-11 20:05:52.762000+00:00
+3997,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-11 20:05:57.690000+00:00
+3998,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-11 20:06:00.465000+00:00
+3999,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.",blank,,2014-12-11 20:06:04.439000+00:00
+4000,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.NEWLINESo he has us to wish youNEWLINEa Very Merry ChristmasNEWLINENEWLINELove Gracie & Oscar",blank,tinybee_20141125210625.jpg,2014-12-11 20:07:40.681000+00:00
+4001,"credit,GAIL P,HARWOOD,1418328475----------------------------------------------------------------------------------------",blank,"Due to budget cuts, Santa isn't making the rounds this year.NEWLINESo he has us to wish youNEWLINEa Very Merry ChristmasNEWLINENEWLINELove Gracie & Oscar",blank,tinybee_20141125210625.jpg,2014-12-11 20:07:54.547000+00:00
+4002,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Due to budget cuts, Santa isn't making the rounds this year.NEWLINESo he has us to wish youNEWLINEa Very Merry ChristmasNEWLINENEWLINELove Gracie & Oscar",blank,tinybee_20141125210625.jpg,2014-12-11 20:07:59.556000+00:00
+4003,blank,blank,blank,blank,blank,2014-12-11 20:08:00.689000+00:00
+4004,blank,blank,blank,blank,blank,2014-12-11 20:08:00.879000+00:00
+4005,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-11 20:08:17.582000+00:00
+4006,"Net Promoter value of  9,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-11 20:08:46.926000+00:00
+4007,No prints in queue,blank,blank,blank,blank,2014-12-11 20:09:22.414000+00:00
+4008,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-11 20:09:37.437000+00:00
+4009,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 22:41:03.675000+00:00

@@ -1,0 +1,21 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+9551,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 17:52:12.495000+00:00
+9552,"Opened AllieKelley1.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-22 17:52:24.716000+00:00
+9553,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-22 17:56:40.614000+00:00
+9554,"Opened AllieKelley10.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-22 17:56:48.710000+00:00
+9555,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-22 17:56:55.570000+00:00
+9556,          Page timeout,blank,blank,blank,blank,2014-12-22 18:03:17.798000+00:00
+9557,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 19:04:28.554000+00:00
+9558,"Opened Multi-ColorChristmasBackground-by-vector-eps.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 19:04:34.022000+00:00
+9559,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 19:04:36.854000+00:00
+9560,"Opened eli_christopher_20140915231411.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 19:04:52.396000+00:00
+9561,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,eli_christopher_20140915231411.jpg,2014-12-22 19:04:53.717000+00:00
+9562,          Page timeout,blank,blank,blank,blank,2014-12-22 19:10:45.225000+00:00
+9563,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 19:13:39.677000+00:00
+9564,"Artist search for Jeannette Goff,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 19:13:43.006000+00:00
+9565,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Jeannette%20Goff",blank,,blank,,2014-12-22 19:13:51.753000+00:00
+9566,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 19:13:55.058000+00:00
+9567,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-22 19:13:56.703000+00:00
+9568,"Opened ChristmasTime-by-claricegomes.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 19:14:18.236000+00:00
+9569,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-22 19:14:19.474000+00:00
+9570,          Page timeout,blank,blank,blank,blank,2014-12-22 19:20:21.654000+00:00

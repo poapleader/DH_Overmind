@@ -1,0 +1,180 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+1970,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 11:57:30.883000+00:00
+1971,"Preview for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 11:57:31.246000+00:00
+1972,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 11:57:32.239000+00:00
+1973,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 11:57:36.083000+00:00
+1974,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 11:57:40.919000+00:00
+1975,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 11:57:47.608000+00:00
+1976,"Opened running.river_20141109033246.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 11:57:50.145000+00:00
+1977,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,You're the icing on top!,blank,,2014-12-11 11:57:58.173000+00:00
+1978,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"yoNEWLINENEWLINEYou're the icing on top!",blank,running.river_20141109033246.jpg,2014-12-11 11:58:18.840000+00:00
+1979,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"yoNEWLINENEWLINEYou're the icing on top!",blank,,2014-12-11 11:58:37.320000+00:00
+1980,          Hourly restart,blank,blank,blank,blank,2014-12-11 12:04:27.952000+00:00
+1981,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 13:12:36.346000+00:00
+1982,"Artist search for Katherine Devine,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 13:12:38.347000+00:00
+1983,"Go home button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Katherine%20Devine",blank,,blank,,2014-12-11 13:12:40.832000+00:00
+1984,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 13:12:42.868000+00:00
+1985,"Artist search for Ida Kao,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 13:12:46.370000+00:00
+1986,"Go home button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Ida%20Kao",blank,,blank,,2014-12-11 13:12:48.218000+00:00
+1987,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 13:12:50.390000+00:00
+1988,"Artist search for Molly Helton,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 13:12:55.583000+00:00
+1989,"Go home button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Molly%20Helton",blank,,blank,,2014-12-11 13:12:57.431000+00:00
+1990,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 15:28:42.112000+00:00
+1991,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 15:28:44.951000+00:00
+1992,"Opened katealbee_20141107210408.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:30:04.167000+00:00
+1993,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:30:08.440000+00:00
+1994,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:30:16.005000+00:00
+1995,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:30:19.557000+00:00
+1996,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:30:23.916000+00:00
+1997,"Opened katealbee_20141107210028.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:30:29.393000+00:00
+1998,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:30:35.391000+00:00
+1999,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:30:38.827000+00:00
+2000,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:30:42.925000+00:00
+2001,"Opened ladylucas_20141028173800.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:31:32.720000+00:00
+2002,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:31:33.726000+00:00
+2003,"Left inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:31:36.332000+00:00
+2004,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:31:37.903000+00:00
+2005,"Opened tinybee_20141114044421.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:31:56.156000+00:00
+2006,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:32:01.994000+00:00
+2007,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:32:04.147000+00:00
+2008,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:32:27.451000+00:00
+2009,"Opened ladylucas_20141028173451.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:32:44.395000+00:00
+2010,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:32:54.784000+00:00
+2011,"Opened m_helton26._20141210172703.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:33:06.014000+00:00
+2012,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:33:13.291000+00:00
+2013,"Opened debturcio_20141202171046.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:33:21.177000+00:00
+2014,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:33:22.840000+00:00
+2015,"Inside left of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:33:24.363000+00:00
+2016,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:33:25.178000+00:00
+2017,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:33:26.242000+00:00
+2018,"Opened ladylucas_20141028173346.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:33:27.364000+00:00
+2019,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:33:35.287000+00:00
+2020,"Opened ladylucas_20141013154400.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:34:05.464000+00:00
+2021,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:34:10.766000+00:00
+2022,"Opened tleighanna_20141109042711.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:34:11.905000+00:00
+2023,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:34:29.702000+00:00
+2024,"Suggestive button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:34:52.887000+00:00
+2025,"Suggestive TOGGLE,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 15:34:54.963000+00:00
+2026,"Opened eli_christopher_20140913052840.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-11 15:35:25.200000+00:00
+2027,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-11 15:35:34.441000+00:00
+2028,"Opened eli_christopher_20141206235532.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-11 15:35:58.590000+00:00
+2029,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-11 15:36:07.626000+00:00
+2030,"Opened tleighanna_20141109042711.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-11 15:36:13.759000+00:00
+2031,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,,blank,,2014-12-11 15:36:16.004000+00:00
+2032,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,Sorry you had to draw your own card. ,blank,,2014-12-11 15:36:17.208000+00:00
+2033,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,Sorry you had to draw your own card. ,blank,,2014-12-11 15:36:20.923000+00:00
+2034,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"Sorry you had to draw your own card. Merry Christmas, lover.",blank,tleighanna_20141109042711.jpg,2014-12-11 15:37:06.877000+00:00
+2035,"credit,EUGENIA L            ,GANT,1418312252----------------------------------------------------------------------------------------",blank,"Sorry you had to draw your own card. Merry Christmas, lover.",blank,tleighanna_20141109042711.jpg,2014-12-11 15:37:32.228000+00:00
+2036,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/?prefN0=Suggestive&prefV0=Suggestive",blank,"Sorry you had to draw your own card. Merry Christmas, lover.",blank,tleighanna_20141109042711.jpg,2014-12-11 15:37:37.236000+00:00
+2037,blank,blank,blank,blank,blank,2014-12-11 15:37:37.562000+00:00
+2038,blank,blank,blank,blank,blank,2014-12-11 15:37:37.706000+00:00
+2039,No prints in queue,blank,blank,blank,blank,2014-12-11 15:38:39.262000+00:00
+2040,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-11 15:38:54.291000+00:00
+2041,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 15:48:59.392000+00:00
+2042,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 15:49:13.064000+00:00
+2043,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 15:49:13.375000+00:00
+2044,"Preview for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 15:49:13.923000+00:00
+2045,"Preview for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 15:49:14.198000+00:00
+2046,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 17:24:43.559000+00:00
+2047,"Artist search for Katherine Hall,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 17:24:51.434000+00:00
+2048,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Katherine%20Hall",blank,,blank,,2014-12-11 17:25:05.088000+00:00
+2049,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 17:52:29.264000+00:00
+2050,"Opened KearahDonatoJump.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-11 17:56:53.724000+00:00
+2051,          Hourly restart,blank,blank,blank,blank,2014-12-11 18:02:44.576000+00:00
+2052,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 18:17:48.890000+00:00
+2053,"Opened ladylucas_20141006174513.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-11 18:17:55.231000+00:00
+2054,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-11 18:17:56.846000+00:00
+2055,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-11 18:17:58.816000+00:00
+2056,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 18:18:03.862000+00:00
+2057,"Opened ladylucas_20141028173304.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-11 18:18:07.157000+00:00
+2058,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-11 18:18:12.120000+00:00
+2059,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,Happy Holidays!,blank,,2014-12-11 18:18:18.227000+00:00
+2060,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,Happy Holidays!,blank,,2014-12-11 18:18:21.792000+00:00
+2061,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-11 18:18:25.446000+00:00
+2062,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:10:54.397000+00:00
+2063,"Subcategory Just_Because button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:10:59.109000+00:00
+2064,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-11 20:11:09.348000+00:00
+2065,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:45:03.914000+00:00
+2066,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:45:28.788000+00:00
+2067,"Opened AbstractChristmasTreeVector-by-Freevectors.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 20:46:34.737000+00:00
+2068,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 20:46:34.942000+00:00
+2069,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-11 20:46:58.281000+00:00
+2070,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:47:01.688000+00:00
+2071,"Subcategory ISINGLEm_Sorry button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:47:08.083000+00:00
+2072,"Opened tleighanna_20140930044817.jpg,URL=http://127.0.0.1:8000/kiosk/ISINGLEm_Sorry/",blank,,blank,,2014-12-11 20:47:22.141000+00:00
+2073,"X button used to close,URL=http://127.0.0.1:8000/kiosk/ISINGLEm_Sorry/",blank,,blank,,2014-12-11 20:47:27.521000+00:00
+2074,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/ISINGLEm_Sorry/",blank,,blank,,2014-12-11 20:47:28.602000+00:00
+2075,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:47:30.966000+00:00
+2076,"Subcategory Just_Because button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:47:39.028000+00:00
+2077,"Opened tleighanna_20141022003231.jpg,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-11 20:47:53.749000+00:00
+2078,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-11 20:47:59.147000+00:00
+2079,"Opened HungryGiraffe.jpg,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-11 20:48:20.843000+00:00
+2080,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-11 20:48:26.470000+00:00
+2081,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-11 20:48:29.484000+00:00
+2082,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:48:32.016000+00:00
+2083,"Subcategory Animals button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:48:36.322000+00:00
+2084,"Opened kittens.jpg,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 20:48:57.582000+00:00
+2085,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 20:49:02.556000+00:00
+2086,"Opened owl.jpg,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 20:49:04.443000+00:00
+2087,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 20:49:05.592000+00:00
+2088,"Opened owl.jpg,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 20:49:06.943000+00:00
+2089,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 20:49:07.746000+00:00
+2090,"Opened droopyDog.jpg,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 20:49:10.645000+00:00
+2091,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 20:49:15.148000+00:00
+2092,"Opened caitlynkeir_20141101051609.jpg,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 20:49:28.700000+00:00
+2093,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 20:49:31.618000+00:00
+2094,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 20:49:35.816000+00:00
+2095,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:49:38.301000+00:00
+2096,"Subcategory Angels,_Fairies,_ANDSIGN_Mermaids button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:49:40.729000+00:00
+2097,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Angels,_Fairies,_ANDSIGN_Mermaids/",blank,,blank,,2014-12-11 20:50:25.698000+00:00
+2098,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:50:28.453000+00:00
+2099,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:50:30.901000+00:00
+2100,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-11 20:50:50.582000+00:00
+2101,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:50:52.966000+00:00
+2102,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:50:59.308000+00:00
+2103,"Opened tinybee_20141031053842.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-11 20:51:07.907000+00:00
+2104,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-11 20:51:28.333000+00:00
+2105,"Opened tinybee_20141028081423.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-11 20:51:29.342000+00:00
+2106,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-11 20:51:33.225000+00:00
+2107,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-11 20:55:22.188000+00:00
+2108,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:55:25.847000+00:00
+2109,"Subcategory MotherSINGLEs_Day button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:55:28.717000+00:00
+2110,"Opened CutePlayfulBirds_vectorbackground.jpg,URL=http://127.0.0.1:8000/kiosk/MotherSINGLEs_Day/",blank,,blank,,2014-12-11 20:55:51.319000+00:00
+2111,"X button used to close,URL=http://127.0.0.1:8000/kiosk/MotherSINGLEs_Day/",blank,,blank,,2014-12-11 20:55:52.312000+00:00
+2112,"Opened annejht_20140502152100.jpg,URL=http://127.0.0.1:8000/kiosk/MotherSINGLEs_Day/",blank,,blank,,2014-12-11 20:56:12.028000+00:00
+2113,"X button used to close,URL=http://127.0.0.1:8000/kiosk/MotherSINGLEs_Day/",blank,,blank,,2014-12-11 20:56:13.023000+00:00
+2114,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/MotherSINGLEs_Day/",blank,,blank,,2014-12-11 20:56:27.862000+00:00
+2115,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:56:29.913000+00:00
+2116,"Subcategory FatherSINGLEs_Day button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:56:31.162000+00:00
+2117,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/FatherSINGLEs_Day/",blank,,blank,,2014-12-11 20:56:39+00:00
+2118,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:56:41.434000+00:00
+2119,"Subcategory Thanksgiving button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 20:56:44.737000+00:00
+2120,          Hourly restart,blank,blank,blank,blank,2014-12-11 21:02:36.168000+00:00
+2121,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 22:40:37.437000+00:00
+2122,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 23:40:11.311000+00:00
+2123,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 23:40:13.251000+00:00
+2124,"Subcategory Animals button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 23:40:19.335000+00:00
+2125,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Animals/",blank,,blank,,2014-12-11 23:41:14.478000+00:00
+2126,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 23:41:17.995000+00:00
+2127,"Subcategory New_River_Valley button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 23:41:21.167000+00:00
+2128,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-11 23:41:29.554000+00:00
+2129,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 23:41:31.562000+00:00
+2130,"Subcategory Something_else button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 23:41:35.865000+00:00
+2131,"Opened animotaxis_20140505114851.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-11 23:41:46.945000+00:00
+2132,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-11 23:41:49.165000+00:00
+2133,"Opened emilyj_20140428005923.jpg,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-11 23:42:14.598000+00:00
+2134,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-11 23:42:20.143000+00:00
+2135,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Something_else/",blank,,blank,,2014-12-11 23:42:22.469000+00:00
+2136,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 23:42:24.278000+00:00
+2137,"Subcategory Angels,_Fairies,_ANDSIGN_Mermaids button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-11 23:42:25.494000+00:00
+2138,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Angels,_Fairies,_ANDSIGN_Mermaids/",blank,,blank,,2014-12-11 23:42:46.522000+00:00
+2139,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 00:31:15.704000+00:00
+2140,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 00:31:18.087000+00:00
+2141,          Hourly restart,blank,blank,blank,blank,2014-12-12 00:37:38.325000+00:00
+2142,"Custom Cards $2.95 label,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 02:34:11.905000+00:00
+2143,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 03:31:03.503000+00:00
+2144,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 03:31:06.810000+00:00
+2145,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 03:31:11.954000+00:00
+2146,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 03:31:19.033000+00:00
+2147,"Opened tinybee_20141031053842.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 03:31:31.703000+00:00
+2148,          Hourly restart,blank,blank,blank,blank,2014-12-12 03:37:25.780000+00:00

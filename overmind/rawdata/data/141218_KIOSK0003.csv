@@ -1,0 +1,102 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+6601,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 15:42:19.493000+00:00
+6602,"Opened katherinedevine_20141203202021.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 15:42:25.781000+00:00
+6603,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 15:42:27.626000+00:00
+6604,"Opened ladylucas_20141028173304.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 15:42:30.906000+00:00
+6605,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-18 15:42:33.555000+00:00
+6606,          Page timeout,blank,blank,blank,blank,2014-12-18 15:48:46.351000+00:00
+6607,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:44:48.241000+00:00
+6608,"Subcategory New_River_Valley button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 16:44:49.331000+00:00
+6609,"Opened KearahDonatoHeritageParkTwo.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 16:44:52.330000+00:00
+6610,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 16:44:52.960000+00:00
+6611,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 16:44:55.286000+00:00
+6612,          Page timeout,blank,blank,blank,blank,2014-12-18 16:50:40.863000+00:00
+6613,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:23:57.052000+00:00
+6614,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:23:58.113000+00:00
+6615,"Opened nettasart2014_20141202042435.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-18 17:24:49.817000+00:00
+6616,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Literally!  Happy Birthday.,blank,,2014-12-18 17:25:04.696000+00:00
+6617,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Literally!  Happy Birthday.,blank,nettasart2014_20141202042435.jpg,2014-12-18 17:25:07.382000+00:00
+6618,"credit,STACY,SPITZER,1418923524MCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebitMCDebit",blank,Literally!  Happy Birthday.,blank,nettasart2014_20141202042435.jpg,2014-12-18 17:25:24.068000+00:00
+6619,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Literally!  Happy Birthday.,blank,nettasart2014_20141202042435.jpg,2014-12-18 17:25:29.119000+00:00
+6620,blank,blank,blank,blank,blank,2014-12-18 17:25:30.193000+00:00
+6621,blank,blank,blank,blank,blank,2014-12-18 17:25:30.320000+00:00
+6622,No prints in queue,blank,blank,blank,blank,2014-12-18 17:26:51.876000+00:00
+6623,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 17:27:06.904000+00:00
+6624,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:32:32.218000+00:00
+6625,"Subcategory Thank_You button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 17:32:41.291000+00:00
+6626,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-12-18 17:32:56.420000+00:00
+6627,"Opened tleighanna_20141022004430.jpg,URL=http://127.0.0.1:8000/kiosk/Thank_You/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-18 17:33:11.868000+00:00
+6628,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Thank_You/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-18 17:33:16.865000+00:00
+6629,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Thank_You/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-18 17:33:18.700000+00:00
+6630,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Thank_You/?prefN0=Local&prefV0=24060",blank,We will miss you!,blank,,2014-12-18 17:33:38.703000+00:00
+6631,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Thank_You/?prefN0=Local&prefV0=24060",blank,We will miss you!,blank,tleighanna_20141022004430.jpg,2014-12-18 17:33:46.233000+00:00
+6632,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Thank_You/?prefN0=Local&prefV0=24060",blank,We will miss you!,blank,,2014-12-18 17:34:03.170000+00:00
+6633,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Thank_You/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-18 17:34:05.513000+00:00
+6634,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 18:34:35.591000+00:00
+6635,"Opened bijan_20140923051640.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 18:34:43.419000+00:00
+6636,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 18:34:49.126000+00:00
+6637,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 18:35:05.329000+00:00
+6638,"Opened bijan_20140923051640.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-18 18:35:13.507000+00:00
+6639,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,There's no place like home.,blank,,2014-12-18 18:35:18.474000+00:00
+6640,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,There's no place like home.,blank,,2014-12-18 18:35:20.042000+00:00
+6641,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank, home.,blank,,2014-12-18 18:35:24.289000+00:00
+6642,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank, We're so proud of you and everything you've accomplished! What you've been working so hard for is finally here- Graduation! We love you! ,blank,,2014-12-18 18:39:49.080000+00:00
+6643,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank, We're so proud of you and everything you've accomplished! What you've been working so hard for is finally here- Graduation! We love you! ,blank,,2014-12-18 18:39:52.036000+00:00
+6644,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank, We're so proud of you and everything you've accomplished! What you've been working so hard for is finally here- Graduation! We love you! ,blank,,2014-12-18 18:39:56.927000+00:00
+6645,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank, We're so proud of you and everything you've accomplished! What you've been working so hard for is finally here- Graduation! We love you! ,blank,,2014-12-18 18:40:04.054000+00:00
+6646,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank, We're so proud of you and everything you've accomplished! What you've been working so hard for is finally here- Graduation! We love you! ,blank,,2014-12-18 18:40:12.068000+00:00
+6647,"Opened bijan_20140923051640.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank, We're so proud of you and everything you've accomplished! What you've been working so hard for is finally here- Graduation! We love you! ,blank,,2014-12-18 18:40:15.732000+00:00
+6648,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank, We're so proud of you and everything you've accomplished! What you've been working so hard for is finally here- Graduation! We love you! ,blank,,2014-12-18 18:40:18.742000+00:00
+6649,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank, We're so proud of you and everything you've accomplished! What you've been working so hard for is finally here- Graduation! We love you! ,blank,bijan_20140923051640.jpg,2014-12-18 18:40:26.793000+00:00
+6650,"credit,CAROLINE MARIE  ,LANCASTER,1418928044----------------------------------------------------------------------------------------",blank, We're so proud of you and everything you've accomplished! What you've been working so hard for is finally here- Graduation! We love you! ,blank,bijan_20140923051640.jpg,2014-12-18 18:40:43.831000+00:00
+6651,"Card accepted,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank, We're so proud of you and everything you've accomplished! What you've been working so hard for is finally here- Graduation! We love you! ,blank,bijan_20140923051640.jpg,2014-12-18 18:40:48.791000+00:00
+6652,blank,blank,blank,blank,blank,2014-12-18 18:40:49.921000+00:00
+6653,blank,blank,blank,blank,blank,2014-12-18 18:40:50.144000+00:00
+6654,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 18:40:54.630000+00:00
+6655,"Email receipt sent: cml.96@hotmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 18:41:16.450000+00:00
+6656,No prints in queue,blank,blank,blank,blank,2014-12-18 18:42:09.687000+00:00
+6657,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 18:42:24.717000+00:00
+6658,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 18:42:44.534000+00:00
+6659,"Subcategory Hanukkah button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 18:42:46.605000+00:00
+6660,"Opened tinybee_20141103014103.jpg,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-18 18:42:51.403000+00:00
+6661,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-18 18:42:55.626000+00:00
+6662,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-18 18:42:56.964000+00:00
+6663,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,"Happy Hanukkah Dad!NEWLINENEWLINESo joy. Very celebrate.NEWLINEMany love,NEWLINENEWLINEAnge",blank,tinybee_20141103014103.jpg,2014-12-18 18:43:41.595000+00:00
+6664,"credit,ANDREW L,FOILES,1418928230----------------------------------------------------------------------------------------",blank,"Happy Hanukkah Dad!NEWLINENEWLINESo joy. Very celebrate.NEWLINEMany love,NEWLINENEWLINEAnge",blank,tinybee_20141103014103.jpg,2014-12-18 18:43:50.177000+00:00
+6665,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,"Happy Hanukkah Dad!NEWLINENEWLINESo joy. Very celebrate.NEWLINEMany love,NEWLINENEWLINEAnge",blank,tinybee_20141103014103.jpg,2014-12-18 18:43:55.178000+00:00
+6666,blank,blank,blank,blank,blank,2014-12-18 18:43:56.490000+00:00
+6667,blank,blank,blank,blank,blank,2014-12-18 18:43:56.709000+00:00
+6668,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 18:44:00.279000+00:00
+6669,"Email receipt sent: afoiles@vt.edu,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 18:44:09.614000+00:00
+6670,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 18:44:39.284000+00:00
+6671,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 18:44:43.096000+00:00
+6672,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 18:44:44.543000+00:00
+6673,"Opened tinybee_20141029030515.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-18 18:44:58.530000+00:00
+6674,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-18 18:45:01.719000+00:00
+6675,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-18 18:45:03.388000+00:00
+6676,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday Uly!NEWLINENEWLINEYour favorite neighbor,NEWLINEAndy",blank,tinybee_20141029030515.jpg,2014-12-18 18:45:49.544000+00:00
+6677,"credit,ANDREW L,FOILES,1418928358----------------------------------------------------------------------------------------",blank,"Happy Birthday Uly!NEWLINENEWLINEYour favorite neighbor,NEWLINEAndy",blank,tinybee_20141029030515.jpg,2014-12-18 18:45:58.382000+00:00
+6678,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday Uly!NEWLINENEWLINEYour favorite neighbor,NEWLINEAndy",blank,tinybee_20141029030515.jpg,2014-12-18 18:46:03.375000+00:00
+6679,blank,blank,blank,blank,blank,2014-12-18 18:46:05.257000+00:00
+6680,blank,blank,blank,blank,blank,2014-12-18 18:46:05.462000+00:00
+6681,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 18:46:11.309000+00:00
+6682,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 18:46:13.856000+00:00
+6683,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-18 18:46:14.620000+00:00
+6684,"Opened tinybee_20141029030515.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-18 18:46:16.748000+00:00
+6685,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-18 18:46:19.315000+00:00
+6686,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-18 18:46:28.541000+00:00
+6687,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday, Kaitlin!NEWLINEI'm so glad we can celebrare our mutual",blank,,2014-12-18 18:46:56.360000+00:00
+6688,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday, Kaitlin!NEWLINEI'm so glad we can celebrare our mutual",blank,,2014-12-18 18:47:00.292000+00:00
+6689,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday, Kaitlin!NEWLINEI'm so glad we can celebrare our mutual",blank,,2014-12-18 18:47:01.165000+00:00
+6690,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday, Kaitlin!NEWLINEI'm so glad we can celebrare our mutual",blank,,2014-12-18 18:47:02.208000+00:00
+6691,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday, Kaitlin!NEWLINEI'm so glad we can celebrare our mutual",blank,,2014-12-18 18:47:02.929000+00:00
+6692,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday, Kaitlin!NEWLINEI'm so glad we can celebrate our mutual",blank,,2014-12-18 18:47:07.725000+00:00
+6693,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday, Kaitlin!NEWLINEI'm so glad we can celebrate our mutual birthdays together...in a residence hall...in our late 20's.NEWLINENEWLINEAndy",blank,tinybee_20141029030515.jpg,2014-12-18 18:47:51.827000+00:00
+6694,"credit,ANDREW L,FOILES,1418928493----------------------------------------------------------------------------------------",blank,"Happy Birthday, Kaitlin!NEWLINEI'm so glad we can celebrate our mutual birthdays together...in a residence hall...in our late 20's.NEWLINENEWLINEAndy",blank,tinybee_20141029030515.jpg,2014-12-18 18:48:12.810000+00:00
+6695,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Happy Birthday, Kaitlin!NEWLINEI'm so glad we can celebrate our mutual birthdays together...in a residence hall...in our late 20's.NEWLINENEWLINEAndy",blank,tinybee_20141029030515.jpg,2014-12-18 18:48:17.799000+00:00
+6696,blank,blank,blank,blank,blank,2014-12-18 18:48:19.651000+00:00
+6697,blank,blank,blank,blank,blank,2014-12-18 18:48:19.841000+00:00
+6698,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 18:48:23.156000+00:00
+6699,"Email receipt sent: afoiles@vt.edu,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 18:48:33.202000+00:00
+6700,No prints in queue,blank,blank,blank,blank,2014-12-18 18:49:27.389000+00:00
+6701,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-18 18:49:42.440000+00:00

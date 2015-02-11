@@ -1,0 +1,42 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+881,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 07:57:22.390000+00:00
+882,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 07:57:27.911000+00:00
+883,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 07:57:39.212000+00:00
+884,          Hourly restart,blank,blank,blank,blank,2014-12-12 08:03:30.165000+00:00
+885,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 10:04:15.532000+00:00
+886,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-12 10:04:22.454000+00:00
+887,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-12 10:04:23.783000+00:00
+888,"info@cardisle.com email address,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 10:04:24.936000+00:00
+889,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 10:04:31.043000+00:00
+890,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 10:04:32.687000+00:00
+891,"Opened eiffelTower.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:05:02.492000+00:00
+892,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:05:03.812000+00:00
+893,"Opened retroFlowers.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:05:06.855000+00:00
+894,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:05:07.700000+00:00
+895,"Opened eli_christopher_20140913052723.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:05:19.303000+00:00
+896,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:05:20.156000+00:00
+897,"Opened katealbee_20140923021932.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:05:22.742000+00:00
+898,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:05:23.473000+00:00
+899,"Opened KearahDonatoMarmot.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:05:40.148000+00:00
+900,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:05:57.064000+00:00
+901,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:05:58.631000+00:00
+902,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:06:00.916000+00:00
+903,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:06:04.733000+00:00
+904,"Opened tinybee_20141029035955.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-12 10:06:20.037000+00:00
+905,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Hoping that all of your birthday wishes come true.,blank,,2014-12-12 10:06:23.075000+00:00
+906,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,Hoping that all of your birthday wishes come true.,blank,,2014-12-12 10:06:25.525000+00:00
+907,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Hoping that all of your birthday wishes come true. NEWLINENEWLINEHave a great birthday Benesa!! NEWLINENEWLINE-Grant",blank,tinybee_20141029035955.jpg,2014-12-12 10:07:56.664000+00:00
+908,"credit,GRANT ,SPENCE,1418378886----------------------------------------------------------------------------------------",blank,"Hoping that all of your birthday wishes come true. NEWLINENEWLINEHave a great birthday Benesa!! NEWLINENEWLINE-Grant",blank,tinybee_20141029035955.jpg,2014-12-12 10:08:06.320000+00:00
+909,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,"Hoping that all of your birthday wishes come true. NEWLINENEWLINEHave a great birthday Benesa!! NEWLINENEWLINE-Grant",blank,tinybee_20141029035955.jpg,2014-12-12 10:08:11.329000+00:00
+910,blank,blank,blank,blank,blank,2014-12-12 10:08:12.490000+00:00
+911,blank,blank,blank,blank,blank,2014-12-12 10:08:12.811000+00:00
+912,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-12 10:08:31.185000+00:00
+913,No prints in queue,blank,blank,blank,blank,2014-12-12 10:09:32.374000+00:00
+914,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-12 10:09:47.390000+00:00
+915,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 12:46:24.367000+00:00
+916,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 12:46:30.603000+00:00
+917,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 12:46:33.438000+00:00
+918,"Opened harveycreasey_20141203214302.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 12:47:04.685000+00:00
+919,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-12 12:47:06.801000+00:00
+920,          Hourly restart,blank,blank,blank,blank,2014-12-12 12:52:54.040000+00:00
+921,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-12 13:43:49.458000+00:00

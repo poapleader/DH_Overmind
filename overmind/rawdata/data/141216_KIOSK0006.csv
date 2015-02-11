@@ -1,0 +1,38 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+8567,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 16:54:14.711000+00:00
+8568,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 16:54:17.255000+00:00
+8569,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 16:54:18.314000+00:00
+8570,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-16 16:54:32.835000+00:00
+8571,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 16:54:34.915000+00:00
+8572,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 16:54:36.551000+00:00
+8573,"Subcategory Anniversary button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 16:54:37.841000+00:00
+8574,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Anniversary/",blank,,blank,,2014-12-16 16:54:45.471000+00:00
+8575,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 21:08:54.332000+00:00
+8576,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 21:09:04.613000+00:00
+8577,"Opened AllieKelley4.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-16 21:09:10.733000+00:00
+8578,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-16 21:09:16.715000+00:00
+8579,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-16 21:09:18.653000+00:00
+8580,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-16 21:09:27.333000+00:00
+8581,          Hourly restart,blank,blank,blank,blank,2014-12-16 21:15:18.385000+00:00
+8582,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 21:15:56.620000+00:00
+8583,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 21:15:59.375000+00:00
+8584,"Artists preference name button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-16 21:17:25.320000+00:00
+8585,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-16 21:17:26.850000+00:00
+8586,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 21:17:30.062000+00:00
+8587,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 21:17:33.645000+00:00
+8588,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 21:17:56.197000+00:00
+8589,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 21:18:00.388000+00:00
+8590,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 21:19:53.297000+00:00
+8591,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 21:20:03.774000+00:00
+8592,"Opened sunflowers.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-16 21:20:26.805000+00:00
+8593,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-16 21:20:30.954000+00:00
+8594,"Opened haida%20design%20-%20fish%20eagle%20and%20salmon.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-16 21:21:02.692000+00:00
+8595,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-16 21:21:15.601000+00:00
+8596,"Opened Chibi_emos_by_xcutiner.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-16 21:21:17.713000+00:00
+8597,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-16 21:21:21.963000+00:00
+8598,"Opened running.river_20141113060712.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-16 21:21:58.498000+00:00
+8599,          Hourly restart,blank,blank,blank,blank,2014-12-16 21:27:48.958000+00:00
+8600,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 23:08:35.997000+00:00
+8601,"Opened tinybee_20141031054905.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 23:09:06.248000+00:00
+8602,          Hourly restart,blank,blank,blank,blank,2014-12-16 23:14:56.306000+00:00
+8603,RUNNING AGAIN: closing IE,blank,blank,blank,blank,2014-12-16 23:32:02.363000+00:00

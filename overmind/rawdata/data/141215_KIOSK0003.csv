@@ -1,0 +1,477 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+5392,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 18:29:43.480000+00:00
+5393,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 18:29:47.068000+00:00
+5394,"Opened m_helton26._20141210172703.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 18:30:12.556000+00:00
+5395,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 18:30:18.778000+00:00
+5396,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 18:30:22.085000+00:00
+5397,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 18:30:28.904000+00:00
+5398,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Merry Christmas!,blank,,2014-12-15 18:30:42.821000+00:00
+5399,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"NEWLINEMerry Christmas!",blank,,2014-12-15 18:30:49.544000+00:00
+5400,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"NEWLINEMerry Christmas!",blank,,2014-12-15 18:30:50.667000+00:00
+5401,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"To: JuliaNEWLINEMerry Christmas!",blank,,2014-12-15 18:31:20.046000+00:00
+5402,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"To: JuliaNEWLINEMerry Christmas!NEWLINE",blank,,2014-12-15 18:31:26.906000+00:00
+5403,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"To: JuliaNEWLINENEWLINEMerry Christmas!NEWLINE",blank,,2014-12-15 18:31:33.088000+00:00
+5404,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,m_helton26._20141210172703.jpg,2014-12-15 18:32:09.874000+00:00
+5405,"credit,,,1418668345----------------------------------------------------------------------------------------",blank,,blank,m_helton26._20141210172703.jpg,2014-12-15 18:32:25.077000+00:00
+5406,"Error file: Exception in thread ""main"" java.lang.Exception: Response returnCode: 8, returnMessage: Payment method not accepted Please try a different card, approvedAmount: 0NEWLINE",blank,blank,blank,blank,2014-12-15 18:32:30.059000+00:00
+5407,"Invalid Card Type.,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,m_helton26._20141210172703.jpg,2014-12-15 18:32:40.090000+00:00
+5408,"credit,JONGWON,LEE,1418668368----------------------------------------------------------------------------------------",blank,,blank,m_helton26._20141210172703.jpg,2014-12-15 18:32:47.810000+00:00
+5409,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,m_helton26._20141210172703.jpg,2014-12-15 18:32:52.787000+00:00
+5410,blank,blank,blank,blank,blank,2014-12-15 18:32:53.016000+00:00
+5411,blank,blank,blank,blank,blank,2014-12-15 18:32:53.155000+00:00
+5412,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:07.971000+00:00
+5413,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:09.947000+00:00
+5414,"Net Promoter value of 4,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 18:33:10.783000+00:00
+5415,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:11.930000+00:00
+5416,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:13.945000+00:00
+5417,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 18:33:15.048000+00:00
+5418,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:15.936000+00:00
+5419,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:17.937000+00:00
+5420,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:19.954000+00:00
+5421,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:21.953000+00:00
+5422,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:23.961000+00:00
+5423,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:25.957000+00:00
+5424,"Email receipt sent: jwlee96@vt.edu,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 18:33:27.787000+00:00
+5425,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:27.976000+00:00
+5426,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:29.958000+00:00
+5427,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:31.955000+00:00
+5428,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:33.953000+00:00
+5429,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:35.950000+00:00
+5430,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:37.949000+00:00
+5431,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:39.946000+00:00
+5432,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:41.958000+00:00
+5433,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:43.969000+00:00
+5434,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:45.953000+00:00
+5435,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:47.961000+00:00
+5436,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:49.990000+00:00
+5437,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:51.967000+00:00
+5438,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:53.964000+00:00
+5439,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:55.954000+00:00
+5440,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 18:33:57.957000+00:00
+5441,No prints in queue,blank,blank,blank,blank,2014-12-15 18:34:02.704000+00:00
+5442,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 18:34:17.730000+00:00
+5443,Swapping default printer from Canon MG7100 series Printer to Canon MG7100 series,blank,blank,blank,blank,2014-12-15 19:32:21.702000+00:00
+5444,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:32:21.864000+00:00
+5445,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:32:26.326000+00:00
+5446,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:32:30.521000+00:00
+5447,"Subcategory Thank_You button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:32:32.022000+00:00
+5448,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-12-15 19:32:49.199000+00:00
+5449,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:32:51.124000+00:00
+5450,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:32:55.781000+00:00
+5451,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 19:32:58.481000+00:00
+5452,"Opened running.river_20140911211437.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 19:33:08.277000+00:00
+5453,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 19:33:12.012000+00:00
+5454,"Opened sandramcfarland_20141103050712.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 19:33:37.695000+00:00
+5455,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,sandramcfarland_20141103050712.jpg,2014-12-15 19:33:41.486000+00:00
+5456,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 19:33:47.514000+00:00
+5457,"Opened katherinedevine_20141203191934.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 19:33:54.867000+00:00
+5458,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and a year of failed resolutions.,blank,,2014-12-15 19:34:02.836000+00:00
+5459,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and a year of failed resolutions.,blank,,2014-12-15 19:34:09.343000+00:00
+5460,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and a year of failed resolutions.,blank,,2014-12-15 19:34:09.836000+00:00
+5461,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and a year of failed resolutions.,blank,,2014-12-15 19:34:10.055000+00:00
+5462,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and a year of failed resolutions.,blank,,2014-12-15 19:34:10.243000+00:00
+5463,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and a year of failed resolutions.,blank,,2014-12-15 19:34:10.451000+00:00
+5464,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and a year of failed resolutions.,blank,,2014-12-15 19:34:10.628000+00:00
+5465,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and a year of failed resolutions.,blank,,2014-12-15 19:34:11.124000+00:00
+5466,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and a year of failed resolutions.,blank,,2014-12-15 19:34:17.574000+00:00
+5467,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience. It is a pleasure working with you!,blank,,2014-12-15 19:36:02.599000+00:00
+5468,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience throughout the year. It is a pleasure working with you!,blank,,2014-12-15 19:36:24.915000+00:00
+5469,"Back of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience throughout the year. It is a pleasure working with you!,blank,,2014-12-15 19:36:29.993000+00:00
+5470,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience throughout the year. It is a pleasure working with you!,blank,,2014-12-15 19:36:35.506000+00:00
+5471,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience throughout the year. It is a pleasure working with you!,blank,,2014-12-15 19:36:36.728000+00:00
+5472,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience throughout the year. It is a pleasure working with you!,blank,,2014-12-15 19:36:39.973000+00:00
+5473,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience throughout the year. It is a pleasure working with you!,blank,,2014-12-15 19:36:40.131000+00:00
+5474,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience throughout the year. It is a pleasure working with you!,blank,,2014-12-15 19:36:42.493000+00:00
+5475,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience throughout the year. It is a pleasure working with you!,blank,,2014-12-15 19:36:43.108000+00:00
+5476,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience throughout the year. It is a pleasure working with you!,blank,katherinedevine_20141203191934.jpg,2014-12-15 19:36:57.578000+00:00
+5477,"credit,MAREN ,ROMAN,1418672234----------------------------------------------------------------------------------------",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience throughout the year. It is a pleasure working with you!,blank,katherinedevine_20141203191934.jpg,2014-12-15 19:37:14.170000+00:00
+5478,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Wishing you a merry Christmas and Happy New Year! Thanks for all your help and patience throughout the year. It is a pleasure working with you!,blank,katherinedevine_20141203191934.jpg,2014-12-15 19:37:19.173000+00:00
+5479,blank,blank,blank,blank,blank,2014-12-15 19:37:19.399000+00:00
+5480,blank,blank,blank,blank,blank,2014-12-15 19:37:19.531000+00:00
+5481,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 19:37:32.228000+00:00
+5482,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:34.343000+00:00
+5483,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:36.312000+00:00
+5484,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:38.313000+00:00
+5485,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:40.313000+00:00
+5486,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 19:37:40.544000+00:00
+5487,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:42.314000+00:00
+5488,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:44.322000+00:00
+5489,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:46.337000+00:00
+5490,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:48.344000+00:00
+5491,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:50.328000+00:00
+5492,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:52.326000+00:00
+5493,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:54.328000+00:00
+5494,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:56.331000+00:00
+5495,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:37:58.339000+00:00
+5496,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:00.343000+00:00
+5497,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:02.345000+00:00
+5498,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:04.339000+00:00
+5499,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:06.338000+00:00
+5500,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:08.344000+00:00
+5501,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:10.334000+00:00
+5502,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:12.333000+00:00
+5503,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:14.336000+00:00
+5504,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:16.333000+00:00
+5505,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:18.336000+00:00
+5506,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:20.333000+00:00
+5507,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:22.336000+00:00
+5508,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:24.335000+00:00
+5509,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:26.343000+00:00
+5510,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:28.351000+00:00
+5511,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:30.357000+00:00
+5512,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:32.337000+00:00
+5513,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:34.352000+00:00
+5514,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:36.346000+00:00
+5515,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 19:38:38.349000+00:00
+5516,No prints in queue,blank,blank,blank,blank,2014-12-15 19:38:43.090000+00:00
+5517,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 19:38:56.786000+00:00
+5518,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 19:38:58.118000+00:00
+5519,Swapping default printer from Canon MG7100 series to Canon MG7100 series Printer,blank,blank,blank,blank,2014-12-15 20:15:18.796000+00:00
+5520,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 20:15:18.951000+00:00
+5521,"Subcategory Thank_You button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 20:15:22.185000+00:00
+5522,"Opened g.jacobsen_20141011034412.jpg,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-12-15 20:15:40.096000+00:00
+5523,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-12-15 20:15:46.744000+00:00
+5524,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-12-15 20:15:49.897000+00:00
+5525,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-12-15 20:15:53.298000+00:00
+5526,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,g.jacobsen_20141011034412.jpg,2014-12-15 20:15:56.021000+00:00
+5527,"credit,MICHAEL ,TODD,1418674585----------------------------------------------------------------------------------------",blank,,blank,g.jacobsen_20141011034412.jpg,2014-12-15 20:16:24.662000+00:00
+5528,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,g.jacobsen_20141011034412.jpg,2014-12-15 20:16:29.671000+00:00
+5529,blank,blank,blank,blank,blank,2014-12-15 20:16:30.094000+00:00
+5530,blank,blank,blank,blank,blank,2014-12-15 20:16:30.169000+00:00
+5531,"Net Promoter value of  9,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 20:16:40.994000+00:00
+5532,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:16:44.955000+00:00
+5533,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:16:46.952000+00:00
+5534,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:16:48.952000+00:00
+5535,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:16:50.951000+00:00
+5536,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:16:52.955000+00:00
+5537,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:16:54.955000+00:00
+5538,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:16:56.969000+00:00
+5539,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:16:58.978000+00:00
+5540,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:00.974000+00:00
+5541,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:02.965000+00:00
+5542,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:04.976000+00:00
+5543,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:06.964000+00:00
+5544,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:08.962000+00:00
+5545,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:10.974000+00:00
+5546,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:12.972000+00:00
+5547,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:14.977000+00:00
+5548,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:16.979000+00:00
+5549,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:18.977000+00:00
+5550,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:20.975000+00:00
+5551,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:22.983000+00:00
+5552,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:24.964000+00:00
+5553,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:26.966000+00:00
+5554,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:28.968000+00:00
+5555,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:30.967000+00:00
+5556,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:32.966000+00:00
+5557,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:34.973000+00:00
+5558,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-15 20:17:36.968000+00:00
+5559,No prints in queue,blank,blank,blank,blank,2014-12-15 20:17:41.722000+00:00
+5560,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 20:17:56.753000+00:00
+5561,Swapping default printer from Canon MG7100 series Printer to Canon MG7100 series,blank,blank,blank,blank,2014-12-15 20:18:02.077000+00:00
+5562,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 20:18:02.244000+00:00
+5563,"Subcategory Thank_You button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 20:18:03.858000+00:00
+5564,"Opened g.jacobsen_20141011034412.jpg,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,,2014-12-15 20:18:06.599000+00:00
+5565,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,g.jacobsen_20141011034412.jpg,2014-12-15 20:18:12.098000+00:00
+5566,"credit,MICHAEL ,TODD,1418674703----------------------------------------------------------------------------------------",blank,,blank,g.jacobsen_20141011034412.jpg,2014-12-15 20:18:22.977000+00:00
+5567,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Thank_You/",blank,,blank,g.jacobsen_20141011034412.jpg,2014-12-15 20:18:27.985000+00:00
+5568,blank,blank,blank,blank,blank,2014-12-15 20:18:28.366000+00:00
+5569,blank,blank,blank,blank,blank,2014-12-15 20:18:28.420000+00:00
+5570,"Net Promoter value of  9,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 20:18:31.548000+00:00
+5571,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:18:43.200000+00:00
+5572,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:18:45.198000+00:00
+5573,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:18:47.198000+00:00
+5574,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:18:49.195000+00:00
+5575,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:18:51.203000+00:00
+5576,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:18:53.211000+00:00
+5577,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:18:55.213000+00:00
+5578,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:18:57.209000+00:00
+5579,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:18:59.209000+00:00
+5580,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:01.207000+00:00
+5581,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:03.211000+00:00
+5582,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:05.207000+00:00
+5583,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:07.209000+00:00
+5584,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:09.217000+00:00
+5585,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:11.215000+00:00
+5586,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:13.222000+00:00
+5587,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:15.219000+00:00
+5588,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:17.212000+00:00
+5589,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:19.206000+00:00
+5590,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:21.209000+00:00
+5591,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:23.212000+00:00
+5592,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:25.233000+00:00
+5593,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:27.210000+00:00
+5594,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:29.213000+00:00
+5595,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:31.211000+00:00
+5596,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:33.223000+00:00
+5597,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-15 20:19:35.226000+00:00
+5598,No prints in queue,blank,blank,blank,blank,2014-12-15 20:19:39.968000+00:00
+5599,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-15 20:19:55.003000+00:00
+5600,Swapping default printer from Canon MG7100 series to Canon MG7100 series Printer,blank,blank,blank,blank,2014-12-15 21:15:19.426000+00:00
+5601,"Preview for Your Town ad,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 21:15:19.593000+00:00
+5602,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 21:15:21.933000+00:00
+5603,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 23:54:35.179000+00:00
+5604,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 23:54:37.954000+00:00
+5605,"Opened ladylucas_20141013211343.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 23:55:00.664000+00:00
+5606,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 23:55:02.938000+00:00
+5607,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-15 23:55:17.684000+00:00
+5608,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 23:55:20.912000+00:00
+5609,"Subcategory ISINGLEm_Sorry button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 23:55:25.250000+00:00
+5610,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/ISINGLEm_Sorry/",blank,,blank,,2014-12-15 23:55:32.184000+00:00
+5611,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 23:55:34.192000+00:00
+5612,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-15 23:55:35.236000+00:00
+5613,"Opened squirrel.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-15 23:55:48.381000+00:00
+5614,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-15 23:55:51.681000+00:00
+5615,"Opened kittens.jpg,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-15 23:56:09.380000+00:00
+5616,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-15 23:56:15.853000+00:00
+5617,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-15 23:56:17.704000+00:00
+5618,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-15 23:56:19.673000+00:00
+5619,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-15 23:56:26.563000+00:00
+5620,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 00:09:39.933000+00:00
+5621,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 00:09:40.354000+00:00
+5622,"Subcategory Hanukkah button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 00:09:42.348000+00:00
+5623,"Opened tinybee_20141103014103.jpg,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-16 00:09:45.045000+00:00
+5624,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-16 00:09:51.982000+00:00
+5625,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,Test,blank,,2014-12-16 00:09:56.868000+00:00
+5626,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,Test,blank,,2014-12-16 00:10:03.693000+00:00
+5627,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-16 00:10:06.852000+00:00
+5628,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-16 00:10:13.917000+00:00
+5629,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-16 00:10:17.821000+00:00
+5630,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-16 00:10:20.095000+00:00
+5631,"Go home button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 00:11:42.866000+00:00
+5632,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 00:11:45.375000+00:00
+5633,"Subcategory Hanukkah button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 00:11:47.596000+00:00
+5634,"Opened tinybee_20141103014103.jpg,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,,blank,,2014-12-16 00:11:49.497000+00:00
+5635,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,Test,blank,,2014-12-16 00:11:50.354000+00:00
+5636,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,Test,blank,,2014-12-16 00:11:52.404000+00:00
+5637,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,"Hey Lauren!NEWLINEI just wanted to wish you a happy Hanukkah!  I'm so glad you are my roommate!  Enjoy your trip to Israel, amd good luck ",blank,,2014-12-16 00:14:05.781000+00:00
+5638,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,"Hey Lauren!NEWLINEI just wanted to wish you a happy Hanukkah!  I'm so glad you are my roommate!  Enjoy your trip to Israel, and good luck ",blank,,2014-12-16 00:14:07.714000+00:00
+5639,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,"Hey Lauren!NEWLINEI just wanted to wish you a happy Hanukkah!  I'm so glad you are my roommate!  Enjoy your trip to Israel, and good luck on your math final today!! ",blank,,2014-12-16 00:14:52.407000+00:00
+5640,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,"Hey Lauren!NEWLINEI just wanted to wish you a happy Hanukkah!  I'm so glad you are my roommate!  Enjoy your trip to Israel, and good luck on your math final today!! ",blank,,2014-12-16 00:14:55.939000+00:00
+5641,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,"Hey Lauren!NEWLINEI just wanted to wish you a happy Hanukkah!  I'm so glad you are my roommate!  Enjoy your trip to Israel, and good luck on your math final today!! ",blank,tinybee_20141103014103.jpg,2014-12-16 00:15:13.562000+00:00
+5642,"credit,KELSEY,COLVARD            ,1418688928----------------------------------------------------------------------------------------",blank,"Hey Lauren!NEWLINEI just wanted to wish you a happy Hanukkah!  I'm so glad you are my roommate!  Enjoy your trip to Israel, and good luck on your math final today!! ",blank,tinybee_20141103014103.jpg,2014-12-16 00:15:28.060000+00:00
+5643,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Hanukkah/",blank,"Hey Lauren!NEWLINEI just wanted to wish you a happy Hanukkah!  I'm so glad you are my roommate!  Enjoy your trip to Israel, and good luck on your math final today!! ",blank,tinybee_20141103014103.jpg,2014-12-16 00:15:33.054000+00:00
+5644,blank,blank,blank,blank,blank,2014-12-16 00:15:34.120000+00:00
+5645,blank,blank,blank,blank,blank,2014-12-16 00:15:34.371000+00:00
+5646,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 00:15:46.232000+00:00
+5647,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:15:49.164000+00:00
+5648,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:15:51.157000+00:00
+5649,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:15:53.149000+00:00
+5650,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:15:55.163000+00:00
+5651,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:15:57.159000+00:00
+5652,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:15:59.152000+00:00
+5653,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 00:15:59.983000+00:00
+5654,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:01.156000+00:00
+5655,"Email receipt sent: kelseycolvard@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 00:16:01.267000+00:00
+5656,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:03.157000+00:00
+5657,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:05.157000+00:00
+5658,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:07.171000+00:00
+5659,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:09.160000+00:00
+5660,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:11.160000+00:00
+5661,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:13.165000+00:00
+5662,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:15.169000+00:00
+5663,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 00:16:15.600000+00:00
+5664,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:17.172000+00:00
+5665,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:19.174000+00:00
+5666,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:21.191000+00:00
+5667,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:23.168000+00:00
+5668,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:25.162000+00:00
+5669,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:27.163000+00:00
+5670,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:29.166000+00:00
+5671,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:31.164000+00:00
+5672,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:33.164000+00:00
+5673,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:35.172000+00:00
+5674,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:37.175000+00:00
+5675,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:39.176000+00:00
+5676,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:41.166000+00:00
+5677,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:43.171000+00:00
+5678,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:45.174000+00:00
+5679,---Printer Canon MG7100 series Printer has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:47.172000+00:00
+5680,---Default printer Canon MG7100 series Printer has issue that requires intervention.---,blank,blank,blank,blank,2014-12-16 00:16:49.180000+00:00
+5681,Swapping default printer from Canon MG7100 series Printer to Canon MG7100 series,blank,blank,blank,blank,2014-12-16 00:16:49.271000+00:00
+5682,Print command has been sent for printer Canon MG7100 series,blank,blank,blank,blank,2014-12-16 00:16:49.422000+00:00
+5683,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:54.225000+00:00
+5684,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:55.188000+00:00
+5685,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:57.187000+00:00
+5686,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:16:59.180000+00:00
+5687,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:01.169000+00:00
+5688,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:03.166000+00:00
+5689,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:05.172000+00:00
+5690,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:07.174000+00:00
+5691,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:09.176000+00:00
+5692,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:11.175000+00:00
+5693,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:13.173000+00:00
+5694,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:15.181000+00:00
+5695,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:17.193000+00:00
+5696,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:19.195000+00:00
+5697,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:21.209000+00:00
+5698,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 00:17:22.507000+00:00
+5699,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:23.015000+00:00
+5700,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:24.924000+00:00
+5701,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:26.922000+00:00
+5702,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:28.925000+00:00
+5703,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:31.149000+00:00
+5704,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:32.933000+00:00
+5705,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:34.936000+00:00
+5706,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:36.925000+00:00
+5707,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:39.073000+00:00
+5708,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:40.926000+00:00
+5709,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:42.924000+00:00
+5710,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:44.926000+00:00
+5711,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:47.079000+00:00
+5712,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:48.928000+00:00
+5713,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:50.935000+00:00
+5714,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:52.938000+00:00
+5715,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:55.133000+00:00
+5716,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:56.941000+00:00
+5717,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:17:58.947000+00:00
+5718,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:18:00.947000+00:00
+5719,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:18:03.123000+00:00
+5720,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:18:04.940000+00:00
+5721,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 00:18:06.940000+00:00
+5722,Swapping default printer from Canon MG7100 series to Canon MG7100 series Printer,blank,blank,blank,blank,2014-12-16 01:36:17.736000+00:00
+5723,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 01:36:17.842000+00:00
+5724,"Opened squirrel.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:24.075000+00:00
+5725,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:27.135000+00:00
+5726,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:29.800000+00:00
+5727,"Opened jerrylofaro_20140429153027.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:36.243000+00:00
+5728,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:38.522000+00:00
+5729,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:40.318000+00:00
+5730,"Opened tinybee_20141031053842.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:46.878000+00:00
+5731,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:47.609000+00:00
+5732,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:49.311000+00:00
+5733,"Opened tinybee_20141031052042.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:51.391000+00:00
+5734,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:52.672000+00:00
+5735,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:53.693000+00:00
+5736,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:55.421000+00:00
+5737,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:36:58.585000+00:00
+5738,"Opened tinybee_20141029030515.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:00.483000+00:00
+5739,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:03.949000+00:00
+5740,"Opened tinybee_20141029035402.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:07.141000+00:00
+5741,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:10.560000+00:00
+5742,"Opened tinybee_20141029025132.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:13.772000+00:00
+5743,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:15.094000+00:00
+5744,"Opened tinybee_20141031052813.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:18.356000+00:00
+5745,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:20.279000+00:00
+5746,"Opened tinybee_20141031054943.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:22.646000+00:00
+5747,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:25.883000+00:00
+5748,"Opened tinybee_20141031052618.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:28.726000+00:00
+5749,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:37:31.689000+00:00
+5750,"Opened KearahDonatoNoPeeing.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:01.582000+00:00
+5751,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:04.731000+00:00
+5752,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:11.072000+00:00
+5753,"Opened KearahDonatoNoPeeing.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:14.503000+00:00
+5754,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:16.211000+00:00
+5755,"Opened eagle.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:19.784000+00:00
+5756,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:22.818000+00:00
+5757,"Opened debturcio_20141202171119.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:25.188000+00:00
+5758,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:31.772000+00:00
+5759,"Opened jerryrendich_20141031204927.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:33.938000+00:00
+5760,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:39.052000+00:00
+5761,"Opened WeBeer.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:44.151000+00:00
+5762,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:50.070000+00:00
+5763,"Opened tinybee_20141031052042.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:55.477000+00:00
+5764,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:38:58.546000+00:00
+5765,"Opened tinybee_20141103014103.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:39:00.023000+00:00
+5766,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:39:01.925000+00:00
+5767,"Opened eli_christopher_20140913051913.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:39:06.654000+00:00
+5768,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:39:10.847000+00:00
+5769,"Opened running.river_20141109034007.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:39:14.466000+00:00
+5770,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:39:19.696000+00:00
+5771,"Opened brocards_20141206215649.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:39:22.494000+00:00
+5772,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:39:28.947000+00:00
+5773,"Opened tinybee_20141121031210.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:39:35.098000+00:00
+5774,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:39:38.019000+00:00
+5775,"Opened brocards_20141206215355.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:39:41.769000+00:00
+5776,"Opened brocards_20141206215355.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:40:01.172000+00:00
+5777,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:40:12.616000+00:00
+5778,"Opened MarielleStoeltzingBirthdays.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:40:14.489000+00:00
+5779,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 01:40:18.909000+00:00
+5780,          Hourly restart,blank,blank,blank,blank,2014-12-16 01:46:09.894000+00:00
+5781,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 02:13:21.327000+00:00
+5782,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 02:13:33.916000+00:00
+5783,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 02:13:39.929000+00:00
+5784,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 02:13:42.251000+00:00
+5785,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 02:13:53.569000+00:00
+5786,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 02:13:56.093000+00:00
+5787,"Opened tinybee_20141031052126.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 02:14:32.415000+00:00
+5788,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 02:14:35.574000+00:00
+5789,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 02:14:37.694000+00:00
+5790,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,ha,blank,,2014-12-16 02:14:42.197000+00:00
+5791,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"NEWLINENEWLINENEWLINEha",blank,,2014-12-16 02:14:47.964000+00:00
+5792,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"NEWLINENEWLINENEWLINEha",blank,,2014-12-16 02:14:54.487000+00:00
+5793,          Hourly restart,blank,blank,blank,blank,2014-12-16 02:20:45.533000+00:00
+5794,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 03:01:34.394000+00:00
+5795,"Opened AllieKelley3.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:39.223000+00:00
+5796,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:40.949000+00:00
+5797,"Opened Torg.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:42.449000+00:00
+5798,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:43.313000+00:00
+5799,"Opened StevenBakerTorg.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:44.143000+00:00
+5800,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:46.567000+00:00
+5801,"Opened Torg.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:47.184000+00:00
+5802,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,Torg.jpg,2014-12-16 03:01:47.375000+00:00
+5803,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:49.072000+00:00
+5804,"Opened AllieKelley3.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:50.170000+00:00
+5805,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:53.120000+00:00
+5806,"Opened KearahDonatoHeritagePark.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:54.239000+00:00
+5807,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:57.226000+00:00
+5808,"Opened harveycreasey_20141029193943.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 03:01:59.747000+00:00
+5809,          Hourly restart,blank,blank,blank,blank,2014-12-16 03:07:50.146000+00:00
+5810,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 03:14:35.428000+00:00
+5811,"Opened tinybee_20141031052726.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 03:14:44.665000+00:00
+5812,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 03:14:52.052000+00:00
+5813,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 03:14:53.480000+00:00
+5814,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Hey, Ro!NEWLINEMerry Christmas! This card reminded me of you and is my way of telling you I love you more than anything!NEWLINELove always,NEWLINEAvu",blank,,2014-12-16 03:18:20.689000+00:00
+5815,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Hey, Ro!NEWLINEMerry Christmas! This card reminded me of you and is my way of telling you I love you more than anything! Also, INEWLINELove always,",blank,,2014-12-16 03:18:38.837000+00:00
+5816,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Hey, Ro!NEWLINEMerry Christmas! This card reminded me of you and is my way of telling you I love you more than anything! Also, INEWLINELove always,",blank,,2014-12-16 03:18:39.921000+00:00
+5817,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Hey, Ro!NEWLINEMerry Christmas! This card reminded me of you and is my way of telling you I love you more than anything!NEWLINELove always,",blank,,2014-12-16 03:18:43.111000+00:00
+5818,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Hey, Ro!NEWLINEMerry Christmas! This card reminded me of you and is my way of telling you I love you more than anything!NEWLINELove always,NEWLINEAvu",blank,tinybee_20141031052726.jpg,2014-12-16 03:18:55.269000+00:00
+5819,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Hey, Ro!NEWLINEMerry Christmas! This card reminded me of you and is my way of telling you I love you more than anything!NEWLINELove always,NEWLINEAvu",blank,,2014-12-16 03:18:57.198000+00:00
+5820,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Hey, Ro!NEWLINEMerry Christmas! This card reminded me of you and is my way of telling you I love you more than anything!NEWLINELove always,NEWLINEAvu",blank,,2014-12-16 03:19:00.562000+00:00
+5821,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Hey, Ro!NEWLINEMerry Christmas! This card reminded me of you and is my way of telling you I love you more than anything!NEWLINELove always,NEWLINEAvu",blank,tinybee_20141031052726.jpg,2014-12-16 03:19:04.672000+00:00
+5822,"credit, AVNI           ,BHATIA,1418699965----------------------------------------------------------------------------------------",blank,"Hey, Ro!NEWLINEMerry Christmas! This card reminded me of you and is my way of telling you I love you more than anything!NEWLINELove always,NEWLINEAvu",blank,tinybee_20141031052726.jpg,2014-12-16 03:19:25.435000+00:00
+5823,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"Hey, Ro!NEWLINEMerry Christmas! This card reminded me of you and is my way of telling you I love you more than anything!NEWLINELove always,NEWLINEAvu",blank,tinybee_20141031052726.jpg,2014-12-16 03:19:30.447000+00:00
+5824,blank,blank,blank,blank,blank,2014-12-16 03:19:31.443000+00:00
+5825,blank,blank,blank,blank,blank,2014-12-16 03:19:31.802000+00:00
+5826,---Default printer Canon MG7100 series Printer has issue that requires intervention.---,blank,blank,blank,blank,2014-12-16 03:19:46.591000+00:00
+5827,Swapping default printer from Canon MG7100 series Printer to Canon MG7100 series,blank,blank,blank,blank,2014-12-16 03:19:46.673000+00:00
+5828,Print command has been sent for printer Canon MG7100 series,blank,blank,blank,blank,2014-12-16 03:19:46.827000+00:00
+5829,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:19:51.613000+00:00
+5830,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:19:52.585000+00:00
+5831,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:19:54.593000+00:00
+5832,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:19:56.587000+00:00
+5833,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:19:58.591000+00:00
+5834,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:00.590000+00:00
+5835,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:02.594000+00:00
+5836,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:04.594000+00:00
+5837,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:06.595000+00:00
+5838,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:08.596000+00:00
+5839,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:10.590000+00:00
+5840,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:12.596000+00:00
+5841,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:14.609000+00:00
+5842,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:16.623000+00:00
+5843,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:18.617000+00:00
+5844,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:20.592000+00:00
+5845,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:22.597000+00:00
+5846,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:24.599000+00:00
+5847,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:26.596000+00:00
+5848,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:28.596000+00:00
+5849,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:30.598000+00:00
+5850,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:32.599000+00:00
+5851,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:34.606000+00:00
+5852,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:36.614000+00:00
+5853,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:38.608000+00:00
+5854,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:40.604000+00:00
+5855,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:42.603000+00:00
+5856,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:44.602000+00:00
+5857,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:46.605000+00:00
+5858,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:48.603000+00:00
+5859,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:50.613000+00:00
+5860,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:52.612000+00:00
+5861,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:54.618000+00:00
+5862,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:56.613000+00:00
+5863,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:20:58.625000+00:00
+5864,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:21:00.616000+00:00
+5865,---Printer Canon MG7100 series has low toner.---,blank,blank,blank,blank,2014-12-16 03:21:02.609000+00:00
+5866,No prints in queue,blank,blank,blank,blank,2014-12-16 03:21:07.360000+00:00
+5867,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 03:21:22.402000+00:00

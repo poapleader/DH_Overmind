@@ -1,0 +1,36 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+1172,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-04 22:04:35.689000+00:00
+1173,"Allie Kelley preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 22:04:39.916000+00:00
+1174,"Allie Kelley preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=AllieSPACEKelley",blank,,blank,,2014-12-04 22:04:42.486000+00:00
+1175,"Opened StevenBakerTorg.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 22:04:46.265000+00:00
+1176,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 22:04:48.884000+00:00
+1177,"Opened KearahDonatoHeritagePark.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 22:04:50.066000+00:00
+1178,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 22:04:51.012000+00:00
+1179,"Opened Torg.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 22:04:52.733000+00:00
+1180,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 22:04:54.739000+00:00
+1181,"Opened KearahDonatoJump.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 22:04:56.456000+00:00
+1182,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 22:04:57.573000+00:00
+1183,"Opened KearahDonatoMcAffeeSunset.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 22:04:58.943000+00:00
+1184,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-04 22:04:59.559000+00:00
+1185,          Hourly restart,blank,blank,blank,blank,2014-12-04 22:10:50.591000+00:00
+1186,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-04 22:49:54.486000+00:00
+1187,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-04 22:50:01.537000+00:00
+1188,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-04 22:51:38.430000+00:00
+1189,          Hourly restart,blank,blank,blank,blank,2014-12-04 22:57:30.323000+00:00
+1190,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-05 00:45:13.392000+00:00
+1191,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-05 00:45:15.840000+00:00
+1192,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-05 00:45:47.964000+00:00
+1193,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-05 00:45:50.766000+00:00
+1194,"Subcategory Just_Because button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-05 00:45:54.655000+00:00
+1195,"Artists preference name button,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-05 00:45:55.525000+00:00
+1196,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-05 00:45:58.095000+00:00
+1197,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-05 00:45:58.136000+00:00
+1198,"Multiple touches registered: 2 touches,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-05 00:45:58.167000+00:00
+1199,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Just_Because/",blank,,blank,,2014-12-05 00:45:58.210000+00:00
+1200,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-05 00:46:02.203000+00:00
+1201,"Subcategory Birthday button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-05 00:46:03.101000+00:00
+1202,"Adam Donato preference value button,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-05 00:46:08.249000+00:00
+1203,"Kearah Donato preference value button,URL=http://127.0.0.1:8000/kiosk/Birthday/?prefN0=Artists&prefV0=AdamSPACEDonato",blank,,blank,,2014-12-05 00:46:21.763000+00:00
+1204,"Kearah Donato preference value button,URL=http://127.0.0.1:8000/kiosk/Birthday/?prefN0=Artists&prefV0=KearahSPACEDonatoANDANDAdamSPACEDonato",blank,,blank,,2014-12-05 00:46:37.452000+00:00
+1205,"Adam Donato preference value button,URL=http://127.0.0.1:8000/kiosk/Birthday/?prefN0=Artists&prefV0=AdamSPACEDonato",blank,,blank,,2014-12-05 00:46:40.435000+00:00
+1206,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Birthday/",blank,,blank,,2014-12-05 00:47:06.931000+00:00

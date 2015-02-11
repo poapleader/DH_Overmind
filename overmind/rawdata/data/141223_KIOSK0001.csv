@@ -1,0 +1,33 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+2006,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 08:18:56.493000+00:00
+2007,"Opened AllieKelley3.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-24 08:19:02.927000+00:00
+2008,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,AllieKelley3.jpg,2014-12-24 08:19:03.913000+00:00
+2009,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-24 08:19:11.861000+00:00
+2010,"Opened KearahDonatoJump.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-24 08:19:17.920000+00:00
+2011,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,KearahDonatoJump.jpg,2014-12-24 08:19:19.301000+00:00
+2012,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-24 08:19:24.630000+00:00
+2013,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-24 08:19:25.206000+00:00
+2014,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-24 08:19:31.535000+00:00
+2015,"Kearah Donato preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-24 08:19:34.969000+00:00
+2016,"Bijan Peters preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=KearahSPACEDonato",blank,,blank,,2014-12-24 08:19:37.406000+00:00
+2017,"Harvey Creasey preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=BijanSPACEPetersANDANDKearahSPACEDonato",blank,,blank,,2014-12-24 08:19:39.366000+00:00
+2018,"Harvey Creasey preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=HarveySPACECreaseyANDANDBijanSPACEPetersANDANDKearahSPACEDonato",blank,,blank,,2014-12-24 08:19:41.272000+00:00
+2019,"Steven Baker preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=BijanSPACEPetersANDANDKearahSPACEDonato",blank,,blank,,2014-12-24 08:19:43.331000+00:00
+2020,"Steven Baker preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=StevenSPACEBakerANDANDBijanSPACEPetersANDANDKearahSPACEDonato",blank,,blank,,2014-12-24 08:19:45.172000+00:00
+2021,"Kearah Donato preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=BijanSPACEPetersANDANDKearahSPACEDonato",blank,,blank,,2014-12-24 08:19:46.739000+00:00
+2022,"Adam Donato preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=BijanSPACEPeters",blank,,blank,,2014-12-24 08:19:50.349000+00:00
+2023,"Bijan Peters preference value TOP button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=AdamSPACEDonatoANDANDBijanSPACEPeters",blank,,blank,,2014-12-24 08:19:53.891000+00:00
+2024,"Opened Torg.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=AdamSPACEDonato",blank,,blank,,2014-12-24 08:19:56.371000+00:00
+2025,"Checkout button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Artists&prefV0=AdamSPACEDonato",blank,,blank,Torg.jpg,2014-12-24 08:19:58.703000+00:00
+2026,          Page timeout,blank,blank,blank,blank,2014-12-24 08:25:57.581000+00:00
+2027,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 08:34:04.707000+00:00
+2028,"Opened ladylucas_20141028174109.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-24 08:34:13.356000+00:00
+2029,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-24 08:34:15.176000+00:00
+2030,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,Happy Holidays ;),blank,,2014-12-24 08:34:16.638000+00:00
+2031,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,ccvfsdfhddHappy Holidays ;),blank,,2014-12-24 08:39:57.005000+00:00
+2032,"Go home button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-24 08:39:57.362000+00:00
+2033,"Custom Cards $2.95 label,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 08:39:58.227000+00:00
+2034,"Custom Cards $2.95 label,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 08:40:02.810000+00:00
+2035,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 08:53:22.206000+00:00
+2036,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-24 10:07:08.675000+00:00
+2037,          Page timeout,blank,blank,blank,blank,2014-12-24 10:13:00.613000+00:00

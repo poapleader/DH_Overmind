@@ -1,0 +1,76 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+9571,"Preview for Your Town ad,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 14:37:13.611000+00:00
+9572,"Preview for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 14:37:14.169000+00:00
+9573,"Preview for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 14:37:23.364000+00:00
+9574,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 14:37:29.961000+00:00
+9575,"Opened ladylucas_20141013154152.jpg,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-23 14:37:42.257000+00:00
+9576,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-23 14:37:43.898000+00:00
+9577,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-23 14:37:53.643000+00:00
+9578,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-23 14:37:57.534000+00:00
+9579,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060&prefN1=Artists&prefV1=JerrySPACERendich",blank,,blank,,2014-12-23 14:38:01.365000+00:00
+9580,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 14:38:04.155000+00:00
+9581,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 14:38:08.121000+00:00
+9582,"Opened tinybee_20141114044421.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 14:39:13.260000+00:00
+9583,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 14:39:16.825000+00:00
+9584,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 14:39:22.879000+00:00
+9585,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 14:39:28.344000+00:00
+9586,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 14:39:34.159000+00:00
+9587,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 14:39:35.586000+00:00
+9588,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Just want you to know how much I am so grateful to be married too the most amazing person in the world.. I know it's not much of a Yule tide season.. But through our ups and downs everyday is a Joy.,blank,,2014-12-23 14:42:29.618000+00:00
+9589,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Merry Christmas!,blank,,2014-12-23 14:42:41.709000+00:00
+9590,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Merry Christmas!,blank,,2014-12-23 14:42:45.395000+00:00
+9591,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,I just wanted to let you know how grateful I am to be able to be married too the most amazing person in the world.. And even though the season doesn't seem festie.. Everyday with you Joyful. 14,blank,,2014-12-23 14:45:12.067000+00:00
+9592,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,I just wanted to let you know how grateful I am to be able to be married too the most amazing person in the world.. And even though the season doesn't seem festie.. Everyday with you Joyful. 14,blank,,2014-12-23 14:45:14.968000+00:00
+9593,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,I just wanted to let you know how grateful I am to be able to be married too the most amazing person in the world.. And even though the season doesn't seem festie. Everyday with you Joyful. 14,blank,,2014-12-23 14:45:20.770000+00:00
+9594,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,I just wanted to let you know how grateful I am to be able to be married too the most amazing person in the world.. And even though the season doesn't seem festie. Everyday with you Joyful. 143,blank,tinybee_20141114044421.jpg,2014-12-23 14:45:24.569000+00:00
+9595,"credit,TALIB A,MAYES,1419345934----------------------------------------------------------------------------------------",blank,I just wanted to let you know how grateful I am to be able to be married too the most amazing person in the world.. And even though the season doesn't seem festie. Everyday with you Joyful. 143,blank,tinybee_20141114044421.jpg,2014-12-23 14:45:33.813000+00:00
+9596,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,I just wanted to let you know how grateful I am to be able to be married too the most amazing person in the world.. And even though the season doesn't seem festie. Everyday with you Joyful. 143,blank,tinybee_20141114044421.jpg,2014-12-23 14:45:38.822000+00:00
+9597,blank,blank,blank,blank,blank,2014-12-23 14:45:40.490000+00:00
+9598,blank,blank,blank,blank,blank,2014-12-23 14:45:40.809000+00:00
+9599,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-23 14:45:47.827000+00:00
+9600,"Email receipt sent: abstrukt808@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-23 14:46:15.383000+00:00
+9601,"Design another card clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-23 14:46:53.392000+00:00
+9602,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 14:46:58.176000+00:00
+9603,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 14:47:00.465000+00:00
+9604,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 14:48:03.266000+00:00
+9605,"Shop Occasions button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 17:38:39.218000+00:00
+9606,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 17:51:53.320000+00:00
+9607,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 17:51:56.705000+00:00
+9608,"Opened ladylucas_20141028174109.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 17:52:31.955000+00:00
+9609,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 17:52:41.135000+00:00
+9610,          Page timeout,blank,blank,blank,blank,2014-12-23 17:58:32.040000+00:00
+9611,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 18:24:25.421000+00:00
+9612,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-23 18:24:31.340000+00:00
+9613,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 18:24:33.873000+00:00
+9614,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 18:24:39.271000+00:00
+9615,          Page timeout,blank,blank,blank,blank,2014-12-23 18:30:31.694000+00:00
+9616,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 19:04:36.972000+00:00
+9617,          Page timeout,blank,blank,blank,blank,2014-12-23 19:10:34.338000+00:00
+9618,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 19:24:59.403000+00:00
+9619,"Artist search for Jeannette Goff,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 19:25:13.459000+00:00
+9620,"Go home button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Jeannette%20Goff",blank,,blank,,2014-12-23 19:25:22.742000+00:00
+9621,"Ad for Christmas,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 20:24:54.239000+00:00
+9622,"Opened sol4art_20141105184959.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 20:26:04.150000+00:00
+9623,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 20:26:06.111000+00:00
+9624,"Opened eli_christopher_20140915231411.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 20:26:10.770000+00:00
+9625,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Merry Christmas,blank,,2014-12-23 20:26:15.245000+00:00
+9626,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Happy Holidays,blank,,2014-12-23 20:26:16.749000+00:00
+9627,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,Happy Holidays,blank,,2014-12-23 20:26:18.058000+00:00
+9628,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-23 20:26:27.092000+00:00
+9629,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 21:16:29.533000+00:00
+9630,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 21:16:35.133000+00:00
+9631,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 21:16:41.323000+00:00
+9632,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-23 21:17:14.948000+00:00
+9633,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-23 21:17:20.815000+00:00
+9634,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 21:17:28.976000+00:00
+9635,"Alexis Rawlins preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-23 21:17:34.541000+00:00
+9636,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AlexisSPACERawlins",blank,,blank,,2014-12-23 21:17:40.588000+00:00
+9637,"Alexis Rawlins preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucasANDANDAlexisSPACERawlins",blank,,blank,,2014-12-23 21:17:44.330000+00:00
+9638,"Ashley Lucas preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=AshleySPACELucas",blank,,blank,,2014-12-23 21:17:54.853000+00:00
+9639,"Jerry Rendich preference value button,URL=http://127.0.0.1:8000/kiosk/New_Additions/",blank,,blank,,2014-12-23 21:17:59.582000+00:00
+9640,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_Additions/?prefN0=Artists&prefV0=JerrySPACERendich",blank,,blank,,2014-12-23 21:18:01.923000+00:00
+9641,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 21:18:05.822000+00:00
+9642,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-23 21:18:13.974000+00:00
+9643,"Opened KearahDonatoJump.jpg,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-23 21:18:19.726000+00:00
+9644,"X button used to close,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-23 21:18:21.742000+00:00
+9645,          Page timeout,blank,blank,blank,blank,2014-12-23 21:24:12.767000+00:00

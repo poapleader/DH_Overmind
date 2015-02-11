@@ -1,0 +1,26 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+47,"Ad for New Additions,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 11:32:01.213000+00:00
+48,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 13:54:49.700000+00:00
+49,"Subcategory Thanksgiving button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 13:54:53.866000+00:00
+50,"Opened sandramcfarland_20141103044125.jpg,URL=http://127.0.0.1:8000/kiosk/Thanksgiving/",blank,,blank,,2014-11-24 13:55:08.750000+00:00
+51,"Gray area used to close,URL=http://127.0.0.1:8000/kiosk/Thanksgiving/",blank,,blank,,2014-11-24 13:55:16.073000+00:00
+52,"Go home button,URL=http://127.0.0.1:8000/kiosk/Thanksgiving/",blank,,blank,,2014-11-24 13:55:16.632000+00:00
+53,"Shop Artist button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 13:55:18.737000+00:00
+54,"Artist search for Adam Donato,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-24 13:55:21.083000+00:00
+55,"Opened txtMsg.jpg,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Adam%20Donato",blank,,blank,,2014-11-24 13:55:23.118000+00:00
+56,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Adam%20Donato",blank,,blank,txtMsg.jpg,2014-11-24 13:55:24.281000+00:00
+57,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Adam%20Donato",blank,,blank,,2014-11-24 13:55:25.633000+00:00
+58,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Adam%20Donato",blank,,blank,,2014-11-24 13:55:26.276000+00:00
+59,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Adam%20Donato",blank,Thanks for Being on,blank,,2014-11-24 13:55:40.738000+00:00
+60,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Adam%20Donato",blank,Thanks for being on,blank,,2014-11-24 13:55:44.042000+00:00
+61,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Adam%20Donato",blank,Thanks for being one of our first Roanoke locations!,blank,txtMsg.jpg,2014-11-24 13:56:01.295000+00:00
+62,"Successful coupon: pennytest,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Adam%20Donato",blank,Thanks for being one of our first Roanoke locations!,blank,txtMsg.jpg,2014-11-24 13:56:06.935000+00:00
+63,"credit,STEPHAN J,SABO,1416837387----------------------------------------------------------------------------------------",blank,Thanks for being one of our first Roanoke locations!,blank,txtMsg.jpg,2014-11-24 13:56:27.388000+00:00
+64,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Artists/?artistSearch=Adam%20Donato",blank,Thanks for being one of our first Roanoke locations!,blank,txtMsg.jpg,2014-11-24 13:56:32.400000+00:00
+65,blank,blank,blank,blank,blank,2014-11-24 13:56:33.171000+00:00
+66,blank,blank,blank,blank,blank,2014-11-24 13:56:33.380000+00:00
+67,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-11-24 13:56:36.019000+00:00
+68,"Email receipt sent: david@cardisle.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-11-24 13:56:45.882000+00:00
+69,No prints in queue,blank,blank,blank,blank,2014-11-24 13:58:04.928000+00:00
+70,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-11-24 13:58:19.948000+00:00
+71,"Shop Collections button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-11-25 02:24:11.019000+00:00

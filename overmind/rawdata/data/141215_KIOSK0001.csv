@@ -1,0 +1,110 @@
+id,last_click,last_url,input_text,cover_text,selected_image,time_stamp
+1112,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 08:19:10.116000+00:00
+1113,"Local artists preference value button,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/",blank,,blank,,2014-12-16 08:19:16.263000+00:00
+1114,"Back button to start screen,URL=http://127.0.0.1:8000/kiosk/New_River_Valley/?prefN0=Local&prefV0=24060",blank,,blank,,2014-12-16 08:19:19.927000+00:00
+1115,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 08:19:25.630000+00:00
+1116,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 08:19:27.395000+00:00
+1117,"Opened katealbee_20141107210323.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 08:19:41.294000+00:00
+1118,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 08:19:43.030000+00:00
+1119,"Opened eli_christopher_20140915232844.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 08:19:46.570000+00:00
+1120,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 08:19:49.679000+00:00
+1121,          Hourly restart,blank,blank,blank,blank,2014-12-16 08:25:40.686000+00:00
+1122,"Ad for Your Town,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 11:43:22.969000+00:00
+1123,          Hourly restart,blank,blank,blank,blank,2014-12-16 11:49:14.539000+00:00
+1124,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 12:15:51.893000+00:00
+1125,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 12:15:53.347000+00:00
+1126,"Opened ladylucas_20141028173800.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:16:27.091000+00:00
+1127,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:16:35.854000+00:00
+1128,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,May there be nothing but visions of candy and sugarplums this holiday season! ,blank,,2014-12-16 12:16:41.168000+00:00
+1129,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,May there be nothing but visions of candy and sugarplums this holiday season! ,blank,,2014-12-16 12:16:52.647000+00:00
+1130,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEmerry christmas ",blank,,2014-12-16 12:17:04.417000+00:00
+1131,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEmerry christmas ",blank,,2014-12-16 12:17:05.514000+00:00
+1132,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEmerry christmas Collette ",blank,,2014-12-16 12:17:15.104000+00:00
+1133,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEMerry Christmas Collette ",blank,,2014-12-16 12:17:28.239000+00:00
+1134,"Front button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEMerry Christmas Collette ",blank,,2014-12-16 12:17:34.290000+00:00
+1135,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEMerry Christmas Collette ",blank,,2014-12-16 12:17:37.371000+00:00
+1136,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEMerry Christmas Collette ",blank,,2014-12-16 12:17:39.695000+00:00
+1137,"Back of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEMerry Christmas Collette! ",blank,,2014-12-16 12:17:44.621000+00:00
+1138,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEMerry Christmas Collette! ",blank,,2014-12-16 12:17:49.248000+00:00
+1139,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEMerry Christmas Collette! ",blank,ladylucas_20141028173800.jpg,2014-12-16 12:17:53.171000+00:00
+1140,"credit,MATTHEW D,WEINBERGER,1418732295----------------------------------------------------------------------------------------",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEMerry Christmas Collette! ",blank,ladylucas_20141028173800.jpg,2014-12-16 12:18:15.249000+00:00
+1141,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"May there be nothing but visions of candy and sugarplums this holiday season! NEWLINENEWLINEMerry Christmas Collette! ",blank,ladylucas_20141028173800.jpg,2014-12-16 12:18:20.259000+00:00
+1142,blank,blank,blank,blank,blank,2014-12-16 12:18:20.683000+00:00
+1143,blank,blank,blank,blank,blank,2014-12-16 12:18:20.783000+00:00
+1144,"Net Promoter value of 10,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 12:18:29.483000+00:00
+1145,"Email address box clicked,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 12:18:35.717000+00:00
+1146,"Email receipt sent: mattw476@gmail.com,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 12:19:03.256000+00:00
+1147,No prints in queue,blank,blank,blank,blank,2014-12-16 12:19:30.321000+00:00
+1148,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 12:19:45.343000+00:00
+1149,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 12:20:07.992000+00:00
+1150,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 12:20:09.657000+00:00
+1151,"Opened CoolFreeChristmasOrnaments-by-Freevectors.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:20:35.691000+00:00
+1152,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:20:37.233000+00:00
+1153,"Opened tinybee_20141121031210.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:20:55.496000+00:00
+1154,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:20:56.674000+00:00
+1155,"Opened tinybee_20141121031210.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:21:10.923000+00:00
+1156,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:21:11.929000+00:00
+1157,"Opened running.river_20141109035604.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:21:13.374000+00:00
+1158,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:21:25.464000+00:00
+1159,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:21:29.700000+00:00
+1160,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:21:29.871000+00:00
+1161,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:21:30.105000+00:00
+1162,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:21:30.860000+00:00
+1163,"Opened ladylucas_20141028173304.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:21:37.900000+00:00
+1164,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:21:41.263000+00:00
+1165,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:21:42.620000+00:00
+1166,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,You were sleeping with your gift all night.  how did you not find it?,blank,,2014-12-16 12:24:20.004000+00:00
+1167,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,You were sleeping with your gift all night.  how did you not find it?,blank,,2014-12-16 12:24:22.117000+00:00
+1168,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,You were sleeping with your gift all night.  how did you not find it?,blank,ladylucas_20141028173304.jpg,2014-12-16 12:24:38.534000+00:00
+1169,"credit,MATTHEW D,WEINBERGER,1418732685----------------------------------------------------------------------------------------",blank,You were sleeping with your gift all night.  how did you not find it?,blank,ladylucas_20141028173304.jpg,2014-12-16 12:24:44.535000+00:00
+1170,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,You were sleeping with your gift all night.  how did you not find it?,blank,ladylucas_20141028173304.jpg,2014-12-16 12:24:49.545000+00:00
+1171,blank,blank,blank,blank,blank,2014-12-16 12:24:49.942000+00:00
+1172,blank,blank,blank,blank,blank,2014-12-16 12:24:50.085000+00:00
+1173,No prints in queue,blank,blank,blank,blank,2014-12-16 12:25:57.652000+00:00
+1174,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 12:26:12.674000+00:00
+1175,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 12:27:04.299000+00:00
+1176,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 12:27:05.889000+00:00
+1177,"Opened katealbee_20141107205806.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:27:20.686000+00:00
+1178,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:27:20.991000+00:00
+1179,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:27:21.927000+00:00
+1180,"Opened WinterChristmasVectorIllustration-by-thevectorart.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:27:27.009000+00:00
+1181,"Inside button or suggested text clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:27:29.855000+00:00
+1182,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 12:27:30.995000+00:00
+1183,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,fatty stole your gift.  I would look in her room ,blank,,2014-12-16 12:29:41.208000+00:00
+1184,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,fatty stole your gift.  I would look in her room ,blank,,2014-12-16 12:29:41.748000+00:00
+1185,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,fatty stole your gift.  I would look in her room ,blank,,2014-12-16 12:29:42.618000+00:00
+1186,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,fatty stole your gift from under the tree.  I would look in her room ,blank,,2014-12-16 12:30:07.925000+00:00
+1187,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,fatty stole your gift from under the tree.  I would look in her room ,blank,,2014-12-16 12:30:08.741000+00:00
+1188,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,fatty stole your gift from under the tree!! I would look in her room ,blank,,2014-12-16 12:30:17.811000+00:00
+1189,"Text area clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"fatty stole your gift from under the tree!! Make her tell you where it isNEWLINENEWLINEsorry",blank,,2014-12-16 12:31:30.154000+00:00
+1190,"Front of card button clicked,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"fatty stole your gift from under the tree!! Make her tell you where it is because I don'tNEWLINENEWLINEsorry",blank,,2014-12-16 12:31:58.113000+00:00
+1191,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"fatty stole your gift from under the tree!! Make her tell you where it is because I don'tNEWLINENEWLINEsorry",blank,WinterChristmasVectorIllustration-by-thevectorart.jpg,2014-12-16 12:32:00.556000+00:00
+1192,"credit,MATTHEW D,WEINBERGER,1418733125----------------------------------------------------------------------------------------",blank,"fatty stole your gift from under the tree!! Make her tell you where it is because I don'tNEWLINENEWLINEsorry",blank,WinterChristmasVectorIllustration-by-thevectorart.jpg,2014-12-16 12:32:04.647000+00:00
+1193,"Card accepted,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,"fatty stole your gift from under the tree!! Make her tell you where it is because I don'tNEWLINENEWLINEsorry",blank,WinterChristmasVectorIllustration-by-thevectorart.jpg,2014-12-16 12:32:09.657000+00:00
+1194,blank,blank,blank,blank,blank,2014-12-16 12:32:10.621000+00:00
+1195,blank,blank,blank,blank,blank,2014-12-16 12:32:10.715000+00:00
+1196,No prints in queue,blank,blank,blank,blank,2014-12-16 12:33:34.281000+00:00
+1197,"Printing finished,URL=http://127.0.0.1:8000/kiosk/printing/",blank,,blank,,2014-12-16 12:33:49.333000+00:00
+1198,"Shop Holidays button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 13:35:11.207000+00:00
+1199,"Subcategory Christmas button,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 13:35:21.288000+00:00
+1200,"Opened katealbee_20141107210408.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 13:35:58.656000+00:00
+1201,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 13:36:04.268000+00:00
+1202,"Opened katealbee_20141107210218.jpg,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 13:36:21.413000+00:00
+1203,"Checkout button,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,katealbee_20141107210218.jpg,2014-12-16 13:36:29.063000+00:00
+1204,"X button used to close,URL=http://127.0.0.1:8000/kiosk/Christmas/",blank,,blank,,2014-12-16 13:36:42.273000+00:00
+1205,          Hourly restart,blank,blank,blank,blank,2014-12-16 13:42:35.477000+00:00
+1206,"Ad for Call to Action,URL=http://127.0.0.1:8000/kiosk/",blank,,blank,,2014-12-16 14:03:54.416000+00:00
+1207,"Opened AllieKelley1.jpg,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:04:04.539000+00:00
+1208,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:02.155000+00:00
+1209,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:03.786000+00:00
+1210,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:04.614000+00:00
+1211,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:04.853000+00:00
+1212,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:05.044000+00:00
+1213,"Front of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:05.246000+00:00
+1214,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:05.433000+00:00
+1215,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:05.617000+00:00
+1216,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:05.837000+00:00
+1217,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:06.019000+00:00
+1218,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:06.213000+00:00
+1219,"Right inside of card clicked,URL=http://127.0.0.1:8000/kiosk/Everything/",blank,,blank,,2014-12-16 14:09:06.416000+00:00
+1220,          Hourly restart,blank,blank,blank,blank,2014-12-16 14:14:57.432000+00:00
