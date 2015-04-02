@@ -68,7 +68,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'CA'
+TIME_ZONE = 'UTC'
 #Note that 'CA' is listed as the TZ database Time Zones at this site: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones [-5:00 UTC offset]
 
 USE_I18N = True

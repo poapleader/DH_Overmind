@@ -1,4 +1,5 @@
 {% load staticfiles %}
+{% load tz %}
 
 <link rel="stylesheet" type="text/css" href="{% static 'hardware/style.css' %}" />
 
@@ -6,18 +7,63 @@
 <body>
 
 <div id="header">
-<h1>Card Isle Kiosk Dashboard</h1>
-<h2>Total Kiosks={{ number_launched_kiosks }}  &nbsp&nbsp #Active Kiosks={{number_active_kiosks}}  &nbsp&nbsp #Idle Kiosks={{number_idle_kiosks}}</h2>
+    <h1>Card Isle Kiosk Dashboard</h1>
+    <div id="alert">
+        <h2>Total Kiosks={{ total_number_kiosks }} &nbsp&nbsp #Active Kiosks=  &nbsp&nbsp #Idle Kiosks=</h2>
+    </div>
+
+    <div id="alert">
+        <h3>Last Interaction Summary:  Kiosk#={{last_interaction.kiosk}} &nbsp&nbsp Time:{% localtime on %}{{last_interaction.time_stamp}}{% endlocaltime %}</h3>
+    </div>
 </div>
 
-{% if kiosk_location_list %}
+<div id="printQue">
+    <h1> Printing Feed </h1>
+        {% if statuses %}
+            {% for box in statuses %}
+                <div id="printStatus">
+                    <p>
+                        TimeStamp:{{box.updated}} <br>
+                        Printer ID: {{box.printer}} <br>
+                        Was the Card Printed: {{box.card_printed}} <br>
+                        Printer Error Code: {{box.printer_status}} <br>
+                        Ink Level Estimation: {{box.low_ink_level}} <br>
+                    </p>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p>No Printer Statuses are available.</p>
+        {% endif %}
+</div>
+
+<div id="kioskFeed">
+    <h1> Kiosk Statuses </h1>
+        {% if kiosks %}
+            {% for box in kiosks %}
+                <div id="kioskStatus">
+                    Kiosk Number:{{box.descriptor}} &nbsp&nbsp
+                    Printer 1 Stock: {{box.printers.0}} &nbsp&nbsp
+                    Printer 2 Stock: {{box.printers.1}}
+                    <a href="/hardware/{{ box.id }}">Interaction Details</a>
+                 </div>
+            {% endfor %}
+        {% else %}
+            <p>No Printer Statuses are available.</p>
+        {% endif %}
+
+
+</div>
+
+
+<!--
+{% if kiosks %}
     <ul>
-    {% for kiosk in kiosk_location_list %}
-        <div class="kiosks">
+    {% for box in kiosks %}
+        <div class="alert">
         	<p>
-        		<a href="/hardware/{{ kiosk.id }}/">{{ kiosk.kiosk_name }}</a>
+        		{{ kiosks.desciptor }}
                 <br>
-        		Current Location = {{ kiosk.current_location }}
+        		Current Location = {{ kiosks.location }}
                 <br>
                 Status = {{ kiosk.kiosk_status }}
         		<img src="{% static "hardware/images/kiosk.gif" %}" alt="Kiosk Pic" style="height:50px;float:right">
@@ -25,14 +71,14 @@
                 Inventory Levels:
                 <br>
                 Top Printer = {{kiosk.top_printer.current_cardstock}} Bottom Printer = {{kiosk.bottom_printer.current_cardstock}} White Envelopes = {{kiosk.current_white_envelopes}} Brown Envelopes = {{kiosk.current_brown_envelopes}}
-        	</p>	
+        	</p>
         </div>
     {% endfor %}
     </ul>
 {% else %}
     <p>No Kiosks are available.</p>
 {% endif %}
-
+-->
 <div id="footer">
 Copyright © cardisle.com
 </div>

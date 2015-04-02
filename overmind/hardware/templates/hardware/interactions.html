@@ -1,0 +1,40 @@
+{% load staticfiles %}
+{% load tz %}
+<link rel="stylesheet" type="text/css" href="{% static 'hardware/style.css' %}" />
+
+<body>
+
+<div id="header">
+    <h1>Card Isle Interaction Dashboard for Kiosk:{{kiosk_id}}</h1>
+</div>
+
+<div id="visitFeed">
+    {% if visit_list %}
+        {% for visit in visit_list %}
+            <div id="visitDetail">
+                <!--Output Relevant Header Info for Each Interaction -->
+                <h3>
+                    Date: {{ visit.visit_date }} <br>
+                    # Interactions: {{ visit.interactions_count}}
+                </h3>
+
+                {% for interaction in visit.interactions_list %}
+                    <div id="interactionDetail"
+                        <p>
+                            ID: {{interaction.id}} &nbsp&nbsp Time: {{ interaction.time_stamp }} &nbsp&nbsp Delta: {{interaction.visit.time_delta}}<br>
+                            Last Click: {{ interaction.last_click }} <br>
+                        </p>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>No interactions are available.</p>
+    {% endif %}
+</div>
+
+<div id="footer">
+Copyright © cardisle.com
+</div>
+
+</body>
